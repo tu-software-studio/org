@@ -1,0 +1,11 @@
+* Logging Time
+
+#+BEGIN_SRC org
+  ,#+TITLE: Tom's Time Log
+  ,#+AUTHOR: Tom Nurkkala
+  ,#+DATE: Spring 2014
+  ,#+STARTUP: content indent logdrawer lognoteclock-out lognotedone
+  ,#+COLUMNS: %41ITEM %5TODO %TAGS %CLOCKSUM
+  ,#+PROPERTY: LOG_INTO_DRAWER t
+#+END_SRC
+
