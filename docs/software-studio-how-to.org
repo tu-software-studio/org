@@ -1,10 +1,15 @@
 #+TITLE: Software Studio How To
 #+AUTHOR: Tom Nurkkala
 #+DATE: February 2014
-#+OPTIONS: toc:nil ':t
+#+OPTIONS: ':t toc:nil
 #+STARTUP: indent
 
-* Learn about Emacs
+* Bash
+The more you know about the interactive shell,
+the better will be your Unix experience.
+Find the source and documentation for bash at http://www.gnu.org/software/bash/.
+It's documentation is at http://www.gnu.org/software/bash/manual/.
+* Emacs
 
 The home page for emacs is http://www.gnu.org/software/emacs/.
 Documentation on the web is at http://www.gnu.org/software/emacs/#Manuals,
@@ -15,7 +20,7 @@ look at http://www.gnu.org/software/emacs/manual/emacs.html.
 All manner of extremely useful emacs-related information is
 on the emacswiki at http://www.emacswiki.org/.
 
-* Learn about Org Mode
+* Org Mode
 
 Org mode's home is http://orgmode.org/.
 Both HTML and PDF versions of the documentation are on that same page.
@@ -40,16 +45,90 @@ is http://doc.norang.ca/org-mode.html.
    only =org-mode= "source" document should be under revision control.
    The other files can be created easily on demand.
 
-* Learn about Git
+* Git
 
 You need to know Git.
 Git lives at http://git-scm.com/.
 Complete documentation and videos about git
 are available at http://git-scm.com/documentation.
 
-* Learn about Ubuntu
+* Ubuntu
 
 Complete documentation for Ubuntu is located at https://help.ubuntu.com/.
 As of this writing, we are using the /Saucy Salamander/ release (version 13.10),
 whose documentation is at https://help.ubuntu.com/13.10/index.html.
 
+* Django
+Django lives at https://www.djangoproject.com/
+and is documented at https://docs.djangoproject.com/.
+Links to the Django tutorial appear at the top of the documentaiton
+page under the heading "First Steps."
+** Best Practices
+Some of these best practices are my own,
+but others are based on the recommendations of the folks
+at [[http://twoscoopspress.org/][Two Scoops press]] and their great book, /Two Scoops of Django/.
+*** Use virtual environments
+Always use a Python virtual environment,
+which allows you to install exactly the packages you need for a given project.
+Find the virtual environment package at http://www.virtualenv.org/en/latest/.
+The goodness is even better if you also use the virtual environment wrapper,
+found at http://virtualenvwrapper.readthedocs.org/en/latest/install.html.
+You can install both these packages on your Ubuntu server with
+: sudo apt-get install virtualenvwrapper
+*** Settings Files
+Use multiple settings files stored in a =settings= directory as follows.
+| File            | Purpose                              |
+|-----------------+--------------------------------------|
+| =base.py=       | Common settings                      |
+| =local.py=      | Local development work               |
+| =test.py=       | Running tests                        |
+| =ci.py=         | Continuous integration               |
+| =staging.py=    | Staging version on production server |
+| =production.py= | Live production                      |
+To run Django, use the =--settings= flag to choose the proper settings file.
+For example
+: python manage.py runserver --settings=myproject.settings.local
+If this gets tedious to type,
+you can also set the DJANGO_SETTINGS_MODULE environment variable in your shell.
+For example:
+: export DJANGO_SETTINGS_MODULE=faraday.settings.local
+If you are (as you should be) using Python virtual environments
+with =virtualenvwrapper=,
+you can include this statement in the =postactivate= script
+of the virtual environment.
+Find this script at
+: ~/.virtualenvs/myproject/bin/postactivate
+It is run just after =workon= activates the virtual environment.
+
+Using =postactivate= is simpler than setting the variable in your =.bashrc= file
+because it makes it easier to switch projects using =workon=.
+*** Use Shortcuts
+Don't manually construct objects like
+=HttpResponse= or =HttpResponseRedirect=.
+Instead use /shortcut/ functions from the =django.shortcuts= package,
+particularly =render= and =redirect=.
+*** Never Use Explicit URLs
+Your URL config file (=urls.py=) should be the /only/ place where literal URLs appear.
+Littering URLs elsewhere makes it /very/ hard to modify the space of URLs
+used by your application
+(e.g., when it's time to do SEO---search engine optimization).
+By contrast, if your URLs are all in the URL config file,
+changing the URL layout is trivial.
+
+In your templates, /always/ use the ={% url %}= tag.
+Doing so is often simplified if you use the =name= option
+for all the URLs in your URL conf file.
+Example from the documentation:
+#+BEGIN_SRC python
+urlpatterns = patterns('',
+    url(r'^archive/(\d{4})/$', archive,
+        name="full-archive"),
+    url(r'^archive-summary/(\d{4})/$', archive,
+        {'summary': True}, name="arch-summary"),
+)
+#+END_SRC
+
+In your code, use functions in the =django.core.urlresolvers= library.
+The =reverse= function, for example,
+provides functionality similar to that of the ={% url %}= tag,
+but in your Python.
