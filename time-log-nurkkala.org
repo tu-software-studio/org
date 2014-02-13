@@ -1,0 +1,90 @@
+#+TITLE: Tom's Time Log
+#+AUTHOR: Tom Nurkkala
+#+DATE: Spring 2014
+#+STARTUP: content indent logdrawer lognoteclock-out lognotedone
+#+COLUMNS: %41ITEM %5TODO %TAGS %CLOCKSUM
+#+PROPERTY: LOG_INTO_DRAWER t
+
+* Missions Computing Lab Setup                                          :tom:
+Get the lab ready for students to use on the WebSurv project.
+** DONE Install Open Stack on one of the server machines
+CLOSED: [2014-02-12 Wed 16:25] SCHEDULED: <2014-02-08 Sat>
+- CLOSING NOTE [2014-02-12 Wed 16:25] \\
+  Successfully installed the development version of Open Stack (=devstack=).  This is
+  going to be a ton of work to administer. Need to find another solution that will get
+  students going /this week/.
+CLOCK: [2014-02-08 Sat 10:00]--[2014-02-08 Sat 16:25] =>  6:25
+** TODO Verify that the Linux images on the lab machines work
+SCHEDULED: <2014-02-10 Mon>
+DEADLINE: <2014-02-11 Tue>
+
+* Software Studio Develoment Process                                    :tom:
+** TODO Establish guidlines for time reporting
+:LOGBOOK:
+CLOCK: [2014-02-12 Wed 17:37]--[2014-02-12 Wed 17:40] =>  0:03
+CLOCK: [2014-02-12 Wed 17:17]--[2014-02-12 Wed 17:36] =>  0:19
+- Read about clocktable syntax and tried various options
+- Read about the =CATEGORY= property and its impact on agenda view
+CLOCK: [2014-02-12 Wed 16:41]--[2014-02-12 Wed 16:53] =>  0:12
+- Added additional settings to the =STARTUP= property.
+CLOCK: [2014-02-12 Wed 16:05]--[2014-02-12 Wed 16:29] =>  0:24
+- Got started on this file.
+:END:
+** DONE Identify a way to split out time reports by student
+CLOSED: [2014-02-12 Wed 19:57]
+:LOGBOOK:
+- CLOSING NOTE [2014-02-12 Wed 19:57] \\
+  Can use tags to split out by student. Use the ':tags' option in the clock table to focus
+  on just a single student.
+CLOCK: [2014-02-12 Wed 19:56]--[2014-02-12 Wed 19:56] =>  0:00
+- Can use tags.
+CLOCK: [2014-02-12 Wed 17:40]--[2014-02-12 Wed 17:41] =>  0:01
+:END:
+*** Try using tags
+:LOGBOOK:
+CLOCK: [2014-02-12 Wed 17:41]--[2014-02-12 Wed 17:55] =>  0:14
+- Have to make sure the file is included in the agenda file list.
+:END:
+
+
+* Important stuff by Annie                                            :annie:
+:LOGBOOK:
+CLOCK: [2014-02-11 Tue 17:40]--[2014-02-11 Tue 18:05] =>  0:25
+:END:
+
+* Important stuff by Bill                                              :bill:
+:LOGBOOK:
+CLOCK: [2014-02-11 Tue 17:40]--[2014-02-12 Wed 19:56] => 26:16
+:END:
+
+* Reports
+#+BEGIN: clocktable :maxlevel 2 :scope file :tags "annie"
+#+CAPTION: Clock summary at [2014-02-12 Wed 19:55]
+| Headline                 | Time   |
+|--------------------------+--------|
+| *Total time*             | *0:25* |
+|--------------------------+--------|
+| Important stuff by Annie | 0:25   |
+#+END:
+
+#+BEGIN: clocktable :maxlevel 2 :scope file :tags "bill"
+#+CAPTION: Clock summary at [2014-02-12 Wed 20:01]
+| Headline                | Time      |
+|-------------------------+-----------|
+| *Total time*            | *1d 2:16* |
+|-------------------------+-----------|
+| Important stuff by Bill | 1d 2:16   |
+#+END:
+
+#+BEGIN: clocktable :maxlevel 2 :scope file :tags "tom"
+#+CAPTION: Clock summary at [2014-02-12 Wed 19:59]
+| Headline                                     |   Time |      |
+|----------------------------------------------+--------+------|
+| *Total time*                                 | *7:38* |      |
+|----------------------------------------------+--------+------|
+| Missions Computing Lab Setup                 |   6:25 |      |
+| \__ DONE Install Open Stack on one of the... |        | 6:25 |
+| Software Studio Develoment Process           |   1:13 |      |
+| \__ Establish guidlines for time reporting   |        | 0:58 |
+| \__ DONE Identify a way to split out time... |        | 0:15 |
+#+END:
