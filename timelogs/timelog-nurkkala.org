@@ -2,8 +2,8 @@
 #+AUTHOR: Tom Nurkkala
 #+DATE: Spring 2014
 #+STARTUP: content indent logdrawer lognoteclock-out lognotedone
+
 #+COLUMNS: %41ITEM %5TODO %TAGS %CLOCKSUM
-#+PROPERTY: LOG_INTO_DRAWER t
 
 * Missions Computing Lab Setup                                          :tom:
 Get the lab ready for students to use on the WebSurv project.
@@ -13,14 +13,25 @@ CLOSED: [2014-02-12 Wed 16:25] SCHEDULED: <2014-02-08 Sat>
   Successfully installed the development version of Open Stack (=devstack=).  This is
   going to be a ton of work to administer. Need to find another solution that will get
   students going /this week/.
+:LOGBOOK:
 CLOCK: [2014-02-08 Sat 10:00]--[2014-02-08 Sat 16:25] =>  6:25
-** TODO Verify that the Linux images on the lab machines work
-SCHEDULED: <2014-02-10 Mon>
+:END:
+** DONE Verify that the Linux images on the lab machines work
+CLOSED: [2014-02-12 Wed 22:05] SCHEDULED: <2014-02-10 Mon>
+:LOGBOOK:
+- CLOSING NOTE [2014-02-12 Wed 22:05] \\
+  Yep -- they work. After a bunch of monkeying around with the sys admin folks.
+:END:
 DEADLINE: <2014-02-11 Tue>
 
 * Software Studio Develoment Process                                    :tom:
-** TODO Establish guidlines for time reporting
+** DONE Establish guidlines for time reporting
+CLOSED: [2014-02-12 Wed 22:05]
 :LOGBOOK:
+- CLOSING NOTE [2014-02-12 Wed 22:05] \\
+  Complete initial version of guidelines and pushed to the repository.
+CLOCK: [2014-02-12 Wed 08:30]--[2014-02-12 Wed 22:04] => 13:34
+- Completed initial version of time logging guidelines.
 CLOCK: [2014-02-12 Wed 17:37]--[2014-02-12 Wed 17:40] =>  0:03
 CLOCK: [2014-02-12 Wed 17:17]--[2014-02-12 Wed 17:36] =>  0:19
 - Read about clocktable syntax and tried various options

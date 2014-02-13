@@ -1,11 +1,142 @@
-* Logging Time
+#+TITLE: Software Studio Time Logging
+#+AUTHOR: Tom Nurkkala
+#+DATE: February 2014
+#+OPTIONS: toc:nil ':t
+#+STARTUP: indent
 
-#+BEGIN_SRC org
-  ,#+TITLE: Tom's Time Log
-  ,#+AUTHOR: Tom Nurkkala
-  ,#+DATE: Spring 2014
-  ,#+STARTUP: content indent logdrawer lognoteclock-out lognotedone
-  ,#+COLUMNS: %41ITEM %5TODO %TAGS %CLOCKSUM
-  ,#+PROPERTY: LOG_INTO_DRAWER t
-#+END_SRC
+#+LATEX_HEADER: \usepackage{booktabs}
+
+#+BEGIN_ABSTRACT
+We are experimenting with the use of Emacs Org mode
+for project organization and time logging.
+This document describes our standards for time logging.
+#+END_ABSTRACT
+
+* Create Your Time Log
+
+Following the convention of existing time log files in the repository,
+create a time log file named =timelog-<your name>.org=.
+Add the following preamble to your time log file, suitably customized.
+Try to avoid the word /awesome/.
+
+#+NAME: preamble
+#+BEGIN_EXAMPLE
+#+TITLE: Tom's Time Log
+#+AUTHOR: Tom Nurkkala
+#+DATE: Spring 2014
+#+STARTUP: content indent logdrawer lognoteclock-out lognotedone
+#+END_EXAMPLE
+
+The =TITLE=, =AUTHOR=, and =DATE= fields are self explanitory.
+The function of the =STARTUP= parameters are as follows.
++ content :: Show the content of headlines when opening the file
++ indent :: Enable =org-indent-mode= for a better looking display
++ logdrawer :: Store log messages in a /drawer/ called =LOGBOOK=.
+  This setting keeps the file less cluttered when drawers are collapsed.
++ lognoteclock-out :: Ask for a note when you "clock out"
++ lognotedone :: Ask for a note when you mark a TODO item as =DONE=
+
+* Add Your Time Log to Revision Control
+
+Add your time log file to revision control
+in the =timelog= directory of the =tu-software-studio/org= repository.
+Commit your changes.
+
+My expectation is that whenever you're doing Software Studio work,
+you'll be using your time log to track what you're working on.
+After a work session, please commit your changes to your time log
+and push the change to the repository.
+
+* Organize Your Time Log
+
+You are free to organize your time log file as you see fit,
+subject to a few guidelines.
+In particular, you're encouraged to use it to keep project notes,
+note down TODO items that you want to remember to take care of,
+avail yourself of the outlining capability of Org mode, and so forth.
+
+Please collect together tasks on which you're working in coherent
+sections of the document. You might:
++ Create a single top-level headline for all project work,
+  organized under second-level headlines.
++ Create multiple top-level headlines for larger chunks of work.
++ Organize work by Scrum iteration, either as multiple top-level headlines
+  or under a single top-level headline.
+Go ahead and try various organizations and find out what works for you.
+Over time, we'll develop best practices in this area.
+
+Because of the flexibility of Org mode,
+don't feel constrained by the way you structure these data.
+Feel free to create additional levels of headlines,
+ordered lists, un-ordered lists, and check boxes if you feel these would be helpful.
+
+Within these broad guidelines, please adhere to the following standards.
+Refer to my sample time log in the repository for concrete examples.
+
+** Tag your tasks
+
+Org mode can generate very nice summary reports of time spent on TODO items.
+In order to make it easy to split out hours by each member of the team,
+please [[http://orgmode.org/org.html#Tags][tag]] with your name those headlines of your time log
+that contain project time information.
+Note that tags on a headline are /inherited/ by all subordinate headlines,
+so you only need to tag the top-most headline of a section containing time information.
+
+** Use TODO Items
+
+For any non-trivial task, [[http://orgmode.org/org.html#TODO-Items][use a TODO item]] in your time log.
+Such items will help you keep track of your work,
+help me know what's complete and what isn't in a given iteration.
+When you complete the task, change its state to =DONE=.
+At some point, we may add custom TODO states to indicate work in progress,
+being reviewed, and so forth.
+
+The [[preamble][standard settings]] in your time log file ask you to add a note
+to the task when you mark it as =DONE=.
+Please add a meaningful note.
+
+** Clock Your Work Time
+
+Whenever you're doing Software Studio work,
+please [[http://orgmode.org/org.html#Clocking-work-time][clock your time]].
+There are (at least) two reasons for this:
+1. Its how you demonstrate that you're satisfying the time requirement for the course.
+2. These data will help you better understand your work habits;
+   especially about how long it /really/ takes you to accomplish
+   various types of tasks.
+   This knowledge will help you become better at estimating
+   the duration of tasks.
+
+As with TODO items, the [[preamble][standard settings]] configure Org mode to ask you
+for a brief note when you clock out.
+Please take the time to add a short but meaningful note.
+Doing so will give you the data you need to mature as a software developer
+who reflects on past productivity, achievements, and challenges.
+
+Remember both to /clock in/ when you begin working
+and to /clock out/ when you're done working.
+If you switch to a diffeent task during a work session,
+remember to clock out of the old task and clock in to the new one
+in order to keep your timing accurate.
+
+* Key Bindings Related to Time Logging
+
+This table summarizes Org mode key bindings
+related to time logging for Software Studio.
+
+#+ATTR_LATEX: :booktabs t
+|---------------+---------------------------------|
+| Binding       | Meaning                         |
+|---------------+---------------------------------|
+| =C-c C-q=     | Set a tag                       |
+|---------------+---------------------------------|
+| =S-M-<RET>=   | Insert a TODO item              |
+| =C-c C-t=     | Rotate the state of a TODO item |
+|---------------+---------------------------------|
+| =C-c C-x C-i= | Clock in on the current task    |
+| =C-c C-x C-o= | Clock out                       |
+|---------------+---------------------------------|
+
+
+
 

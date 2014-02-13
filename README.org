@@ -3,5 +3,5 @@ University Software Studio.
 
 | Directory | Content           |
 |-----------+-------------------|
-| docs      | Documentation     |
-| timelog   | Student time logs |
+| [[./docs][docs]]      | Documentation     |
+| [[./timelogs][timelogs]]  | Student time logs |

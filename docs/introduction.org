@@ -1,0 +1,18 @@
+#+TITLE: Software Studio
+#+AUTHOR: Tom Nurkkala
+#+DATE: February 2014
+#+OPTIONS: toc:nil ':t
+
+* Formatting and Org-Mode Document as a PDF
+
+  You can produce an attractive PDF version of any =org-mode= document
+  by loading the =.org= file into Emacs and using the command
+  =C-c C-e l p=, which will:
+  1. Export the =org= file as a \LaTeX{} document
+  2. Format the document using the \LaTeX{} processor
+  3. Display the resulting PDF
+
+  Please don't commit \LaTeX{} or PDF documents to the repository;
+  only =org-mode= "source" document should be under revision control.
+  The other files can be created easily on demand.
+
