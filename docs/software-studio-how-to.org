@@ -1,0 +1,55 @@
+#+TITLE: Software Studio How To
+#+AUTHOR: Tom Nurkkala
+#+DATE: February 2014
+#+OPTIONS: toc:nil ':t
+#+STARTUP: indent
+
+* Learn about Emacs
+
+The home page for emacs is http://www.gnu.org/software/emacs/.
+Documentation on the web is at http://www.gnu.org/software/emacs/#Manuals,
+but you can also read it from right wihin emacs.
+If you want to download a PDF,
+look at http://www.gnu.org/software/emacs/manual/emacs.html.
+
+All manner of extremely useful emacs-related information is
+on the emacswiki at http://www.emacswiki.org/.
+
+* Learn about Org Mode
+
+Org mode's home is http://orgmode.org/.
+Both HTML and PDF versions of the documentation are on that same page.
+/Worg/, a collection of documentation by the Org community
+is at http://orgmode.org/worg/.
+
+Especially useful is the listing of Org tutorials at
+http://orgmode.org/worg/org-tutorials/index.html.
+An /extensive/ and inspiring introduction about using Org for all kinds of stuff
+is http://doc.norang.ca/org-mode.html.
+
+** Format an Org-Mode Document as a PDF
+
+   You can produce an attractive PDF version of any =org-mode= document
+   by loading the =.org= file into Emacs and using the command
+   =C-c C-e l p=, which will:
+   1. Export the =org= file as a \LaTeX{} document
+   2. Format the document using the \LaTeX{} processor
+   3. Display the resulting PDF
+
+   Please don't commit \LaTeX{} or PDF documents to the repository;
+   only =org-mode= "source" document should be under revision control.
+   The other files can be created easily on demand.
+
+* Learn about Git
+
+You need to know Git.
+Git lives at http://git-scm.com/.
+Complete documentation and videos about git
+are available at http://git-scm.com/documentation.
+
+* Learn about Ubuntu
+
+Complete documentation for Ubuntu is located at https://help.ubuntu.com/.
+As of this writing, we are using the /Saucy Salamander/ release (version 13.10),
+whose documentation is at https://help.ubuntu.com/13.10/index.html.
+
