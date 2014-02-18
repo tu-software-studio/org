@@ -3,22 +3,43 @@
 #+DATE: Spring 2014
 #+STARTUP: content indent logdrawer lognoteclock-out lognotedone
 
-* SPRING 2014 SOFTWARE STUDIO III HOURS
+* SPRING 2014 SOFTWARE STUDIO III LOG
 ** WEEK 1 (2/11/14 - 2/17/14)
 *** Ditching eVIl and learning emacs :dustin:
-Learning emacs commands and life without vim
-:LOGBOOK:
-:CLOCK: [2014-02-12 Wed 08:00] -- [2014-02-12 Wed 09:00] => 1:00
-:END:
+CLOCK: [2014-02-17 Mon 20:34]--[2014-02-17 Mon 20:43] =>  0:09
+- did it
+Learning emacs commands and life without vim. Confession: Still installed vim 
+on virtualbox anyway.
+*** Read about Django-rest and angularjs :dustin:
+Read and watched a tutorial on django-rest at this link:
+blog.kevinastone.com/getting-started-with-django-rest-framework-and-angularjs.html
+*** Re-read git documentation. :dustin:
+Learned how to make, merge, and delete branches
+and why branches are important. I don't miss svn.
+
+
 ** WEEK 2 (2/18/14 - 2/24/14)
+
 ** WEEK 3 (2/25/14 - 3/3/14)
+
 ** WEEK 4 (3/4/14 - 3/10/14)
+
 ** WEEK 5 (3/11/14 - 3/17/14)
+
 ** WEEK 6 (3/18/14 - 3/24/14)
+
 ** WEEK 7 (3/25/14 - 3/31/14)
+
 ** WEEK 8 (4/1/14 - 4/7/14)
+
 ** WEEK 9 (4/8/14 - 4/14/14) 
+
 ** WEEK 10 (4/15/14 - 4/21/14)
+
 ** WEEK 11 (4/22/14 - 4/28/14)
+
 ** WEEK 12 (4/29/14 - 5/5/14)
+
 ** WEEK 13 (5/6/14 - 5/12/14)
+
+* Dustin's Reports
