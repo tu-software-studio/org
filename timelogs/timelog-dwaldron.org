@@ -1,0 +1,4 @@
+#+TITLE: Dustin's Time Log
+#+AUTHOR: Dustin Waldron
+#+DATE: Spring 2014
+#+STARTUP: content indent logdrawer lognoteclock-out lognotedone
