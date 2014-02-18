@@ -1,5 +1,7 @@
 
 * Learning how to make this org stuff work
-  CLOCK: [2014-02-16 Sun 21:52]
+  CLOCK: [2014-02-16 Sun 21:52]--[2014-02-17 Mon 01:12] =>  3:20
 ** TODO Reviewing commmands
+* Class
+  CLOCK: [2014-02-18 Tue 14:38]
 
