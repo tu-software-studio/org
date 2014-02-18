@@ -1,0 +1,5 @@
+
+* Learning how to make this org stuff work
+  CLOCK: [2014-02-16 Sun 21:52]
+** TODO Reviewing commmands
+
