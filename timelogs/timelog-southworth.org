@@ -1,7 +1,38 @@
+#+NAME: Justin's Time Log
+#+AUTHOR: Justin Southworth
+#+DATE: Spring 2014
+#+STARTUP: content indent logdrawer lognoteclock-out lognotedone
 
-* Learning how to make this org stuff work
+* Pre week 1 (2-18)
+** Learning how to make this org stuff work
   CLOCK: [2014-02-16 Sun 21:52]--[2014-02-17 Mon 01:12] =>  3:20
-** TODO Reviewing commmands
-* Class
-  CLOCK: [2014-02-18 Tue 14:38]
+** Didn't clock correctly because of machine crashes. Which were due to having no space on my X-drive.
+** DONE Reviewing org mode commands
+   CLOSED: [2014-02-18 Tue 15:22]
+   - CLOSING NOTE [2014-02-18 Tue 15:22] \\
+     Probably will still need some work, but good enough for now.
 
+* Week 1 (2-18 -- 2-25)
+CLOCK: [2014-02-18 Tue 15:52]--[2014-02-18 Tue 15:53] =>  0:01
+- Umm...
+** TODO Correcting and editing org file 		  :class:tuesday:org:
+CLOCK: [2014-02-18 Tue 15:53]
+  CLOCK: [2014-02-18 Tue 14:38]--[2014-02-18 Tue 15:52] =>  1:14
+  - Class
+:PROPERTIES:
+:ORDERED: t
+:END:
+** DONE Test TODO
+CLOSED: [2014-02-18 Tue 15:50]
+:PROPERTIES:
+:ORDERED: t
+:END:
+
+- CLOSING NOTE [2014-02-18 Tue 15:50] \\
+  take 3?
+
+- CLOSING NOTE [2014-02-18 Tue 15:48] \\
+  In progress??
+
+   - CLOSING NOTE [2014-02-18 Tue 15:48] \\
+     started work
