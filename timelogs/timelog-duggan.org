@@ -1,0 +1,24 @@
+#+TITLE: Ben's Time Log
+#+AUTHOR: Ben Duggan
+#+DATE: Spring 2014
+#+STARTUP: content indent logdrawer lognoteclock-out lognotedone
+
+
+*** DONE figure out how to clock in and out and other emacs stuff.
+CLOSED: [2014-02-16 Sun 15:42]
+- CLOSING NOTE [2014-02-16 Sun 15:42] \\
+  I think I'm good with logging time
+CLOCK: [2014-02-16 Sun 15:42]--[2014-02-16 Sun 15:42] =>  0:00
+CLOCK: [2014-02-16 Sun 15:24]--[2014-02-16 Sun 15:42] =>  0:18
+- Read up on documentation about clocking and logging things
+*** TODO Class time for the week of the 16th
+CLOCK: [2014-02-18 Tue 13:29]--[2014-02-18 Tue 13:37] =>  0:08
+- Have to log out for changing settings
+*** TODO Read and walkthrough Django Tutorial
+CLOCK: [2014-02-16 Sun 23:09]--[2014-02-16 Sun 23:50] =>  0:41
+- Just more tutorial stuff
+CLOCK: [2014-02-16 Sun 21:15]--[2014-02-16 Sun 21:54] =>  0:39
+- Continued to work through the tutorial on the Django site
+CLOCK: [2014-02-16 Sun 15:53]--[2014-02-16 Sun 16:03] =>  0:10
+- started the tutorial
+*** TODO setup git on my VM and look at some documentation
