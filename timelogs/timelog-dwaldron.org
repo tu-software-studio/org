@@ -3,7 +3,7 @@
 #+DATE: Spring 2014
 #+STARTUP: content indent logdrawer lognoteclock-out lognotedone
 
-*SPRING 2014 SOFTWARE STUDIO III HOURS
+* SPRING 2014 SOFTWARE STUDIO III HOURS
 ** WEEK 1 (2/11/14 - 2/17/14) 
 ** WEEK 2 (2/18/14 - 2/24/14)
 ** WEEK 3 (2/25/14 - 3/3/14)
