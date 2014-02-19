@@ -115,7 +115,7 @@ who reflects on past productivity, achievements, and challenges.
 
 Remember both to /clock in/ when you begin working
 and to /clock out/ when you're done working.
-If you switch to a diffeent task during a work session,
+If you switch to a different task during a work session,
 remember to clock out of the old task and clock in to the new one
 in order to keep your timing accurate.
 

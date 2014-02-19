@@ -4,21 +4,31 @@
 #+STARTUP: content indent logdrawer lognoteclock-out lognotedone
 
 
-*** DONE figure out how to clock in and out and other emacs stuff.
+* WebSurv
+** DONE figure out how to clock in and out and other emacs stuff.  :bduggan:
 CLOSED: [2014-02-16 Sun 15:42]
 - CLOSING NOTE [2014-02-16 Sun 15:42] \\
   I think I'm good with logging time
 CLOCK: [2014-02-16 Sun 15:42]--[2014-02-16 Sun 15:42] =>  0:00
 CLOCK: [2014-02-16 Sun 15:24]--[2014-02-16 Sun 15:42] =>  0:18
 - Read up on documentation about clocking and logging things
-*** TODO Class time for the week of the 16th
-CLOCK: [2014-02-18 Tue 13:29]--[2014-02-18 Tue 13:37] =>  0:08
+** TODO Class time for the week of the 16th                        :bduggan:
+CLOCK: [2014-02-18 Tue 13:42]--[2014-02-18 Tue 15:49] =>  2:07
+- done with class time for the 18th of February
+CLOCK: [2014-02-18 Tue 13:30]--[2014-02-18 Tue 13:38] =>  0:08
 - Have to log out for changing settings
-*** TODO Read and walkthrough Django Tutorial
+** TODO Read and walkthrough Django Tutorial                       :bduggan:
 CLOCK: [2014-02-16 Sun 23:09]--[2014-02-16 Sun 23:50] =>  0:41
 - Just more tutorial stuff
 CLOCK: [2014-02-16 Sun 21:15]--[2014-02-16 Sun 21:54] =>  0:39
 - Continued to work through the tutorial on the Django site
 CLOCK: [2014-02-16 Sun 15:53]--[2014-02-16 Sun 16:03] =>  0:10
 - started the tutorial
-*** TODO setup git on my VM and look at some documentation
+** DONE setup git on my VM and look at some documentation[100%]    :bduggan:
+CLOSED: [2014-02-18 Tue 15:17]
+- CLOSING NOTE [2014-02-18 Tue 15:17] \\
+  set all of this up! I like git. Git is nice.
+- [X] clone timelogging repo
+- [X] clone websurv repo
+- [X] add timelog to git
+- [X] push it to repo!
