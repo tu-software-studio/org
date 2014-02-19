@@ -32,8 +32,26 @@ http://orgmode.org/worg/org-tutorials/index.html.
 An /extensive/ and inspiring introduction about using Org for all kinds of stuff
 is http://doc.norang.ca/org-mode.html.
 
+** Upgrade Org mode from ELPA
+It appears that the problem in which org-mode doesn't insert clock information is due to
+the version of org-mode distributed with Ubuntu being out of date. You can install the
+latest-and-greatest version using the emacs package manager as follows:
+1. Start a fresh emacs session. Do not open an org-mode file. There is apparently
+   something goofy about the way the package installer interacts with emacs when you've
+   already done org-related actions (mentioned on the web as the "famous ELPA installation
+   bug").
+2. Open the package manager with =M-x package-list-packages= (note that you can use tab
+   completion for the command name)
+3. In the *Packages* buffer, scroll down to the 'org' package (=C-v=), or use incremental
+   search (=C-s org=).
+4. While point is on the org entry, hit =i= to mark org to be installed (shows =I= in
+   margin)
+5. Type =x= to initiate installation, and answer =yes=.
+6. Emacs will download the package and compile it; eventually the =Done= message appears in
+   the mini-buffer. Don't worry about warning messages from the compile.
+7. Try to update your timesheet again (=C-x C-c C-i= to clock in). You should see your new
+   entry appear in a property drawer called =:LOGBOOK:=.
 ** Format an Org-Mode Document as a PDF
-
    You can produce an attractive PDF version of any =org-mode= document
    by loading the =.org= file into Emacs and using the command
    =C-c C-e l p=, which will:
@@ -44,7 +62,6 @@ is http://doc.norang.ca/org-mode.html.
    Please don't commit \LaTeX{} or PDF documents to the repository;
    only =org-mode= "source" document should be under revision control.
    The other files can be created easily on demand.
-
 * Git
 
 You need to know Git.
