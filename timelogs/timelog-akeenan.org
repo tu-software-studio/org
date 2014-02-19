@@ -1,0 +1,20 @@
+* Week1
+
+** TODO Learn Org-Mode
+   CLOCK: [2014-02-16 Sun 15:30]--[2014-02-16 Sun 17:30] =>  2:00
+
+** TODO Nurk-Talk
+   CLOCK: [2014-02-18 Tue 14:03]--[2014-02-18 Tue 14:23] =>  0:20
+
+** TODO Setup Virtualenv
+   CLOCK: [2014-02-18 Tue 15:23]--[2014-02-18 Tue 15:29] =>  0:06
+
+** TODO Install django and debug-toolbar
+   CLOCK: [2014-02-18 Tue 15:30]--[2014-02-18 Tue 15:32] =>  0:02
+
+** TODO Set up work environment
+   CLOCK: [2014-02-18 Tue 15:30]--[2014-02-18 Tue 15:49] =>  0:19
+
+** TODO Add django settings to postactivate
+   CLOCK: [2014-02-18 Tue 15:54]--[2014-02-18 Tue 16:03] =>  0:09
+
