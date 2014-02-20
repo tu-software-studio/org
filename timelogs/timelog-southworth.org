@@ -2,28 +2,32 @@
 #+AUTHOR: Justin Southworth
 #+DATE: Spring 2014
 #+STARTUP: content indent logdrawer lognoteclock-out lognotedone
+#+PROPERTY: Effort_ALL 0 0:10 0:30 1:00 2:00 3:00 4:00 5:00 6:00 7:00
+
 
 * Pre week 1 (2-18)
-** Learning how to make this org stuff work
+*** Learning how to make this org stuff work
   CLOCK: [2014-02-16 Sun 21:52]--[2014-02-17 Mon 01:12] =>  3:20
-** Didn't clock correctly because of machine crashes. Which were due to having no space on my X-drive.
-** DONE Reviewing org mode commands
+*** Didn't clock correctly because of machine crashes. Which were due to having no space on my X-drive.
+*** DONE Reviewing org mode commands
    CLOSED: [2014-02-18 Tue 15:22]
    - CLOSING NOTE [2014-02-18 Tue 15:22] \\
      Probably will still need some work, but good enough for now.
 
 * Week 1 (2-18 -- 2-25)
-CLOCK: [2014-02-18 Tue 15:52]--[2014-02-18 Tue 15:53] =>  0:01
-- Umm...
-** TODO Correcting and editing org file 		  :class:tuesday:org:
-CLOCK: [2014-02-18 Tue 15:53]
+  CLOCK: [2014-02-18 Tue 15:52]--[2014-02-18 Tue 15:53] =>  0:01
+  * DONE Correcting and editing org file                   :class:tuesday:org:
+CLOSED: [2014-02-19 Wed 12:19]
+- State "DONE"       from "TODO"       [2014-02-19 Wed 12:19]
   CLOCK: [2014-02-18 Tue 14:38]--[2014-02-18 Tue 15:52] =>  1:14
   - Class
 :PROPERTIES:
 :ORDERED: t
 :END:
-** DONE Test TODO
-CLOSED: [2014-02-18 Tue 15:50]
+*** DONE Test TODO
+CLOSED: [2014-02-19 Wed 12:01]
+- State "DONE"       from "TODO"       [2014-02-19 Wed 12:01]
+
 :PROPERTIES:
 :ORDERED: t
 :END:
@@ -35,4 +39,114 @@ CLOSED: [2014-02-18 Tue 15:50]
   In progress??
 
    - CLOSING NOTE [2014-02-18 Tue 15:48] \\
-     started work
+     started wor
+*** DONE Fix org mode based on Nurk's email                 :wednesday:org:
+CLOSED: [2014-02-19 Wed 15:11]
+- State "DONE"       from "TODO"       [2014-02-19 Wed 15:11]
+CLOCK: [2014-02-19 Wed 14:58]--[2014-02-19 Wed 15:11] =>  0:13
+
+CLOCK: [2014-02-19 Wed 12:17]--[2014-02-19 Wed 12:18] =>  0:01
+- Does a logbook exist?
+CLOCK: [2014-02-19 Wed 12:04]--[2014-02-19 Wed 12:17] =>  0:13
+- Updated emacs to get Nurk's package manager. This is a test to see if it worked.
+CLOCK: [2014-02-19 Wed 12:03]--[2014-02-19 Wed 12:04] =>  0:01
+- State "TODO"       from "IN_PROGRESS" [2014-02-19 Wed 12:01]
+
+
+* Week 1 take 2 (2/18 - 2/15)
+
+*** TODO Class
+:LOGBOOK:
+CLOCK: [2014-02-20 Thu 14:49]--[2014-02-20 Thu 15:51] =>  1:02
+- Classtime.
+CLOCK: [2014-02-20 Thu 14:42]--[2014-02-20 Thu 14:42] =>  0:00
+:END:
+*** Done Attempting to clean this file
+CLOSED: [2014-02-19 Wed 15:25]
+- State "DONE"       from ""           [2014-02-19 Wed 15:25]
+CLOCK: [2014-02-19 Wed 15:12]--[2014-02-19 Wed 15:22] =>  0:10
+- Can't fix the problem where the clocks and following messages are not indented well.
+  That's just gonna be a mess to read. Did find how to further indent each line so
+  that it looks a bit cleaner. Logbook still not showing up.
+
+*** TODO Back onto Logbook
+:LOGBOOK:
+CLOCK: [2014-02-19 Wed 22:02]--[2014-02-19 Wed 22:02] =>  0:00
+- Test.
+CLOCK: [2014-02-19 Wed 21:47]--[2014-02-19 Wed 21:48] =>  0:01
+:END:
+CLOCK: [2014-02-19 Wed 17:53]--
+
+CLOCK: [2014-02-19 Wed 16:24]--[2014-02-19 Wed 16:24] =>  0:00
+- Nurk couldn't figure it out either, so I'm off of that for now.
+CLOCK: [2014-02-19 Wed 15:51]--
+CLOCK: [2014-02-19 Wed 15:24]--[2014-02-19 Wed 15:51] =>  0:27
+:PROPERTIES:
+:Effort:   0:30
+:END:
+
+*** DONE Foo
+CLOSED: [2014-02-19 Wed 18:02]
+:LOGBOOK:
+- State "DONE"       from "IN_PROGRESS" [2014-02-19 Wed 18:02]
+- State "IN_PROGRESS" from "DONE"       [2014-02-19 Wed 18:01] \\
+  Stuff.
+:END:
+- State "DONE"       from "TODO"       [2014-02-19 Wed 17:28]
+CLOCK: [2014-02-19 Wed 16:23]--[2014-02-19 Wed 16:23] =>  0:00
+CLOCK: [2014-02-19 Wed 16:21]--[2014-02-19 Wed 16:23] =>  0:02
+CLOCK: [2014-02-19 Wed 15:53]--
+
+*** DONE Prepping for the weekend
+CLOCK: [2014-02-19 Wed 21:13]--[2014-02-19 Wed 21:19] =>  0:06
+- On to checking if I can get the logbook to work.
+
+
+
+*** TODO Logbook on mac
+:LOGBOOK:
+CLOCK: [2014-02-19 Wed 22:32]--[2014-02-19 Wed 22:42] =>  0:10
+- Test...
+CLOCK: [2014-02-19 Wed 22:03]--[2014-02-19 Wed 22:09] =>  0:06
+- Broke
+CLOCK: [2014-02-19 Wed 21:48]--[2014-02-19 Wed 22:01] =>  0:13
+CLOCK: [2014-02-19 Wed 21:48]--[2014-02-19 Wed 21:48] =>  0:00
+- Working..
+:END:
+CLOCK: [2014-02-19 Wed 21:40]--[2014-02-19 Wed 21:47] =>  0:07
+- Maybe it worked this time???
+CLOCK: [2014-02-19 Wed 21:20]--[2014-02-19 Wed 21:40] =>  0:20
+- Switched computers.
+
+*** TODO Learning more emacs
+CLOCK: [2014-02-19 Wed 22:02]--[2014-02-19 Wed 22:03] =>  0:01
+- Test failed... It's something in my .emacs file?
+CLOCK: [2014-02-19 Wed 16:25]--[2014-02-19 Wed 17:28] =>  1:03
+- Progress. Found some good pages of info.
+
+
+
+*** TODO New Test... The other broke?
+:LOGBOOK:
+CLOCK: [2014-02-19 Wed 22:26]--[2014-02-19 Wed 22:32] =>  0:06
+- Test.
+CLOCK: [2014-02-19 Wed 22:21]--[2014-02-19 Wed 22:26] =>  0:05
+- More testing...
+:END:
+
+*** TODO Test
+:LOGBOOK:
+CLOCK: [2014-02-19 Wed 22:17]--[2014-02-19 Wed 22:21] =>  0:04
+- Broke the todo and can't seem to fix it..
+CLOCK: [2014-02-19 Wed 22:16]--[2014-02-19 Wed 22:17] =>  0:01
+- See?
+:END:
+CLOCK: [2014-02-19 Wed 22:09]--[2014-02-19 Wed 22:16] =>  0:07
+- Commenting out the (require 'org) from my .emacs solved the problem...
+
+
+*** TODO Test 10000
+CLOCK: [2014-02-19 Wed 22:42]--[2014-02-20 Thu 00:22] =>  1:40
+- Clocking in and out started failng.
+
+

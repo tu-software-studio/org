@@ -5,12 +5,16 @@
 
 * SPRING 2014 SOFTWARE STUDIO III LOG
 ** WEEK 1 (2/11/14 - 2/17/14)
+*** Studio class time :dustin:
+Took time to make virtualbox pretty
+*** Studio class time :dustin:
+Worked with studio group and Colagn to make ERD of websurv
 *** Ditching eVIl and learning emacs :dustin:
 CLOCK: [2014-02-17 Mon 20:34]--[2014-02-17 Mon 20:43] =>  0:09
 - did it
 Learning emacs commands and life without vim. Confession: Still installed vim 
 on virtualbox anyway.
-*** Read about Django-rest and angularjs :dustin:
+*** Read about Django-rest and angularjs                             :dustin:
 Read and watched a tutorial on django-rest at this link:
 blog.kevinastone.com/getting-started-with-django-rest-framework-and-angularjs.html
 *** Re-read git documentation. :dustin:
@@ -19,27 +23,90 @@ and why branches are important. I don't miss svn.
 
 
 ** WEEK 2 (2/18/14 - 2/24/14)
+*** Studio class time :dustin:
+Reconfigured ./virtualenvs/ file and made virtualenv 
+for websurv complete with exported DJANGO_SETTINGS_MODULE
+variable.  
+*** Studio class time :dusitn:
+CLOCK: [2014-02-20 Thu 14:01]--[2014-02-20 Thu 16:01] =>  2:00
+- Discussed UX/Wireframe look, talked about templates and who works on what
+
 
 ** WEEK 3 (2/25/14 - 3/3/14)
+*** Studio class time :dustin:
+
+*** Studio class time :dustin:
+
 
 ** WEEK 4 (3/4/14 - 3/10/14)
+*** Studio class time :dustin:
+
+*** Studio class time :dustin:
+
 
 ** WEEK 5 (3/11/14 - 3/17/14)
+*** Studio class time :dustin:
+
+*** Studio class time :dustin:
+
 
 ** WEEK 6 (3/18/14 - 3/24/14)
+*** Studio class time :dustin:
+
+*** Studio class time :dustin:
+
 
 ** WEEK 7 (3/25/14 - 3/31/14)
+*** Studio class time :dustin:
+
+*** Studio class time :dustin:
+
 
 ** WEEK 8 (4/1/14 - 4/7/14)
+*** Studio class time :dustin:
+
+*** Studio class time :dustin:
+
 
 ** WEEK 9 (4/8/14 - 4/14/14) 
+*** Studio class time :dustin:
+
+*** Studio class time :dustin:
+
 
 ** WEEK 10 (4/15/14 - 4/21/14)
+*** Studio class time :dustin:
+
+*** Studio class time :dustin:
+
 
 ** WEEK 11 (4/22/14 - 4/28/14)
+*** Studio class time :dustin:
+
+*** Studio class time :dustin:
+
 
 ** WEEK 12 (4/29/14 - 5/5/14)
+*** Studio class time :dustin:
+
+*** Studio class time :dustin:
+
 
 ** WEEK 13 (5/6/14 - 5/12/14)
+*** Studio class time :dustin:
 
-* Dustin's Reports
+*** Studio class time :dustin:
+
+#+BEGIN: clocktable :maxlevel 2 :scope file
+Clock summary at [2014-02-20 Thu 15:45]
+
+| Headline                            | Time   |      |
+|-------------------------------------+--------+------|
+| *Total time*                        | *2:09* |      |
+|-------------------------------------+--------+------|
+| SPRING 2014 SOFTWARE STUDIO III LOG | 2:09   |      |
+| \__ WEEK 1 (2/11/14 - 2/17/14)      |        | 0:09 |
+| \__ WEEK 2 (2/18/14 - 2/24/14)      |        | 2:00 |
+#+END:
+use cc cc
+
