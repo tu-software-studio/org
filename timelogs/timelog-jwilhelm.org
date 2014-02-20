@@ -5,7 +5,7 @@
 
 * WordSurv 2.0                                                     :jwilhelm:
 ** Learning/Research
-*** TODO Learn org mode [1/1]
+*** TODO Learn org mode [2/2]
 :PROPERTIES:
 :Effort:   2:30
 :END:
@@ -16,12 +16,15 @@ CLOCK: [2014-02-16 Sun 20:31]--[2014-02-16 Sun 20:35] =>  0:04
 CLOCK: [2014-02-16 Sun 20:28]--[2014-02-16 Sun 20:28] =>  0:00
 CLOCK: [2014-02-16 Sun 20:03]--[2014-02-16 Sun 20:21] =>  0:18
 - [X] David O'Toole Org [[http://orgmode.org/worg/org-tutorials/orgtutorial_dto.html][tutorial]]
+- [X] Learn how to customize start up
 SCHEDULED: <2014-02-16 Sun>
 CLOCK: [2014-02-16 Sun 20:32]--[2014-02-16 Sun 20:40] =>  0:08
 - Did the tutorial and figured out how to make checkboxes.
 *** TODO Refresher on Git
 **** TODO Git documentation book [1/5] [[http://git-scm.com/documentation][Documentation]]
 :LOGBOOK:
+CLOCK: [2014-02-19 Wed 09:41]--[2014-02-19 Wed 09:52] =>  0:11
+- Time for chapel!
 CLOCK: [2014-02-19 Wed 09:34]--[2014-02-19 Wed 09:35] =>  0:01
 - trying to get everything commited properly
 CLOCK: [2014-02-19 Wed 09:28]--[2014-02-19 Wed 09:31] =>  0:03
@@ -51,4 +54,9 @@ CLOCK: [2014-02-18 Tue 15:06]--[2014-02-18 Tue 15:20] =>  0:14
 - Class time.
 CLOCK: [2014-02-18 Tue 14:35]--[2014-02-18 Tue 15:04] =>  0:29
 - Class time.
+*** 02/20/14
+:LOGBOOK:
+CLOCK: [2014-02-20 Thu 13:50]--[2014-02-20 Thu 16:08] =>  2:18
+- Class time.
+:END:
 
