@@ -4,22 +4,31 @@
 #+STARTUP: content indent logdrawer lognoteclock-out lognotedone
 
 *** TODO Class time for the week of the 16th                     :rszempli:
-CLOCK: [2014-02-18 Tue 15:22]--[2014-02-18 Tue 15:49] =>  0:27
+:LOGBOOK:
+CLOCK: [2014-02-20 Thu 15:17]--[2014-02-20 Thu 17:00] =>  1:43
+- And again even more class time.
+:END:
+CLOCK: [2014-02-18 Tue 15:22]--[2014-02-18 Tue 15:50] =>  0:28
 - Some more class time
 CLOCK: [2014-02-18 Tue 14:57]--[2014-02-18 Tue 15:20] =>  0:23
 - More class time
 CLOCK: [2014-02-18 Tue 13:40]--[2014-02-18 Tue 14:32] =>  0:52
 - Class time
 *** TODO Django tutorials                                        :rszempli:
-**** TODO Go through the main site tutorial [2/5] [40%]
+**** TODO Go through the main site tutorial [4/5] [80%]
+:LOGBOOK:
+CLOCK: [2014-02-19 Wed 22:06]--[2014-02-19 Wed 23:39] =>  1:33
+- Learned some about making some models and the very sexy database viewer
+  web page thing and some url stuffzzzz....
+:END:
 - [X] Part 1
 - [X] Part 2
-- [ ] Part 3
-- [ ] Part 4
+- [X] Part 3
+- [X] Part 4
 - [ ] Part 5
 *** TODO Get more experience with org-mode                       :rszempli:
-**** TODO Look at more tutorials on it[0/3]
-- [ ] Learn more hotkeys
+**** TODO Look at more tutorials on it[1/3]
+- [X] Learn more hotkeys
 - [ ] Memorize the hotkeys
 - [ ] Learn to like org-mode
 *** TODO Tutorial on Angular.js [[http://docs.angularjs.org/api][Documentation]]                    :rszempli:
