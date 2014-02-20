@@ -55,7 +55,13 @@ CLOCK: [2014-02-19 Wed 12:03]--[2014-02-19 Wed 12:04] =>  0:01
 
 * Week 1 take 2 (2/18 - 2/15)
 
-*** DONE Attempting to clean this file
+*** TODO Class
+:LOGBOOK:
+CLOCK: [2014-02-20 Thu 14:49]--[2014-02-20 Thu 15:51] =>  1:02
+- Classtime.
+CLOCK: [2014-02-20 Thu 14:42]--[2014-02-20 Thu 14:42] =>  0:00
+:END:
+*** Done Attempting to clean this file
 CLOSED: [2014-02-19 Wed 15:25]
 - State "DONE"       from ""           [2014-02-19 Wed 15:25]
 CLOCK: [2014-02-19 Wed 15:12]--[2014-02-19 Wed 15:22] =>  0:10
@@ -140,5 +146,7 @@ CLOCK: [2014-02-19 Wed 22:09]--[2014-02-19 Wed 22:16] =>  0:07
 
 
 *** TODO Test 10000
-CLOCK: [2014-02-19 Wed 22:42]
+CLOCK: [2014-02-19 Wed 22:42]--[2014-02-20 Thu 00:22] =>  1:40
+- Clocking in and out started failng.
+
 
