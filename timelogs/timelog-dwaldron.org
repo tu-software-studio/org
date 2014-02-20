@@ -14,7 +14,7 @@ CLOCK: [2014-02-17 Mon 20:34]--[2014-02-17 Mon 20:43] =>  0:09
 - did it
 Learning emacs commands and life without vim. Confession: Still installed vim 
 on virtualbox anyway.
-*** Read about Django-rest and angularjs :dustin:
+*** Read about Django-rest and angularjs                             :dustin:
 Read and watched a tutorial on django-rest at this link:
 blog.kevinastone.com/getting-started-with-django-rest-framework-and-angularjs.html
 *** Re-read git documentation. :dustin:
@@ -28,6 +28,8 @@ Reconfigured ./virtualenvs/ file and made virtualenv
 for websurv complete with exported DJANGO_SETTINGS_MODULE
 variable.  
 *** Studio class time :dusitn:
+CLOCK: [2014-02-20 Thu 14:01]--[2014-02-20 Thu 16:01] =>  2:00
+- Discussed UX/Wireframe look, talked about templates and who works on what
 
 
 ** WEEK 3 (2/25/14 - 3/3/14)
@@ -95,4 +97,16 @@ variable.
 
 *** Studio class time :dustin:
 
+#+BEGIN: clocktable :maxlevel 2 :scope file
+Clock summary at [2014-02-20 Thu 15:45]
 
+| Headline                            | Time   |      |
+|-------------------------------------+--------+------|
+| *Total time*                        | *2:09* |      |
+|-------------------------------------+--------+------|
+| SPRING 2014 SOFTWARE STUDIO III LOG | 2:09   |      |
+| \__ WEEK 1 (2/11/14 - 2/17/14)      |        | 0:09 |
+| \__ WEEK 2 (2/18/14 - 2/24/14)      |        | 2:00 |
+#+END:
+use cc cc
+* 
