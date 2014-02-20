@@ -18,6 +18,10 @@ CLOCK: [2014-02-18 Tue 13:42]--[2014-02-18 Tue 15:49] =>  2:07
 CLOCK: [2014-02-18 Tue 13:30]--[2014-02-18 Tue 13:38] =>  0:08
 - Have to log out for changing settings
 ** TODO Read and walkthrough Django Tutorial                       :bduggan:
+:LOGBOOK:
+CLOCK: [2014-02-19 Wed 23:43]--[2014-02-20 Thu 01:27] =>  1:44
+- still working on it... Its a lot longer than I thought it would be
+:END:
 CLOCK: [2014-02-16 Sun 23:09]--[2014-02-16 Sun 23:50] =>  0:41
 - Just more tutorial stuff
 CLOCK: [2014-02-16 Sun 21:15]--[2014-02-16 Sun 21:54] =>  0:39
@@ -32,3 +36,10 @@ CLOSED: [2014-02-18 Tue 15:17]
 - [X] clone websurv repo
 - [X] add timelog to git
 - [X] push it to repo!
+** TODO setup emacs org mode so logdrawer works                    :bduggan:
+:LOGBOOK:
+CLOCK: [2014-02-19 Wed 10:43]--[2014-02-19 Wed 10:46] =>  0:03
+- I think its working! Now I don't have all these time logs cluttering up my TODOs!
+:END:
+
+
