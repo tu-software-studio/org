@@ -4,7 +4,11 @@
 #+STARTUP: content indent logdrawer lognoteclock-out lognotedone
 
 *** TODO Class time for the week of the 16th                     :rszempli:
-CLOCK: [2014-02-18 Tue 15:22]--[2014-02-18 Tue 15:49] =>  0:27
+:LOGBOOK:
+CLOCK: [2014-02-20 Thu 15:17]--[2014-02-20 Thu 17:00] =>  1:43
+- And again even more class time.
+:END:
+CLOCK: [2014-02-18 Tue 15:22]--[2014-02-18 Tue 15:50] =>  0:28
 - Some more class time
 CLOCK: [2014-02-18 Tue 14:57]--[2014-02-18 Tue 15:20] =>  0:23
 - More class time
