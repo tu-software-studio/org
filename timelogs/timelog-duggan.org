@@ -9,27 +9,37 @@
 CLOSED: [2014-02-16 Sun 15:42]
 - CLOSING NOTE [2014-02-16 Sun 15:42] \\
   I think I'm good with logging time
-CLOCK: [2014-02-16 Sun 15:42]--[2014-02-16 Sun 15:42] =>  0:00
-CLOCK: [2014-02-16 Sun 15:24]--[2014-02-16 Sun 15:42] =>  0:18
+CLOCK: [2014-02-16 Sun 15:35]--[2014-02-16 Sun 15:42] =>  0:07
+CLOCK: [2014-02-16 Sun 15:15]--[2014-02-16 Sun 15:42] =>  0:27
 - Read up on documentation about clocking and logging things
 ** TODO Class time for the week of the 16th                        :bduggan:
+:LOGBOOK:
+CLOCK: [2014-02-20 Thu 13:20]--[2014-02-20 Thu 15:51] =>  2:31
+- Class time on the 20th
+:END:
 CLOCK: [2014-02-18 Tue 13:42]--[2014-02-18 Tue 15:49] =>  2:07
 - done with class time for the 18th of February
-CLOCK: [2014-02-18 Tue 13:30]--[2014-02-18 Tue 13:38] =>  0:08
+CLOCK: [2014-02-18 Tue 13:25]--[2014-02-18 Tue 13:38] =>  0:13
 - Have to log out for changing settings
 ** TODO Read and walkthrough Django Tutorial                       :bduggan:
 :LOGBOOK:
+CLOCK: [2014-02-20 Thu 13:20]--[2014-02-20 Thu 14:03] =>  0:43
+- did more tutorial stuffs
 CLOCK: [2014-02-19 Wed 23:43]--[2014-02-20 Thu 01:27] =>  1:44
 - still working on it... Its a lot longer than I thought it would be
 :END:
-CLOCK: [2014-02-16 Sun 23:09]--[2014-02-16 Sun 23:50] =>  0:41
+CLOCK: [2014-02-16 Sun 23:05]--[2014-02-16 Sun 23:50] =>  0:45
 - Just more tutorial stuff
-CLOCK: [2014-02-16 Sun 21:15]--[2014-02-16 Sun 21:54] =>  0:39
+CLOCK: [2014-02-16 Sun 21:05]--[2014-02-16 Sun 21:54] =>  0:49
 - Continued to work through the tutorial on the Django site
-CLOCK: [2014-02-16 Sun 15:53]--[2014-02-16 Sun 16:03] =>  0:10
+CLOCK: [2014-02-16 Sun 15:45]--[2014-02-16 Sun 16:03] =>  0:18
 - started the tutorial
 ** DONE setup git on my VM and look at some documentation[100%]    :bduggan:
 CLOSED: [2014-02-18 Tue 15:17]
+:LOGBOOK:
+CLOCK: [2014-02-18 Tue 14:26]--[2014-02-18 Tue 15:15] =>  0:49
+- Didn't take very long at all!
+:END:
 - CLOSING NOTE [2014-02-18 Tue 15:17] \\
   set all of this up! I like git. Git is nice.
 - [X] clone timelogging repo
@@ -38,6 +48,8 @@ CLOSED: [2014-02-18 Tue 15:17]
 - [X] push it to repo!
 ** TODO setup emacs org mode so logdrawer works                    :bduggan:
 :LOGBOOK:
+CLOCK: [2014-02-22 Sat 00:09]--[2014-02-22 Sat 02:15] =>  2:06
+- Kept working, on part 4
 CLOCK: [2014-02-19 Wed 10:43]--[2014-02-19 Wed 10:46] =>  0:03
 - I think its working! Now I don't have all these time logs cluttering up my TODOs!
 :END:
