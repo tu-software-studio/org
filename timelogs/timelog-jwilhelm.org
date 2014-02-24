@@ -4,8 +4,13 @@
 #+STARTUP: content indent logdrawer lognoteclock-out lognotedone
 
 * WordSurv 2.0                                                     :jwilhelm:
-** Learning/Research
-*** TODO Learn org mode [2/2]
+** Learning/Research/Setup
+*** DONE Learn org mode [2/2]
+CLOSED: [2014-02-22 Sat 18:30]
+:LOGBOOK:
+- CLOSING NOTE [2014-02-22 Sat 18:30] \\
+  I think I know how to use it pretty well.
+:END:
 :PROPERTIES:
 :Effort:   2:30
 :END:
@@ -20,9 +25,18 @@ CLOCK: [2014-02-16 Sun 20:03]--[2014-02-16 Sun 20:21] =>  0:18
 SCHEDULED: <2014-02-16 Sun>
 CLOCK: [2014-02-16 Sun 20:32]--[2014-02-16 Sun 20:40] =>  0:08
 - Did the tutorial and figured out how to make checkboxes.
-*** TODO Refresher on Git
-**** TODO Git documentation book [1/5] [[http://git-scm.com/documentation][Documentation]]
+*** DONE Refresher on Git
+CLOSED: [2014-02-22 Sat 18:53]
 :LOGBOOK:
+- CLOSING NOTE [2014-02-22 Sat 18:53] \\
+  I think I git it.
+:END:
+**** DONE Git documentation book [5/5] [[http://git-scm.com/documentation][Documentation]]
+CLOSED: [2014-02-22 Sat 18:53]
+:LOGBOOK:
+- CLOSING NOTE [2014-02-22 Sat 18:53] \\
+  Finished!
+CLOCK: [2014-02-22 Sat 16:45]--[2014-02-22 Sat 18:53] =>  2:08
 CLOCK: [2014-02-19 Wed 09:41]--[2014-02-19 Wed 09:52] =>  0:11
 - Time for chapel!
 CLOCK: [2014-02-19 Wed 09:34]--[2014-02-19 Wed 09:35] =>  0:01
@@ -30,10 +44,10 @@ CLOCK: [2014-02-19 Wed 09:34]--[2014-02-19 Wed 09:35] =>  0:01
 CLOCK: [2014-02-19 Wed 09:28]--[2014-02-19 Wed 09:31] =>  0:03
 :END:
 - [X] 1 Getting Started
-- [ ] 2 Git Basics
-- [ ] 3 Git Branching
-- [ ] 6 Git Tools
-- [ ] 7 Customizing Git
+- [X] 2 Git Basics
+- [X] 3 Git Branching
+- [X] 6 Git Tools
+- [X] 7 Customizing Git
 ***** Time                                                         :jwilhelm:
 CLOCK: [2014-02-18 Tue 15:05]--[2014-02-18 Tue 15:05] =>  0:00
 CLOCK: [2014-02-18 Tue 15:04]--[2014-02-18 Tue 15:05] =>  0:01
@@ -44,9 +58,25 @@ CLOCK: [2014-02-18 Tue 13:32]--[2014-02-18 Tue 13:52] =>  0:20
 - Finished git tutorial chapter 1.
 CLOCK: [2014-02-16 Sun 21:18]--[2014-02-16 Sun 21:31] =>  0:13
 - Made it through 1.3. Start from [[http://git-scm.com/book/en/Getting-Started-Installing-Git][1.4]] next time.
-
-  
-
+*** VM Maintenance
+**** DONE Install Chrome
+CLOSED: [2014-02-22 Sat 19:03]
+:LOGBOOK:
+- CLOSING NOTE [2014-02-22 Sat 19:03] \\
+  It's working!
+CLOCK: [2014-02-22 Sat 18:55]--[2014-02-22 Sat 19:03] =>  0:08
+:END:
+**** DONE Update Ubuntu
+CLOSED: [2014-02-22 Sat 16:40]
+:LOGBOOK:
+- CLOSING NOTE [2014-02-22 Sat 16:40] \\
+  Done
+:END:
+**** DONE Reinstall guest editions
+CLOSED: [2014-02-22 Sat 16:50]
+:LOGBOOK:
+- CLOSING NOTE [2014-02-22 Sat 16:50]
+:END:
 ** Class Time                                                     :jwilhelm:
 *** 02/18/14
 CLOCK: [2014-02-18 Tue 15:20]--[2014-02-18 Tue 16:00] =>  0:40
