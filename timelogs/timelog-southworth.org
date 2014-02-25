@@ -14,7 +14,9 @@
    - CLOSING NOTE [2014-02-18 Tue 15:22] \\
      Probably will still need some work, but good enough for now.
 
-* Week 1 (2-18 -- 2-25)
+
+* Week 1 take 2 (2/18 - 2/25)
+:LOGBOOK:
   CLOCK: [2014-02-18 Tue 15:52]--[2014-02-18 Tue 15:53] =>  0:01
   * DONE Correcting and editing org file                   :class:tuesday:org:
 CLOSED: [2014-02-19 Wed 12:19]
@@ -24,6 +26,7 @@ CLOSED: [2014-02-19 Wed 12:19]
 :PROPERTIES:
 :ORDERED: t
 :END:
+
 *** DONE Test TODO
 CLOSED: [2014-02-19 Wed 12:01]
 - State "DONE"       from "TODO"       [2014-02-19 Wed 12:01]
@@ -53,15 +56,15 @@ CLOCK: [2014-02-19 Wed 12:03]--[2014-02-19 Wed 12:04] =>  0:01
 - State "TODO"       from "IN_PROGRESS" [2014-02-19 Wed 12:01]
 
 
-* Week 1 take 2 (2/18 - 2/15)
-
-*** TODO Class
+*** DONE Class
+CLOSED: [2014-02-24 Mon 15:06]
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2014-02-24 Mon 15:06]
 CLOCK: [2014-02-20 Thu 14:49]--[2014-02-20 Thu 15:51] =>  1:02
 - Classtime.
 CLOCK: [2014-02-20 Thu 14:42]--[2014-02-20 Thu 14:42] =>  0:00
 :END:
-*** Done Attempting to clean this file
+*** DONE Attempting to clean this file
 CLOSED: [2014-02-19 Wed 15:25]
 - State "DONE"       from ""           [2014-02-19 Wed 15:25]
 CLOCK: [2014-02-19 Wed 15:12]--[2014-02-19 Wed 15:22] =>  0:10
@@ -69,8 +72,10 @@ CLOCK: [2014-02-19 Wed 15:12]--[2014-02-19 Wed 15:22] =>  0:10
   That's just gonna be a mess to read. Did find how to further indent each line so
   that it looks a bit cleaner. Logbook still not showing up.
 
-*** TODO Back onto Logbook
+*** DONE Back onto Logbook
+CLOSED: [2014-02-24 Mon 15:11]
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2014-02-24 Mon 15:11]
 CLOCK: [2014-02-19 Wed 22:02]--[2014-02-19 Wed 22:02] =>  0:00
 - Test.
 CLOCK: [2014-02-19 Wed 21:47]--[2014-02-19 Wed 21:48] =>  0:01
@@ -103,8 +108,10 @@ CLOCK: [2014-02-19 Wed 21:13]--[2014-02-19 Wed 21:19] =>  0:06
 
 
 
-*** TODO Logbook on mac
+*** DONE Logbook on mac
+CLOSED: [2014-02-24 Mon 15:14]
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2014-02-24 Mon 15:14]
 CLOCK: [2014-02-19 Wed 22:32]--[2014-02-19 Wed 22:42] =>  0:10
 - Test...
 CLOCK: [2014-02-19 Wed 22:03]--[2014-02-19 Wed 22:09] =>  0:06
@@ -118,7 +125,11 @@ CLOCK: [2014-02-19 Wed 21:40]--[2014-02-19 Wed 21:47] =>  0:07
 CLOCK: [2014-02-19 Wed 21:20]--[2014-02-19 Wed 21:40] =>  0:20
 - Switched computers.
 
-*** TODO Learning more emacs
+*** DONE Learning more emacs
+CLOSED: [2014-02-24 Mon 15:14]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2014-02-24 Mon 15:14]
+:END:
 CLOCK: [2014-02-19 Wed 22:02]--[2014-02-19 Wed 22:03] =>  0:01
 - Test failed... It's something in my .emacs file?
 CLOCK: [2014-02-19 Wed 16:25]--[2014-02-19 Wed 17:28] =>  1:03
@@ -126,16 +137,22 @@ CLOCK: [2014-02-19 Wed 16:25]--[2014-02-19 Wed 17:28] =>  1:03
 
 
 
-*** TODO New Test... The other broke?
+*** DONE New Test... The other broke?                            :test:
+CLOSED: [2014-02-24 Mon 15:04]
 :LOGBOOK:
+- State "DONE"       from "IN_PROGRESS" [2014-02-24 Mon 15:04]
+- State "IN_PROGRESS" from "TODO"       [2014-02-24 Mon 15:03] \\
+  Started.
 CLOCK: [2014-02-19 Wed 22:26]--[2014-02-19 Wed 22:32] =>  0:06
 - Test.
 CLOCK: [2014-02-19 Wed 22:21]--[2014-02-19 Wed 22:26] =>  0:05
 - More testing...
 :END:
 
-*** TODO Test
+*** DONE Test                                                    :test:
+CLOSED: [2014-02-24 Mon 15:04]
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2014-02-24 Mon 15:04]
 CLOCK: [2014-02-19 Wed 22:17]--[2014-02-19 Wed 22:21] =>  0:04
 - Broke the todo and can't seem to fix it..
 CLOCK: [2014-02-19 Wed 22:16]--[2014-02-19 Wed 22:17] =>  0:01
@@ -145,8 +162,35 @@ CLOCK: [2014-02-19 Wed 22:09]--[2014-02-19 Wed 22:16] =>  0:07
 - Commenting out the (require 'org) from my .emacs solved the problem...
 
 
-*** TODO Test 10000
+*** DONE Test 10000                                              :test:
+CLOSED: [2014-02-24 Mon 15:04]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2014-02-24 Mon 15:04]
+:END:
 CLOCK: [2014-02-19 Wed 22:42]--[2014-02-20 Thu 00:22] =>  1:40
 - Clocking in and out started failng.
 
+
+
+*** IN_PROGRESS Dictionary list page
+:LOGBOOK:
+CLOCK: [2014-02-24 Mon 16:45]--[2014-02-24 Mon 18:03] =>  1:18
+- Got the page working. Need some seeds in the db now.
+- State "TODO"       from "IN_PROGRESS" [2014-02-24 Mon 15:15]
+CLOCK: [2014-02-24 Mon 14:56]--[2014-02-24 Mon 16:37] =>  1:41
+:PROPERTIES:
+:Effort:   2:00
+:END:
+- Caught bad error again where the vb freezes up. Waited a while and it came back though.
+:END:
+
+
+*** TODO Survey CRUD page
+
+*** DONE Enabling ssh into vb
+CLOSED: [2014-02-24 Mon 16:45]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2014-02-24 Mon 16:45]
+CLOCK: [2014-02-24 Mon 16:37]--[2014-02-24 Mon 16:45] =>  0:08
+:END:
 
