@@ -77,6 +77,13 @@ CLOSED: [2014-02-22 Sat 16:50]
 :LOGBOOK:
 - CLOSING NOTE [2014-02-22 Sat 16:50]
 :END:
+** Survey View
+*** Django refresher
+:LOGBOOK:
+CLOCK: [2014-02-24 Mon 18:41]--[2014-02-24 Mon 21:08] =>  2:27
+- Little Django refresher and started creating my survey view.
+:END:
+*** 
 ** Class Time                                                     :jwilhelm:
 *** 02/18/14
 CLOCK: [2014-02-18 Tue 15:20]--[2014-02-18 Tue 16:00] =>  0:40
