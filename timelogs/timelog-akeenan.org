@@ -63,4 +63,10 @@ CLOCK: [2014-02-21 Fri 17:30]--[2014-02-21 Fri 22:07] =>  4:37
 CLOCK: [2014-02-21 Fri 16:55]--[2014-02-21 Fri 17:27] =>  0:32
 CLOCK: [2014-02-21 Fri 16:40]--[2014-02-21 Fri 16:43] =>  0:03
 :END:
+** DONE Make second base.html for choices
+CLOSED: [2014-02-23 Sun 23:30]
+:LOGBOOK:
+CLOCK: [2014-02-23 Sun 23:04]--[2014-02-23 Sun 23:24] =>  0:20
+- Added non-static version of navbar
+:END:
 
