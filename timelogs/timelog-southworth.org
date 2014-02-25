@@ -185,7 +185,12 @@ CLOCK: [2014-02-24 Mon 14:56]--[2014-02-24 Mon 16:37] =>  1:41
 :END:
 
 
-*** TODO Survey CRUD page
+*** IN_PROGRESS Survey CRUD page
+:LOGBOOK:
+CLOCK: [2014-02-24 Mon 21:12]--[2014-02-24 Mon 23:04] =>  1:52
+- Got everything started up. These messages feel like they're the same as my commit messages...
+:END:
+
 
 *** DONE Enabling ssh into vb
 CLOSED: [2014-02-24 Mon 16:45]
