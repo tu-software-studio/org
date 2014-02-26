@@ -1,20 +1,72 @@
+#+TITLE: Adam's Time Log
+#+AUTHOR: Adam Keenan
+#+DATE: Spring 2014
+#+TODO: TODO IN-PROGRESS SUBMITTED DONE
+#+STARTUP: content indent logdrawer lognoteclock-out lognotedone
+
 * Week1
 
-** TODO Learn Org-Mode
+** DONE Learn Org-Mode
+CLOSED: [2014-02-20 Thu 15:28]
+- CLOSING NOTE [2014-02-20 Thu 15:28] \\
+  Sorta got it down
    CLOCK: [2014-02-16 Sun 15:30]--[2014-02-16 Sun 17:30] =>  2:00
 
-** TODO Nurk-Talk
+** DONE Nurk-Talk
+CLOSED: [2014-02-20 Thu 15:27]
+- CLOSING NOTE [2014-02-20 Thu 15:27]
    CLOCK: [2014-02-18 Tue 14:03]--[2014-02-18 Tue 14:23] =>  0:20
 
-** TODO Setup Virtualenv
+** DONE Setup Virtualenv
+CLOSED: [2014-02-20 Thu 15:27]
    CLOCK: [2014-02-18 Tue 15:23]--[2014-02-18 Tue 15:29] =>  0:06
 
-** TODO Install django and debug-toolbar
+** DONE Install django and debug-toolbar
+CLOSED: [2014-02-20 Thu 15:27]
    CLOCK: [2014-02-18 Tue 15:30]--[2014-02-18 Tue 15:32] =>  0:02
 
-** TODO Set up work environment
+** DONE Set up work environment
+CLOSED: [2014-02-20 Thu 15:27]
    CLOCK: [2014-02-18 Tue 15:30]--[2014-02-18 Tue 15:49] =>  0:19
 
-** TODO Add django settings to postactivate
+** DONE Add django settings to postactivate
+CLOSED: [2014-02-20 Thu 15:27]
    CLOCK: [2014-02-18 Tue 15:54]--[2014-02-18 Tue 16:03] =>  0:09
+
+** IN-PROGRESS Read the Time-logging doc
+
+* Week2
+** DONE Fix emacs
+CLOSED: [2014-02-21 Fri 16:39]
+:LOGBOOK:
+CLOCK: [2014-02-20 Thu 15:35]--[2014-02-20 Thu 15:41] =>  0:06
+- Emacs was being silly with org
+:END:
+** DONE Talk about layout and UX Diagrams
+CLOSED: [2014-02-21 Fri 16:40]
+:LOGBOOK:
+- CLOSING NOTE [2014-02-21 Fri 16:40] \\
+  Me and dustin work on templates
+CLOCK: [2014-02-20 Thu 14:00]--[2014-02-20 Thu 15:50] =>  1:50
+:END:
+** DONE Setup network share to mount
+CLOSED: [2014-02-21 Fri 16:40]
+:LOGBOOK:
+CLOCK: [2014-02-21 Fri 16:10]--[2014-02-21 Fri 16:15] =>  0:05
+- Helped Dustin with it
+CLOCK: [2014-02-21 Fri 16:03]--[2014-02-21 Fri 16:10] =>  0:07
+- Added to fstab
+:END:
+** SUBMITTED Work on the base.html
+:LOGBOOK:
+CLOCK: [2014-02-21 Fri 17:30]--[2014-02-21 Fri 22:07] =>  4:37
+CLOCK: [2014-02-21 Fri 16:55]--[2014-02-21 Fri 17:27] =>  0:32
+CLOCK: [2014-02-21 Fri 16:40]--[2014-02-21 Fri 16:43] =>  0:03
+:END:
+** DONE Make second base.html for choices
+CLOSED: [2014-02-23 Sun 23:30]
+:LOGBOOK:
+CLOCK: [2014-02-23 Sun 23:04]--[2014-02-23 Sun 23:24] =>  0:20
+- Added non-static version of navbar
+:END:
 
