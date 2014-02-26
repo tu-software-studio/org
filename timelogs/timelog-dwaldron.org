@@ -19,7 +19,7 @@ CLOCK: [2014-02-15 Sat 13:00]--[2014-02-15 Sat 17:00] =>  4:00
 Learning emacs commands and life without vim. Confession: Still installed vim 
 on virtualbox anyway.
 
-*** Read about Django-rest and angularjs                             :dustin:
+*** Read about Django-rest and angularjs :dustin:
 CLOCK: [2014-02-17 Mon 11:00]--[2014-02-17 Mon 13:00] =>  2:00
 Read and watched a tutorial on django-rest at this link:
 blog.kevinastone.com/getting-started-with-django-rest-framework-and-angularjs.html
@@ -41,12 +41,25 @@ variable.
 CLOCK: [2014-02-20 Thu 14:01]--[2014-02-20 Thu 16:01] =>  2:00
 - Discussed UX/Wireframe look, talked about templates and who works on what
 
-*** Worked on templates and boostrap navs
+*** Worked on templates and boostrap navs :dustin:
 CLOCK: [2014-02-20 Thu 22:00]--[2014-02-21 Fri 01:00] =>  3:00
 - Started naviagation menu and other template files
+ 
+*** Worked more on templates and breadcrumbs :dustin:
+CLOCK: [2014-02-21 Fri 15:00]--[2014-02-21 Fri 17:00] =>  2:00
+- Fixed urls and views file. Mapped cse account with virtualbox. Made static directory and css file and linked to base.html. Plan to modify navbar
+  with Adam and make admin configuration page.
+  
+*** Worked on admin page and templates :dustin:
+CLOCK: [2014-02-23 Sun 21:00]--[2014-02-24 Mon 01:00] =>  4:00
+- Read Django Admin Documentation, modified admin.py file, played with urls/views.py
+
 
 ** WEEK 3 (2/25/14 - 3/3/14)
 *** Studio class time :dustin:
+CLOCK: [2014-02-25 Tue 15:00]--[2014-02-25 Tue 17:00] =>  2:00
+- Code review day! Help newbies with django templates/urls
+
 
 *** Studio class time :dustin:
 
@@ -110,38 +123,30 @@ CLOCK: [2014-02-20 Thu 22:00]--[2014-02-21 Fri 01:00] =>  3:00
 
 *** Studio class time :dustin:
 
-#+BEGIN: clocktable :maxlevel 2 :scope file
-Clock summary at [2014-02-20 Thu 15:45]
-
-| Headline                            | Time   |      |
-|-------------------------------------+--------+------|
-| *Total time*                        | *2:09* |      |
-|-------------------------------------+--------+------|
-| SPRING 2014 SOFTWARE STUDIO III LOG | 2:09   |      |
-| \__ WEEK 1 (2/11/14 - 2/17/14)      |        | 0:09 |
-| \__ WEEK 2 (2/18/14 - 2/24/14)      |        | 2:00 |
-#+END:
-use cc cc
 
 
 * CLOCKTABLE CHART
 #+BEGIN: clocktable :maxlevel 3 :scope file
-Clock summary at [2014-02-21 Fri 01:29]
+Clock summary at [2014-02-26 Wed 16:27]
 
-| Headline                                     | Time    |       |      |
-|----------------------------------------------+---------+-------+------|
-| *Total time*                                 | *18:00* |       |      |
-|----------------------------------------------+---------+-------+------|
-| SPRING 2014 SOFTWARE STUDIO III LOG          | 18:00   |       |      |
-| \__ WEEK 1 (2/11/14 - 2/17/14)               |         | 12:00 |      |
-| \_____ Studio class time                     |         |       | 2:00 |
-| \_____ Studio class time                     |         |       | 2:00 |
-| \_____ Ditching eVIl and learning emacs      |         |       | 4:00 |
-| \_____ Read about Django-rest and angularjs  |         |       | 2:00 |
-| \_____ Re-read git documentation.            |         |       | 2:00 |
-| \__ WEEK 2 (2/18/14 - 2/24/14)               |         |  6:00 |      |
-| \_____ Studio class time                     |         |       | 1:00 |
-| \_____ Studio class time                     |         |       | 2:00 |
-| \_____ Worked on templates and boostrap navs |         |       | 3:00 |
+| Headline                                        | Time    |       |      |
+|-------------------------------------------------+---------+-------+------|
+| *Total time*                                    | *26:00* |       |      |
+|-------------------------------------------------+---------+-------+------|
+| SPRING 2014 SOFTWARE STUDIO III LOG             | 26:00   |       |      |
+| \__ WEEK 1 (2/11/14 - 2/17/14)                  |         | 12:00 |      |
+| \_____ Studio class time                        |         |       | 2:00 |
+| \_____ Studio class time                        |         |       | 2:00 |
+| \_____ Ditching eVIl and learning emacs         |         |       | 4:00 |
+| \_____ Read about Django-rest and angularjs     |         |       | 2:00 |
+| \_____ Re-read git documentation.               |         |       | 2:00 |
+| \__ WEEK 2 (2/18/14 - 2/24/14)                  |         | 12:00 |      |
+| \_____ Studio class time                        |         |       | 1:00 |
+| \_____ Studio class time                        |         |       | 2:00 |
+| \_____ Worked on templates and boostrap navs    |         |       | 3:00 |
+| \_____ Worked more on templates and breadcrumbs |         |       | 2:00 |
+| \_____ Worked on admin page and templates       |         |       | 4:00 |
+| \__ WEEK 3 (2/25/14 - 3/3/14)                   |         |  2:00 |      |
+| \_____ Studio class time                        |         |       | 2:00 |
 #+END:
 
