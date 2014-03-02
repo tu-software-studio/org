@@ -62,12 +62,20 @@ CLOCK: [2014-02-25 Tue 15:00]--[2014-02-25 Tue 17:00] =>  2:00
 
 
 *** Studio class time :dustin:
-
+CLOCK: [2014-02-27 Thu 14:00]--[2014-02-27 Thu 16:00] =>  2:00
+- Nginx, the habs, and coding
 
 *** Worked on breadcrumb menu
 CLOCK: [2014-02-26 Wed 19:00]--[2014-02-26 Wed 22:00] =>  3:00
 - Added more functionality to breadcrumb menu. Need to find better way to keep track of urls
 
+*** Fixed breadcrumbs and worked on base.html
+CLOCK: [2014-02-27 Thu 12:00]--[2014-02-27 Sat 14:00] =>  2:00
+- Fixed breadcrumbs with get_absolute_url implementation, plan to add to other views
+
+*** Read In the beginning was the commandline
+CLOCK: [2014-03-01 Sat 20:00]--[2014-03-01 Sat 23:00] =>  3:00
+- Read paper for next week
 
 ** WEEK 4 (3/4/14 - 3/10/14)
 *** Studio class time :dustin:
@@ -132,13 +140,13 @@ CLOCK: [2014-02-26 Wed 19:00]--[2014-02-26 Wed 22:00] =>  3:00
 
 * CLOCKTABLE CHART
 #+BEGIN: clocktable :maxlevel 3 :scope file
-Clock summary at [2014-02-26 Wed 21:36]
+Clock summary at [2014-03-01 Sat 22:03]
 
 | Headline                                        | Time    |       |      |
 |-------------------------------------------------+---------+-------+------|
-| *Total time*                                    | *29:00* |       |      |
+| *Total time*                                    | *36:00* |       |      |
 |-------------------------------------------------+---------+-------+------|
-| SPRING 2014 SOFTWARE STUDIO III LOG             | 29:00   |       |      |
+| SPRING 2014 SOFTWARE STUDIO III LOG             | 36:00   |       |      |
 | \__ WEEK 1 (2/11/14 - 2/17/14)                  |         | 12:00 |      |
 | \_____ Studio class time                        |         |       | 2:00 |
 | \_____ Studio class time                        |         |       | 2:00 |
@@ -151,8 +159,11 @@ Clock summary at [2014-02-26 Wed 21:36]
 | \_____ Worked on templates and boostrap navs    |         |       | 3:00 |
 | \_____ Worked more on templates and breadcrumbs |         |       | 2:00 |
 | \_____ Worked on admin page and templates       |         |       | 4:00 |
-| \__ WEEK 3 (2/25/14 - 3/3/14)                   |         |  5:00 |      |
+| \__ WEEK 3 (2/25/14 - 3/3/14)                   |         | 12:00 |      |
+| \_____ Studio class time                        |         |       | 2:00 |
 | \_____ Studio class time                        |         |       | 2:00 |
 | \_____ Worked on breadcrumb menu                |         |       | 3:00 |
+| \_____ Fixed breadcrumbs and worked on...       |         |       | 2:00 |
+| \_____ Read In the beginning was the...         |         |       | 3:00 |
 #+END:
 
