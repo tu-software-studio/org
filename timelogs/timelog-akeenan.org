@@ -70,3 +70,15 @@ CLOCK: [2014-02-23 Sun 23:04]--[2014-02-23 Sun 23:24] =>  0:20
 - Added non-static version of navbar
 :END:
 
+*
+* Week3
+** DONE Tues Class
+CLOSED: [2014-03-04 Tue 14:34]
+:LOGBOOK:
+CLOCK: [2014-02-25 Tue 14:00]--[2014-02-25 Tue 16:00] =>  2:00
+:END:
+** TODO Thurs Class
+:LOGBOOK:
+CLOCK: [2014-02-27 Tue 14:00]--[2014-02-27 Tue 16:00] =>  2:00
+:END:
+
