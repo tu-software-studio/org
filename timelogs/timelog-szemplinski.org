@@ -41,9 +41,12 @@ CLOCK: [2014-02-19 Wed 22:06]--[2014-02-19 Wed 23:39] =>  1:33
 - [X] Learn more hotkeys
 - [ ] Memorize the hotkeys
 - [ ] Learn to like org-mode
+      - I don't think this is possible
 *** TODO Tutorial on Angular.js [[http://docs.angularjs.org/api][Documentation]]                    :rszempli
 *** TODO Work on Project CRUD
 :LOGBOOK:
+CLOCK: [2014-03-03 Mon 19:35]--[2014-03-03 Mon 22:12] =>  2:37
+- Worked a little with Ben on some tests for the project CRUD
 CLOCK: [2014-02-27 Thu 13:56]--[2014-02-27 Thu 15:50] =>  1:54
 - Working on some CRUD stuff for projects with my roomie BEN
 CLOCK: [2014-02-23 Sun 15:06]--[2014-02-23 Sun 16:48] =>  1:42
@@ -57,4 +60,4 @@ CLOCK: [2014-02-27 Thu 13:49]--[2014-02-27 Thu 16:00] =>  2:11
 CLOCK: [2014-02-25 Tue 14:00]--[2014-02-25 Tue 16:00] =>  2:00
 - Tuesday Class time
 :END:
-
+*** TODO Class time week of the 3rd
