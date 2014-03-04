@@ -82,3 +82,12 @@ CLOCK: [2014-02-25 Tue 14:00]--[2014-02-25 Tue 16:00] =>  2:00
 CLOCK: [2014-02-27 Tue 14:00]--[2014-02-27 Tue 16:00] =>  2:00
 :END:
 
+* Week4
+
+** TODO Tues Class
+:LOGBOOK:
+CLOCK: [2014-03-04 Tue 12:00]--[2014-03-04 Tue 16:00] =>  2:00
+- Removed detail and list templates because we don't think that they will be used.
+  Installed and set up nginx to load default site. Added config for django app but haven't tested or set up really.
+:END:
+
