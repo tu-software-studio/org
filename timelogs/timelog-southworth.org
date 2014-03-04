@@ -1,3 +1,4 @@
+
 #+NAME: Justin's Time Log
 #+AUTHOR: Justin Southworth
 #+DATE: Spring 2014
@@ -211,7 +212,7 @@ CLOSED: [2014-02-27 Thu 15:02]
 :LOGBOOK:
 - CLOSING NOTE [2014-02-27 Thu 15:02] \\
   Went well.
-CLOCK: [2014-02-25 Tue 13:58]--[2014-02-25 Tue 15:46] =>  1:48
+CLOCK: [2014-02-25 Tue 13:58]--[2014-02-25 Tue 15:48] =>  1:50
 - Everyone fails. False.
 :END:
 ** DONE Thursday                                                   :class:
@@ -220,11 +221,26 @@ CLOSED: [2014-02-27 Thu 15:04]
 CLOCK: [2014-02-27 Thu 13:58]--[2014-02-27 Thu 15:03] =>  1:05
 - Talked about nginx and other servers.
 :END:
-** IN_PROGRESS Django tests                                        :class:
+** IN_PROGRESS Learning about Django tests                  :class:django:
 :LOGBOOK:
+CLOCK: [2014-03-02 Sun 15:49]--[2014-03-02 Sun 16:51] =>  1:02
+- Switching over..
 - State "IN_PROGRESS" from "TODO"       [2014-02-27 Thu 15:54] \\
   Doin stuff..
 CLOCK: [2014-02-27 Thu 15:03]--[2014-02-27 Thu 15:53] =>  0:50
 - Started learning about Django testing.
+:END:
+** IN_PROGRESS Learning the template system                       :django:
+:LOGBOOK:
+CLOCK: [2014-03-02 Sun 19:48]--[2014-03-02 Sun 21:28] =>  1:40
+- Read a lot of stuff. Commented in a few things for later.
+CLOCK: [2014-03-02 Sun 16:51]--[2014-03-02 Sun 18:16] =>  1:25
+- Read through Django's documentation.
+:END:
+
+* Week 3
+** IN_PROGRESS Tuesday                                             :class:
+:LOGBOOK:
+CLOCK: [2014-03-04 Tue 14:03]
 :END:
 
