@@ -1,3 +1,4 @@
+
 #+NAME: Justin's Time Log
 #+AUTHOR: Justin Southworth
 #+DATE: Spring 2014
@@ -6,15 +7,17 @@
 
 
 * Pre week 1 (2-18)
-*** Learning how to make this org stuff work
+** Learning how to make this org stuff work
   CLOCK: [2014-02-16 Sun 21:52]--[2014-02-17 Mon 01:12] =>  3:20
-*** Didn't clock correctly because of machine crashes. Which were due to having no space on my X-drive.
-*** DONE Reviewing org mode commands
+** Didn't clock correctly because of machine crashes. Which were due to having no space on my X-drive.
+** DONE Reviewing org mode commands
    CLOSED: [2014-02-18 Tue 15:22]
    - CLOSING NOTE [2014-02-18 Tue 15:22] \\
      Probably will still need some work, but good enough for now.
 
-* Week 1 (2-18 -- 2-25)
+
+* Week 1 take 2 (2/18 - 2/25)
+:LOGBOOK:
   CLOCK: [2014-02-18 Tue 15:52]--[2014-02-18 Tue 15:53] =>  0:01
   * DONE Correcting and editing org file                   :class:tuesday:org:
 CLOSED: [2014-02-19 Wed 12:19]
@@ -24,7 +27,8 @@ CLOSED: [2014-02-19 Wed 12:19]
 :PROPERTIES:
 :ORDERED: t
 :END:
-*** DONE Test TODO
+
+** DONE Test TODO
 CLOSED: [2014-02-19 Wed 12:01]
 - State "DONE"       from "TODO"       [2014-02-19 Wed 12:01]
 
@@ -40,7 +44,7 @@ CLOSED: [2014-02-19 Wed 12:01]
 
    - CLOSING NOTE [2014-02-18 Tue 15:48] \\
      started wor
-*** DONE Fix org mode based on Nurk's email                 :wednesday:org:
+** DONE Fix org mode based on Nurk's email                 :wednesday:org:
 CLOSED: [2014-02-19 Wed 15:11]
 - State "DONE"       from "TODO"       [2014-02-19 Wed 15:11]
 CLOCK: [2014-02-19 Wed 14:58]--[2014-02-19 Wed 15:11] =>  0:13
@@ -53,15 +57,15 @@ CLOCK: [2014-02-19 Wed 12:03]--[2014-02-19 Wed 12:04] =>  0:01
 - State "TODO"       from "IN_PROGRESS" [2014-02-19 Wed 12:01]
 
 
-* Week 1 take 2 (2/18 - 2/15)
-
-*** TODO Class
+** DONE Class
+CLOSED: [2014-02-24 Mon 15:06]
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2014-02-24 Mon 15:06]
 CLOCK: [2014-02-20 Thu 14:49]--[2014-02-20 Thu 15:51] =>  1:02
 - Classtime.
 CLOCK: [2014-02-20 Thu 14:42]--[2014-02-20 Thu 14:42] =>  0:00
 :END:
-*** Done Attempting to clean this file
+** DONE Attempting to clean this file
 CLOSED: [2014-02-19 Wed 15:25]
 - State "DONE"       from ""           [2014-02-19 Wed 15:25]
 CLOCK: [2014-02-19 Wed 15:12]--[2014-02-19 Wed 15:22] =>  0:10
@@ -69,8 +73,10 @@ CLOCK: [2014-02-19 Wed 15:12]--[2014-02-19 Wed 15:22] =>  0:10
   That's just gonna be a mess to read. Did find how to further indent each line so
   that it looks a bit cleaner. Logbook still not showing up.
 
-*** TODO Back onto Logbook
+** DONE Back onto Logbook
+CLOSED: [2014-02-24 Mon 15:11]
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2014-02-24 Mon 15:11]
 CLOCK: [2014-02-19 Wed 22:02]--[2014-02-19 Wed 22:02] =>  0:00
 - Test.
 CLOCK: [2014-02-19 Wed 21:47]--[2014-02-19 Wed 21:48] =>  0:01
@@ -85,7 +91,7 @@ CLOCK: [2014-02-19 Wed 15:24]--[2014-02-19 Wed 15:51] =>  0:27
 :Effort:   0:30
 :END:
 
-*** DONE Foo
+** DONE Foo
 CLOSED: [2014-02-19 Wed 18:02]
 :LOGBOOK:
 - State "DONE"       from "IN_PROGRESS" [2014-02-19 Wed 18:02]
@@ -97,14 +103,16 @@ CLOCK: [2014-02-19 Wed 16:23]--[2014-02-19 Wed 16:23] =>  0:00
 CLOCK: [2014-02-19 Wed 16:21]--[2014-02-19 Wed 16:23] =>  0:02
 CLOCK: [2014-02-19 Wed 15:53]--
 
-*** DONE Prepping for the weekend
+** DONE Prepping for the weekend
 CLOCK: [2014-02-19 Wed 21:13]--[2014-02-19 Wed 21:19] =>  0:06
 - On to checking if I can get the logbook to work.
 
 
 
-*** TODO Logbook on mac
+** DONE Logbook on mac
+CLOSED: [2014-02-24 Mon 15:14]
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2014-02-24 Mon 15:14]
 CLOCK: [2014-02-19 Wed 22:32]--[2014-02-19 Wed 22:42] =>  0:10
 - Test...
 CLOCK: [2014-02-19 Wed 22:03]--[2014-02-19 Wed 22:09] =>  0:06
@@ -118,7 +126,11 @@ CLOCK: [2014-02-19 Wed 21:40]--[2014-02-19 Wed 21:47] =>  0:07
 CLOCK: [2014-02-19 Wed 21:20]--[2014-02-19 Wed 21:40] =>  0:20
 - Switched computers.
 
-*** TODO Learning more emacs
+** DONE Learning more emacs
+CLOSED: [2014-02-24 Mon 15:14]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2014-02-24 Mon 15:14]
+:END:
 CLOCK: [2014-02-19 Wed 22:02]--[2014-02-19 Wed 22:03] =>  0:01
 - Test failed... It's something in my .emacs file?
 CLOCK: [2014-02-19 Wed 16:25]--[2014-02-19 Wed 17:28] =>  1:03
@@ -126,16 +138,22 @@ CLOCK: [2014-02-19 Wed 16:25]--[2014-02-19 Wed 17:28] =>  1:03
 
 
 
-*** TODO New Test... The other broke?
+** DONE New Test... The other broke?                                :test:
+CLOSED: [2014-02-24 Mon 15:04]
 :LOGBOOK:
+- State "DONE"       from "IN_PROGRESS" [2014-02-24 Mon 15:04]
+- State "IN_PROGRESS" from "TODO"       [2014-02-24 Mon 15:03] \\
+  Started.
 CLOCK: [2014-02-19 Wed 22:26]--[2014-02-19 Wed 22:32] =>  0:06
 - Test.
 CLOCK: [2014-02-19 Wed 22:21]--[2014-02-19 Wed 22:26] =>  0:05
 - More testing...
 :END:
 
-*** TODO Test
+** DONE Test                                                        :test:
+CLOSED: [2014-02-24 Mon 15:04]
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2014-02-24 Mon 15:04]
 CLOCK: [2014-02-19 Wed 22:17]--[2014-02-19 Wed 22:21] =>  0:04
 - Broke the todo and can't seem to fix it..
 CLOCK: [2014-02-19 Wed 22:16]--[2014-02-19 Wed 22:17] =>  0:01
@@ -145,8 +163,84 @@ CLOCK: [2014-02-19 Wed 22:09]--[2014-02-19 Wed 22:16] =>  0:07
 - Commenting out the (require 'org) from my .emacs solved the problem...
 
 
-*** TODO Test 10000
+** DONE Test 10000                                                  :test:
+CLOSED: [2014-02-24 Mon 15:04]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2014-02-24 Mon 15:04]
+:END:
 CLOCK: [2014-02-19 Wed 22:42]--[2014-02-20 Thu 00:22] =>  1:40
 - Clocking in and out started failng.
 
+
+
+** DONE Dictionary list page
+CLOSED: [2014-02-27 Thu 15:05]
+:LOGBOOK:
+- State "DONE"       from "IN_PROGRESS" [2014-02-27 Thu 15:05]
+CLOCK: [2014-02-24 Mon 16:45]--[2014-02-24 Mon 18:03] =>  1:18
+- Got the page working. Need some seeds in the db now.
+- State "TODO"       from "IN_PROGRESS" [2014-02-24 Mon 15:15]
+CLOCK: [2014-02-24 Mon 14:56]--[2014-02-24 Mon 16:37] =>  1:41
+:PROPERTIES:
+:Effort:   2:00
+:END:
+- Caught bad error again where the vb freezes up. Waited a while and it came back though.
+:END:
+
+
+** DONE Survey CRUD page
+CLOSED: [2014-02-27 Thu 15:05]
+:LOGBOOK:
+- State "DONE"       from "IN_PROGRESS" [2014-02-27 Thu 15:05]
+CLOCK: [2014-02-24 Mon 21:12]--[2014-02-24 Mon 23:04] =>  1:52
+- Got everything started up. These messages feel like they're the same as my commit messages...
+:END:
+
+
+** DONE Enabling ssh into vb
+CLOSED: [2014-02-24 Mon 16:45]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2014-02-24 Mon 16:45]
+CLOCK: [2014-02-24 Mon 16:37]--[2014-02-24 Mon 16:45] =>  0:08
+:END:
+
+
+
+* Week 2
+** DONE Code Review                                                :class:
+CLOSED: [2014-02-27 Thu 15:02]
+:LOGBOOK:
+- CLOSING NOTE [2014-02-27 Thu 15:02] \\
+  Went well.
+CLOCK: [2014-02-25 Tue 13:58]--[2014-02-25 Tue 15:48] =>  1:50
+- Everyone fails. False.
+:END:
+** DONE Thursday                                                   :class:
+CLOSED: [2014-02-27 Thu 15:04]
+:LOGBOOK:
+CLOCK: [2014-02-27 Thu 13:58]--[2014-02-27 Thu 15:03] =>  1:05
+- Talked about nginx and other servers.
+:END:
+** IN_PROGRESS Learning about Django tests                  :class:django:
+:LOGBOOK:
+CLOCK: [2014-03-02 Sun 15:49]--[2014-03-02 Sun 16:51] =>  1:02
+- Switching over..
+- State "IN_PROGRESS" from "TODO"       [2014-02-27 Thu 15:54] \\
+  Doin stuff..
+CLOCK: [2014-02-27 Thu 15:03]--[2014-02-27 Thu 15:53] =>  0:50
+- Started learning about Django testing.
+:END:
+** IN_PROGRESS Learning the template system                       :django:
+:LOGBOOK:
+CLOCK: [2014-03-02 Sun 19:48]--[2014-03-02 Sun 21:28] =>  1:40
+- Read a lot of stuff. Commented in a few things for later.
+CLOCK: [2014-03-02 Sun 16:51]--[2014-03-02 Sun 18:16] =>  1:25
+- Read through Django's documentation.
+:END:
+
+* Week 3
+** IN_PROGRESS Tuesday                                             :class:
+:LOGBOOK:
+CLOCK: [2014-03-04 Tue 14:03]
+:END:
 

@@ -3,17 +3,63 @@
 #+DATE: February 2014
 #+STARTUP: content indent logdrawer lognoteclock-out lognotedone
 
-* WORDSURV PROJECT LOG
+* WORDSURV PROJECT LOG                                             :bcaldwel:
 ** WEEK 1 (2/11/2014 - 2/17/2014)
+
+
 ** WEEK 2 (2/18/2014 - 2/24/2014)
+
+*** TODO Learn more about org mode                               :bcaldwel:
+:LOGBOOK:
+CLOCK: [2014-02-25 Tue 12:12]--[2014-02-25 Tue 13:52] =>  1:40
+- Learned more about org mode from specified org mode tutorial. Not necessarily information related strictly to time logging, but still useful
+:END:
+CLOCK: [2014-02-21 Fri 12:59]--[2014-02-21 Fri 13:50] =>  0:51
+- Learned about how to structure org time log from the org-mode Software Studio documentation.
+
+*** DONE Finish Angular Tutorial                                 :bcaldwel:
+CLOSED: [2014-02-25 Tue 11:38]
+- CLOSING NOTE [2014-02-25 Tue 11:38] \\
+  Finished looking into angular js.
+CLOCK: [2014-02-25 Tue 11:12]--[2014-02-25 Tue 11:36] =>  0:24
+*** DONE Updating and organizing timelog                         :bcaldwel:
+CLOSED: [2014-02-25 Tue 12:12]
+:LOGBOOK:
+- CLOSING NOTE [2014-02-25 Tue 12:12] \\
+  Pretty small task, but got it done.
+CLOCK: [2014-02-25 Tue 11:54]--[2014-02-25 Tue 12:11] =>  0:17
+- Finished setting up logbook stuff, as well as tagging.
+CLOCK: [2014-02-25 Tue 11:51]--[2014-02-25 Tue 11:52] =>  0:01
+- Just seeing how logbook works...
+:END:
+CLOCK: [2014-02-25 Tue 11:44]--[2014-02-25 Tue 11:48] =>  0:04
+- Looking to update emacs...
 ** WEEK 3 (2/25/2014 - 3/3/2014)
+
+
 ** WEEK 4 (3/4/2014 - 3/10/2014)
+
+
 ** WEEK 5 (3/11/2014 - 3/17/2014)
+
+
 ** WEEK 6 (3/18/2014 - 3/24/2014)
+
+
 ** WEEK 7 (3/25/2014 - 3/31/2014)
+
+
 ** WEEK 8 (4/1/2014 - 4/7/2014)
+
+
 ** WEEK 9 (4/8/2014 - 4/14/2014)
+
+
 ** WEEK 10 (4/15/2014 - 4/21/2014)
+
+
 ** WEEK 11 (4/22/14 - 4/28/2014)
+
+
 ** WEEK 12 (4/29/14 - 5/5/2014)
-** WEEK 13 (5/6/2014 - 5/12/2014)
+
