@@ -1,10 +1,11 @@
+
 #+TITLE: Josh's Time Log
 #+AUTHOR: Josh Wilhelm
 #+DATE: Spring 2014
 #+STARTUP: content indent logdrawer lognoteclock-out lognotedone
 
 * WordSurv 2.0                                                     :jwilhelm:
-** Learning/Research/Setup
+** Learning/Research/Setup                                        :jwilhelm:
 *** DONE Learn org mode [2/2]
 CLOSED: [2014-02-22 Sat 18:30]
 :LOGBOOK:
@@ -20,11 +21,17 @@ CLOCK: [2014-02-16 Sun 20:31]--[2014-02-16 Sun 20:35] =>  0:04
 - Starting to get it.
 CLOCK: [2014-02-16 Sun 20:28]--[2014-02-16 Sun 20:28] =>  0:00
 CLOCK: [2014-02-16 Sun 20:03]--[2014-02-16 Sun 20:21] =>  0:18
-- [X] David O'Toole Org [[http://orgmode.org/worg/org-tutorials/orgtutorial_dto.html][tutorial]]
 - [X] Learn how to customize start up
+- [X] David O'Toole Org [[http://orgmode.org/worg/org-tutorials/orgtutorial_dto.html][tutorial]]
 SCHEDULED: <2014-02-16 Sun>
 CLOCK: [2014-02-16 Sun 20:32]--[2014-02-16 Sun 20:40] =>  0:08
 - Did the tutorial and figured out how to make checkboxes.
+*** Emacs customization
+:LOGBOOK:
+CLOCK: [2014-02-26 Wed 19:49]--[2014-02-26 Wed 21:05] =>  1:16
+- Added a bunch of Django stuff to emacs!
+:END:
+**** TODO Try to get my timelog file to open in a buffer when I start emacs without screwing up everything
 *** DONE Refresher on Git
 CLOSED: [2014-02-22 Sat 18:53]
 :LOGBOOK:
@@ -77,23 +84,56 @@ CLOSED: [2014-02-22 Sat 16:50]
 :LOGBOOK:
 - CLOSING NOTE [2014-02-22 Sat 16:50]
 :END:
-** Survey View
+**** DONE Setup Git RSA keys for ssh option
+CLOSED: [2014-02-25 Tue 16:42]
+:LOGBOOK:
+- CLOSING NOTE [2014-02-25 Tue 16:42]
+CLOCK: [2014-02-25 Tue 16:16]--[2014-02-25 Tue 16:41] =>  0:25
+- Done!
+:END:
+** Survey View                                                    :jwilhelm:
 *** Django refresher
 :LOGBOOK:
 CLOCK: [2014-02-24 Mon 18:41]--[2014-02-24 Mon 21:08] =>  2:27
 - Little Django refresher and started creating my survey view.
 :END:
-*** 
+*** Survey View
+:LOGBOOK:
+CLOCK: [2014-02-25 Tue 15:50]--[2014-02-25 Tue 16:13] =>  0:23
+- Fixed up my survey view to be better.
+:END:
+** Papers                                                         :jwilhelm:
+*** In the Beginning was the Command Line
+:LOGBOOK:
+CLOCK: [2014-03-01 Sat 13:05]--[2014-03-01 Sat 14:30] =>  1:25
+- Good read!
+:END:
 ** Class Time                                                     :jwilhelm:
-*** 02/18/14
+*** 02/18/14                                                     :jwilhelm:
 CLOCK: [2014-02-18 Tue 15:20]--[2014-02-18 Tue 16:00] =>  0:40
 CLOCK: [2014-02-18 Tue 15:06]--[2014-02-18 Tue 15:20] =>  0:14
 - Class time.
 CLOCK: [2014-02-18 Tue 14:35]--[2014-02-18 Tue 15:04] =>  0:29
 - Class time.
-*** 02/20/14
+*** 02/20/14                                                     :jwilhelm:
 :LOGBOOK:
 CLOCK: [2014-02-20 Thu 13:50]--[2014-02-20 Thu 16:08] =>  2:18
 - Class time.
+:END:
+*** 02/25/14                                                     :jwilhelm:
+:LOGBOOK:
+CLOCK: [2014-02-25 Tue 13:40]--[2014-02-25 Tue 15:49] =>  2:09
+- Class Time
+:END:
+
+*** 02/27/14                                                     :jwilhelm:
+:LOGBOOK:
+CLOCK: [2014-02-27 Thu 13:50]--[2014-02-27 Thu 16:07] =>  2:17
+- Class time - nginx and work on surveys page
+:END:
+*** 03/04/14                                                     :jwilhelm:
+:LOGBOOK:
+CLOCK: [2014-03-04 Tue 14:00]--[2014-03-04 Tue 14:38] =>  0:38
+- time to push.
 :END:
 
