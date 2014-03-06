@@ -12,8 +12,10 @@ CLOSED: [2014-02-16 Sun 15:42]
 CLOCK: [2014-02-16 Sun 15:35]--[2014-02-16 Sun 15:42] =>  0:07
 CLOCK: [2014-02-16 Sun 15:15]--[2014-02-16 Sun 15:42] =>  0:27
 - Read up on documentation about clocking and logging things
-** TODO Class time for the week of the 16th                        :bduggan:
+** DONE Class time for the week of the 16th                        :bduggan:
+CLOSED: [2014-03-04 Tue 13:57]
 :LOGBOOK:
+- CLOSING NOTE [2014-03-04 Tue 13:57]
 CLOCK: [2014-02-20 Thu 13:20]--[2014-02-20 Thu 15:51] =>  2:31
 - Class time on the 20th
 :END:
@@ -46,21 +48,26 @@ CLOCK: [2014-02-18 Tue 14:26]--[2014-02-18 Tue 15:15] =>  0:49
 - [X] clone websurv repo
 - [X] add timelog to git
 - [X] push it to repo!
-** TODO setup emacs org mode so logdrawer works                    :bduggan:
+** DONE setup emacs org mode so logdrawer works                    :bduggan:
+CLOSED: [2014-03-04 Tue 14:58]
 :LOGBOOK:
+- CLOSING NOTE [2014-03-04 Tue 14:58] \\
+  It works yo
 CLOCK: [2014-02-22 Sat 00:09]--[2014-02-22 Sat 02:15] =>  2:06
 - Kept working, on part 4
 CLOCK: [2014-02-19 Wed 10:43]--[2014-02-19 Wed 10:46] =>  0:03
 - I think its working! Now I don't have all these time logs cluttering up my TODOs!
 :END:
-** TODO Class time for the week of the 23rd                        :bduggan:
+** DONE Class time for the week of the 23rd                        :bduggan:
+CLOSED: [2014-03-04 Tue 13:57]
 :LOGBOOK:
+- CLOSING NOTE [2014-03-04 Tue 13:57]
 CLOCK: [2014-02-27 Thu 13:35]--[2014-02-27 Thu 15:55] =>  2:20
 - Worked on crud
 CLOCK: [2014-02-25 Tue 13:40]--[2014-02-25 Tue 15:55] =>  2:15
 - Class for Tuesday
 :END:
-** TODO Work on CRUD for Projects/other work
+** TODO Work on CRUD for Projects/other work                       :bduggan:
 :LOGBOOK:
 CLOCK: [2014-03-02 Sun 10:52]--[2014-03-02 Sun 13:36] =>  2:44
 - Worked on testing and stuff
@@ -70,5 +77,12 @@ CLOCK: [2014-02-25 Tue 17:48]--[2014-02-25 Tue 19:10] =>  1:22
 - Fixed stuff we talked about in code review
 CLOCK: [2014-02-24 Mon 19:47]--[2014-02-24 Mon 21:47] =>  2:00
 - Worked with Dustin and Ryan on initial Project stuff
+:END:
+** TODO Class time for the week of the 2nd                         :bduggan:
+:LOGBOOK:
+CLOCK: [2014-03-06 Thu 13:59]--[2014-03-06 Thu 15:50] =>  1:51
+- class over!!!
+CLOCK: [2014-03-04 Tue 13:58]--[2014-03-04 Tue 15:54] =>  1:56
+- finished class time yo
 :END:
 
