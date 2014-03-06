@@ -3,8 +3,11 @@
 #+DATE: Spring 2014
 #+STARTUP: content indent logdrawer lognoteclock-out lognotedone
 
-*** TODO Class time for the week of the 16th                     :rszempli:
+*** DONE Class time for the week of the 16th                     :rszempli:
+CLOSED: [2014-02-27 Thu 13:51]
 :LOGBOOK:
+- CLOSING NOTE [2014-02-27 Thu 13:51] \\
+  Week is over
 CLOCK: [2014-02-20 Thu 15:17]--[2014-02-20 Thu 17:00] =>  1:43
 - And again even more class time.
 :END:
@@ -14,7 +17,11 @@ CLOCK: [2014-02-18 Tue 14:57]--[2014-02-18 Tue 15:20] =>  0:23
 - More class time
 CLOCK: [2014-02-18 Tue 13:40]--[2014-02-18 Tue 14:32] =>  0:52
 - Class time
-*** TODO Django tutorials                                        :rszempli:
+*** DONE Django tutorials                                        :rszempli
+:LOGBOOK:
+- CLOSING NOTE [2014-02-27 Thu 13:51] \\
+  Finished
+:END:
 **** DONE Go through the main site tutorial [5/5] [100%]
 CLOSED: [2014-02-23 Sun 15:06]
 :LOGBOOK:
@@ -34,11 +41,23 @@ CLOCK: [2014-02-19 Wed 22:06]--[2014-02-19 Wed 23:39] =>  1:33
 - [X] Learn more hotkeys
 - [ ] Memorize the hotkeys
 - [ ] Learn to like org-mode
+      - I don't think this is possible
 *** TODO Tutorial on Angular.js [[http://docs.angularjs.org/api][Documentation]]                    :rszempli
 *** TODO Work on Project CRUD
 :LOGBOOK:
+CLOCK: [2014-03-03 Mon 19:35]--[2014-03-03 Mon 22:12] =>  2:37
+- Worked a little with Ben on some tests for the project CRUD
+CLOCK: [2014-02-27 Thu 13:56]--[2014-02-27 Thu 15:50] =>  1:54
+- Working on some CRUD stuff for projects with my roomie BEN
 CLOCK: [2014-02-23 Sun 15:06]--[2014-02-23 Sun 16:48] =>  1:42
 - Trying to get the forms to work for projects but failed to understand how everything
   links up in our project. Me and Ben need to talk to Dustin or someone.
 :END:
-
+*** TODO Class time week of the 23rd                             :rszempli:
+:LOGBOOK:
+CLOCK: [2014-02-27 Thu 13:49]--[2014-02-27 Thu 16:00] =>  2:11
+- Thursday Class time
+CLOCK: [2014-02-25 Tue 14:00]--[2014-02-25 Tue 16:00] =>  2:00
+- Tuesday Class time
+:END:
+*** TODO Class time week of the 3rd

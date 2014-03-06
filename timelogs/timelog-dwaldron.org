@@ -64,19 +64,17 @@ CLOCK: [2014-02-25 Tue 15:00]--[2014-02-25 Tue 17:00] =>  2:00
 CLOCK: [2014-02-27 Thu 14:00]--[2014-02-27 Thu 16:00] =>  2:00
 - Eginx, The Habs, and make get_absolute_url link for models in templates
 
-*** DONE Worked on breadcrumb menu                                   :dustin:
-CLOCK: [2014-02-26 Wed 19:00]--[2014-02-26 Wed 22:00] =>  3:00
-- Added more functionality to breadcrumb menu. Need to find better way to keep track of urls
-  
 *** TODO Worked more on breadcrumb menu                              :dustin:
 CLOCK: [2014-02-27 Thu 12:00]--[2014-02-27 Thu 14:00] =>  2:00
 - Worked on views, urls, and breadcrumbs
 
-*** DONE Read in the beginning was the commandline :dustin:
+*** DONE Read in the beginning was the commandline                   :dustin:
 CLOCK: [2014-03-01 Sat 17:00]--[2014-03-01 Sat 20:00] =>  3:00
 - read paper
 
-
+*** TODO Fixed breadcrumbs and worked on base.html
+CLOCK: [2014-03-03 Mon 9:00]--[2014-03-03 Mon 12:00] =>  3:00
+- Fixed breadcrumbs with get_absolute_url implementation, plan to add to other views
 
 ** WEEK 4 (3/4/14 - 3/10/14)
 *** Studio class time :dustin:
@@ -145,13 +143,13 @@ CLOCK: [2014-03-06 Thu 14:00]--[2014-03-06 Thu 16:00] =>  2:00
 
 * CLOCKTABLE CHART
 #+BEGIN: clocktable :maxlevel 3 :scope file
-Clock summary at [2014-02-27 Thu 15:14]
+Clock summary at [2014-03-06 Thu 15:44]
 
 | Headline                                        | Time    |       |      |
 |-------------------------------------------------+---------+-------+------|
-| *Total time*                                    | *33:00* |       |      |
+| *Total time*                                    | *39:00* |       |      |
 |-------------------------------------------------+---------+-------+------|
-| SPRING 2014 SOFTWARE STUDIO III LOG             | 33:00   |       |      |
+| SPRING 2014 SOFTWARE STUDIO III LOG             | 39:00   |       |      |
 | \__ WEEK 1 (2/11/14 - 2/17/14)                  |         | 12:00 |      |
 | \_____ DONE Studio class time                   |         |       | 2:00 |
 | \_____ DONE Studio class time                   |         |       | 2:00 |
@@ -164,10 +162,14 @@ Clock summary at [2014-02-27 Thu 15:14]
 | \_____ DONE Worked on templates and boostrap... |         |       | 3:00 |
 | \_____ DONE Worked more on templates and...     |         |       | 2:00 |
 | \_____ DONE Worked on admin page and templates  |         |       | 4:00 |
-| \__ WEEK 3 (2/25/14 - 3/3/14)                   |         |  9:00 |      |
+| \__ WEEK 3 (2/25/14 - 3/3/14)                   |         | 12:00 |      |
 | \_____ DONE Studio class time                   |         |       | 2:00 |
 | \_____ DONE Studio class time                   |         |       | 2:00 |
-| \_____ DONE Worked on breadcrumb menu           |         |       | 3:00 |
 | \_____ TODO Worked more on breadcrumb menu      |         |       | 2:00 |
+| \_____ DONE Read in the beginning was the...    |         |       | 3:00 |
+| \_____ TODO Fixed breadcrumbs and worked on...  |         |       | 3:00 |
+| \__ WEEK 4 (3/4/14 - 3/10/14)                   |         |  3:00 |      |
+| \_____ Studio class time                        |         |       | 1:00 |
+| \_____ Studio class time                        |         |       | 2:00 |
 #+END:
 
