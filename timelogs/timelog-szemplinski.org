@@ -71,14 +71,23 @@ CLOCK: [2014-03-06 Thu 14:00]--[2014-03-06 Thu 16:00] =>  2:00
 CLOCK: [2014-03-04 Tue 14:00]--[2014-03-04 Tue 16:00] =>  2:00
 - Finished class
 :END: 
-*** TODO Work on User Stuff
-**** TODO User basics [2/3]
+*** DONE Work on User Stuff
+CLOSED: [2014-03-09 Sun 21:50]
 :LOGBOOK:
+- CLOSING NOTE [2014-03-09 Sun 21:50]
+:END:
+**** DONE User basics [3/3]
+CLOSED: [2014-03-09 Sun 21:50]
+:LOGBOOK:
+- CLOSING NOTE [2014-03-09 Sun 21:50]
+CLOCK: [2014-03-09 Sun 19:55]--[2014-03-09 Sun 21:49] =>  1:54
+- Worked on finshing users and starting the glosses which can't be
+  until we have part of speech done
 CLOCK: [2014-03-08 Sat 13:21]--[2014-03-08 Sat 14:02] =>  0:41
 - Having some problem with user on base.html right now
 :END:
 - [X] Build login page
 - [X] If successful login redirect to home
-- [ ] Make it functional with navbar
+- [X] Make it functional with navbar
   - Having some trouble because our homepage
     right now
