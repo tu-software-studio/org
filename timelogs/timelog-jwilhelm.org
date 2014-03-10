@@ -91,6 +91,9 @@ CLOSED: [2014-02-25 Tue 16:42]
 CLOCK: [2014-02-25 Tue 16:16]--[2014-02-25 Tue 16:41] =>  0:25
 - Done!
 :END:
+*** Trying out the koding VM 					   :jwilhelm:
+CLOCK: [2014-03-08 Sat 18:30]--[2014-03-08 Sat 20:30] =>  2:00
+- Looks pretty cool! Got the server up and running on it.
 ** Survey View                                                    :jwilhelm:
 *** Django refresher
 :LOGBOOK:

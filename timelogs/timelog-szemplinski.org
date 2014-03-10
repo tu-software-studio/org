@@ -43,8 +43,11 @@ CLOCK: [2014-02-19 Wed 22:06]--[2014-02-19 Wed 23:39] =>  1:33
 - [ ] Learn to like org-mode
       - I don't think this is possible
 *** TODO Tutorial on Angular.js [[http://docs.angularjs.org/api][Documentation]]                    :rszempli
-*** TODO Work on Project CRUD
+*** DONE Work on Project CRUD
+CLOSED: [2014-03-08 Sat 13:18]
 :LOGBOOK:
+- CLOSING NOTE [2014-03-08 Sat 13:18] \\
+  Finished all of the project crud and finished some tests
 CLOCK: [2014-03-03 Mon 19:35]--[2014-03-03 Mon 22:12] =>  2:37
 - Worked a little with Ben on some tests for the project CRUD
 CLOCK: [2014-02-27 Thu 13:56]--[2014-02-27 Thu 15:50] =>  1:54
@@ -61,3 +64,30 @@ CLOCK: [2014-02-25 Tue 14:00]--[2014-02-25 Tue 16:00] =>  2:00
 - Tuesday Class time
 :END:
 *** TODO Class time week of the 3rd
+:LOGBOOK:
+- CLOSING NOTE [2014-03-08 Sat 13:12]
+CLOCK: [2014-03-06 Thu 14:00]--[2014-03-06 Thu 16:00] =>  2:00
+- Finished Thursdays class
+CLOCK: [2014-03-04 Tue 14:00]--[2014-03-04 Tue 16:00] =>  2:00
+- Finished class
+:END: 
+*** DONE Work on User Stuff
+CLOSED: [2014-03-09 Sun 21:50]
+:LOGBOOK:
+- CLOSING NOTE [2014-03-09 Sun 21:50]
+:END:
+**** DONE User basics [3/3]
+CLOSED: [2014-03-09 Sun 21:50]
+:LOGBOOK:
+- CLOSING NOTE [2014-03-09 Sun 21:50]
+CLOCK: [2014-03-09 Sun 19:55]--[2014-03-09 Sun 21:49] =>  1:54
+- Worked on finshing users and starting the glosses which can't be
+  until we have part of speech done
+CLOCK: [2014-03-08 Sat 13:21]--[2014-03-08 Sat 14:02] =>  0:41
+- Having some problem with user on base.html right now
+:END:
+- [X] Build login page
+- [X] If successful login redirect to home
+- [X] Make it functional with navbar
+  - Having some trouble because our homepage
+    right now
