@@ -248,11 +248,16 @@ CLOCK: [2014-03-04 Tue 14:03]--[2014-03-04 Tue 16:00] =>  1:57
 CLOCK: [2014-03-06 Thu 13:50]--[2014-03-06 Thu 15:56] =>  2:06
 - Git craziness. Done with first iteration.
 :END:
-** TODO Combine/unify my 4 init.el files so stuff makes sense again... :emacs:
+** TODO Combine/unify my 4 init.el files so stuff makes sense again... :emacs:org:
 :LOGBOOK:
-CLOCK: [2014-03-08 Sat 18:02]
+CLOCK: [2014-03-08 Sat 18:02]--[2014-03-08 Sat 23:10] =>  5:08
 :END:
 :PROPERTIES:
-:Effort:   2:00
+:Effort:   4:00
+:END:
+** TODO Read In the Beginning...
+:LOGBOOK:
+CLOCK: [2014-03-10 Mon 14:56]--[2014-03-10 Mon 17:45] =>  2:49
+- Good stuff.
 :END:
 
