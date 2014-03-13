@@ -292,7 +292,15 @@ CLOCK: [2014-03-12 Wed 22:46]--[2014-03-12 Wed 23:25] =>  0:39
 :END:
 ** IN_PROGRESS Writing dictionary tests
 :LOGBOOK:
-CLOCK: [2014-03-12 Wed 23:25]--[2014-03-13 Thu 00:17] =>  0:52
+CLOCK: [2014-03-13 Thu 10:05]--[2014-03-13 Thu 11:14] =>  1:09
+- Solved the dictionary delete test, and fixed indentation errors I made.
+CLOCK: [2014-03-12 Wed 23:22]--[2014-03-13 Thu 00:17] =>  0:55
 - Getting somewhere. Stopped at delete for bed.
 :END:
-
+** TODO Ask what the red light switch does
+** IN_PROGRESS Thursday                                            :class:
+:LOGBOOK:
+CLOCK: [2014-03-13 Thu 13:54]--[2014-03-13 Thu 15:59] =>  2:05
+- Did stuff with south. Figured out what to do next
+:END:
+** TODO Tests and standardization
