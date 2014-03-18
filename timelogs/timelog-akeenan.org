@@ -91,3 +91,41 @@ CLOCK: [2014-03-04 Tue 12:00]--[2014-03-04 Tue 16:00] =>  2:00
   Installed and set up nginx to load default site. Added config for django app but haven't tested or set up really.
 :END:
 
+** TODO Thurs Class
+:LOGBOOK:
+CLOCK: [2014-03-06 Thu 14:00]--[2014-03-06 Thu 16:00] =>  2:00
+- Made comparison detail template
+- Switched to Linux Mint
+:END:
+
+* Week5
+
+** TODO Tues Class
+:LOGBOOK:
+CLOCK: [2014-03-11 Thu 14:00]--[2014-03-11 Thu 16:00] =>  2:00
+:END:
+
+** TODO Thurs Class
+:LOGBOOK:
+CLOCK: [2014-03-13 Thu 16:00]--[2014-03-13 Thu 18:44] =>  2:44
+- Made blink_to
+CLOCK: [2014-03-13 Thu 14:00]--[2014-03-13 Thu 16:00] =>  2:00
+- Got south working
+  Added actual projects to navbar
+:END:
+
+** TODO XML Importer
+:LOGBOOK:
+CLOCK: [2014-03-15 Sat 02:20]--[2014-03-15 Sat 06:20] =>  4:00
+- This will now import xml and output it as json.
+  I wrote it as a manage.py command.
+  I also added a utility function in backend.utils to assist.
+:END:
+
+* Week6
+** TODO Tues Class
+:LOGBOOK:
+CLOCK: [2014-03-18 Tue 14:00]--[2014-03-18 Tue 16:00] =>  2:00
+- Improved XML Importer
+:END:
+
