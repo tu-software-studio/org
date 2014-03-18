@@ -298,9 +298,37 @@ CLOCK: [2014-03-12 Wed 23:22]--[2014-03-13 Thu 00:17] =>  0:55
 - Getting somewhere. Stopped at delete for bed.
 :END:
 ** TODO Ask what the red light switch does
-** IN_PROGRESS Thursday                                            :class:
+** DONE Thursday                                                   :class:
+CLOSED: [2014-03-14 Fri 23:15]
 :LOGBOOK:
+- CLOSING NOTE [2014-03-14 Fri 23:15] \\
+  Database stuff.
 CLOCK: [2014-03-13 Thu 13:54]--[2014-03-13 Thu 15:59] =>  2:05
 - Did stuff with south. Figured out what to do next
 :END:
 ** TODO Tests and standardization
+:LOGBOOK:
+CLOCK: [2014-03-15 Sat 14:41]--[2014-03-15 Sat 18:05] =>  3:24
+- Made some good progress. Still need a standard way of doing urls...
+CLOCK: [2014-03-15 Sat 13:36]--[2014-03-15 Sat 13:50] =>  0:14
+- Started, but ran out of space on my vb. Trying to fix it...
+CLOCK: [2014-03-14 Fri 23:01]--[2014-03-14 Fri 23:49] =>  0:48
+- Read best practices stuff
+:END:
+** TODO Look at using fixtures for "FactoryGirl"                    :testing:
+*** [[http://toastdriven.com/blog/2011/apr/10/guide-to-testing-in-django/][Testing guide]]
+*** [[https://github.com/rbarrois/factory_boy][Factory boy]]
+*** Coverage
+
+Done at 6:00
+
+** DONE VB troubles. Out of disk space.
+CLOSED: [2014-03-15 Sat 14:42]
+:LOGBOOK:
+- CLOSING NOTE [2014-03-15 Sat 14:42] \\
+  Working well enough.
+CLOCK: [2014-03-15 Sat 13:50]--[2014-03-15 Sat 14:41] =>  0:51
+- Removed enough stuff for now, but it'll happen again at some point.
+:END:
+
+** TODO Long term solution for space
