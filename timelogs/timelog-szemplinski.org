@@ -56,15 +56,19 @@ CLOCK: [2014-02-23 Sun 15:06]--[2014-02-23 Sun 16:48] =>  1:42
 - Trying to get the forms to work for projects but failed to understand how everything
   links up in our project. Me and Ben need to talk to Dustin or someone.
 :END:
-*** TODO Class time week of the 23rd                             :rszempli:
+*** DONE Class time week of the 23rd                             :rszempli:
+CLOSED: [2014-03-15 Sat 16:05]
 :LOGBOOK:
+- CLOSING NOTE [2014-03-15 Sat 16:05]
 CLOCK: [2014-02-27 Thu 13:49]--[2014-02-27 Thu 16:00] =>  2:11
 - Thursday Class time
 CLOCK: [2014-02-25 Tue 14:00]--[2014-02-25 Tue 16:00] =>  2:00
 - Tuesday Class time
 :END:
-*** TODO Class time week of the 3rd
+*** DONE Class time week of the 3rd
+CLOSED: [2014-03-15 Sat 16:05]
 :LOGBOOK:
+- CLOSING NOTE [2014-03-15 Sat 16:05]
 - CLOSING NOTE [2014-03-08 Sat 13:12]
 CLOCK: [2014-03-06 Thu 14:00]--[2014-03-06 Thu 16:00] =>  2:00
 - Finished Thursdays class
@@ -91,3 +95,27 @@ CLOCK: [2014-03-08 Sat 13:21]--[2014-03-08 Sat 14:02] =>  0:41
 - [X] Make it functional with navbar
   - Having some trouble because our homepage
     right now
+*** DONE Class time week of the 10th
+CLOSED: [2014-03-15 Sat 16:05]
+:LOGBOOK:
+- CLOSING NOTE [2014-03-15 Sat 16:05]
+CLOCK: [2014-03-13 Thu 14:00]--[2014-03-13 Thu 16:04] =>  2:04
+- Class time
+CLOCK: [2014-03-11 Tue 14:00]--[2014-03-11 Tue 16:03] =>  2:03
+- Class time
+:END:
+*** TODO Gloss Stuff
+**** TODO Get basic CRUD functionality
+:LOGBOOK:
+CLOCK: [2014-03-12 Wed 18:05]--[2014-03-12 Wed 19:40] =>  1:35
+:END:
+**** DONE Fix Part of Speech
+CLOSED: [2014-03-15 Sat 16:09]
+:LOGBOOK:
+- CLOSING NOTE [2014-03-15 Sat 16:09]
+:END:
+**** TODO Learn about formsets
+:LOGBOOK:
+CLOCK: [2014-03-15 Sat 16:08]--[2014-03-15 Sat 17:09] =>  1:01
+:END:
+
