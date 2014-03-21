@@ -128,4 +128,11 @@ CLOCK: [2014-03-15 Sat 02:20]--[2014-03-15 Sat 06:20] =>  4:00
 CLOCK: [2014-03-18 Tue 14:00]--[2014-03-18 Tue 16:00] =>  2:00
 - Improved XML Importer
 :END:
+** TODO Thurs Class
+:LOGBOOK:
+CLOCK: [2014-03-20 Thu 14:04]--[2014-03-20 Thu 18:48] =>  4:44
+- Fixed database. Understood that exports are wrong
+CLOCK: [2014-03-21 Fri 12:00]--[2014-03-21 Fri 01:49] =>  1:49
+- Fixed database. Understood that exports are wrong
+:END:
 
