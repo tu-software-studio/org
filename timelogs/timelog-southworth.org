@@ -332,3 +332,20 @@ CLOCK: [2014-03-15 Sat 13:50]--[2014-03-15 Sat 14:41] =>  0:51
 :END:
 
 ** TODO Long term solution for space
+
+* Week 5
+** DONE Tuesday                                                    :class:
+CLOSED: [2014-03-19 Wed 23:25]
+:LOGBOOK:
+CLOCK: [2014-03-18 Tue 14:01]--[2014-03-18 Tue 15:54] =>  1:53
+- Trying to deal with space issues. Can't have snapshots and change size.
+:END:
+** DONE Fix virtual box. Need to make a new one, I think... :(
+CLOSED: [2014-03-19 Wed 23:25]
+:LOGBOOK:
+CLOCK: [2014-03-19 Wed 19:25]--[2014-03-19 Wed 23:23] =>  3:58
+- Tried to salvage it, but didn't work. New one seems to be good...
+CLOCK: [2014-03-18 Tue 16:55]--[2014-03-18 Tue 17:17] =>  0:22
+- VirtualBox crashed again when trying to merge. Not good
+:END:
+
