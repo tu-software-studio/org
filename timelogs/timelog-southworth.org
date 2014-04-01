@@ -1,5 +1,3 @@
-
-
 #+NAME: Justin's Time Log
 #+AUTHOR: Justin Southworth
 #+DATE: Spring 2014
@@ -347,5 +345,12 @@ CLOCK: [2014-03-19 Wed 19:25]--[2014-03-19 Wed 23:23] =>  3:58
 - Tried to salvage it, but didn't work. New one seems to be good...
 CLOCK: [2014-03-18 Tue 16:55]--[2014-03-18 Tue 17:17] =>  0:22
 - VirtualBox crashed again when trying to merge. Not good
+:END:
+** DONE Thursday                                                   :class:
+CLOSED: [2014-03-20 Thu 15:57]
+:LOGBOOK:
+- CLOSING NOTE [2014-03-20 Thu 15:57] \\
+  Learned Django Rest stuff
+CLOCK: [2014-03-20 Thu 14:00]--[2014-03-20 Thu 15:57] =>  1:57
 :END:
 
