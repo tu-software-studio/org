@@ -135,4 +135,21 @@ CLOCK: [2014-03-20 Thu 14:04]--[2014-03-20 Thu 18:48] =>  4:44
 CLOCK: [2014-03-21 Fri 12:00]--[2014-03-21 Fri 01:49] =>  1:49
 - Fixed database. Understood that exports are wrong
 :END:
+** TODO Work on xml_importer
+:LOGBOOK:
+CLOCK: [2014-03-21 Fri 22:00]--[2014-03-21 Fri 00:00] =>  2:00
+- Fixed some things
+:END:
+
+* Week8
+** TODO Tues Class
+:LOGBOOK:
+CLOCK: [2014-04-01 Tue 14:00]--[2014-04-01 Tue 16:01] =>  2:01
+- Worked with formatting. Fixing indentation errors
+:END:
+** TODO Thurs Class
+:LOGBOOK:
+CLOCK: [2014-04-03 Thu 14:00]--[2014-04-03 Thu 18:03] =>  4:03
+- Added metadata to variety and add that yo the importer
+:END:
 
