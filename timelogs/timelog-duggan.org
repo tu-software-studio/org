@@ -16,7 +16,7 @@ CLOCK: [2014-02-16 Sun 15:15]--[2014-02-16 Sun 15:42] =>  0:27
 CLOSED: [2014-03-04 Tue 13:57]
 :LOGBOOK:
 - CLOSING NOTE [2014-03-04 Tue 13:57]
-CLOCK: [2014-02-20 Thu 13:20]--[2014-02-20 Thu 15:51] =>  2:31
+CLOCK: [2014-02-20 Thu 12:55]--[2014-02-20 Thu 15:51] =>  2:56
 - Class time on the 20th
 :END:
 CLOCK: [2014-02-18 Tue 13:42]--[2014-02-18 Tue 15:49] =>  2:07
@@ -55,7 +55,7 @@ CLOSED: [2014-03-04 Tue 14:58]
 :LOGBOOK:
 - CLOSING NOTE [2014-03-04 Tue 14:58] \\
   It works yo
-CLOCK: [2014-02-22 Sat 00:09]--[2014-02-22 Sat 02:15] =>  2:06
+CLOCK: [2014-02-22 Sat 00:09]--[2014-02-22 Sat 02:35] =>  2:26
 - Kept working, on part 4
 CLOCK: [2014-02-19 Wed 10:43]--[2014-02-19 Wed 10:46] =>  0:03
 - I think its working! Now I don't have all these time logs cluttering up my TODOs!
@@ -64,9 +64,9 @@ CLOCK: [2014-02-19 Wed 10:43]--[2014-02-19 Wed 10:46] =>  0:03
 CLOSED: [2014-03-04 Tue 13:57]
 :LOGBOOK:
 - CLOSING NOTE [2014-03-04 Tue 13:57]
-CLOCK: [2014-02-27 Thu 13:35]--[2014-02-27 Thu 15:55] =>  2:20
+CLOCK: [2014-02-27 Thu 13:35]--[2014-02-27 Thu 16:05] =>  2:30
 - Worked on crud
-CLOCK: [2014-02-25 Tue 13:40]--[2014-02-25 Tue 15:55] =>  2:15
+CLOCK: [2014-02-25 Tue 13:40]--[2014-02-25 Tue 16:05] =>  2:25
 - Class for Tuesday
 :END:
 ** DONE Work on CRUD for Projects/other work                       :bduggan:
@@ -78,9 +78,9 @@ CLOCK: [2014-03-02 Sun 10:52]--[2014-03-02 Sun 13:36] =>  2:44
 - Worked on testing and stuff
 CLOCK: [2014-02-28 Fri 18:49]--[2014-02-28 Fri 21:25] =>  2:36
 - Worked on finishing up CRUD for Projects
-CLOCK: [2014-02-25 Tue 17:48]--[2014-02-25 Tue 19:10] =>  1:22
+CLOCK: [2014-02-25 Tue 17:48]--[2014-02-25 Tue 19:35] =>  1:47
 - Fixed stuff we talked about in code review
-CLOCK: [2014-02-24 Mon 19:47]--[2014-02-24 Mon 21:47] =>  2:00
+CLOCK: [2014-02-24 Mon 19:47]--[2014-02-24 Mon 22:10] =>  2:23
 - Worked with Dustin and Ryan on initial Project stuff
 :END:
 ** DONE Class time for the week of the 2nd                         :bduggan:
@@ -94,16 +94,56 @@ CLOCK: [2014-03-04 Tue 13:58]--[2014-03-04 Tue 15:54] =>  1:56
 :END:
 ** TODO Worked on Glosses/Dictionary CRUD                          :bduggan:
 :LOGBOOK:
-CLOCK: [2014-03-09 Sun 20:10]--[2014-03-09 Sun 22:44] =>  2:34
+CLOCK: [2014-04-06 Sun 19:02]--[2014-04-06 Sun 21:10] =>  2:08
+- Cleaned up Dictioary detail and changed a few cosmetic things added glosses to show on page and stuff
+CLOCK: [2014-04-05 Sat 16:01]--[2014-04-05 Sat 19:30] =>  3:29
+- cleaned up stuff
+CLOCK: [2014-04-01 Tue 19:08]--[2014-04-01 Tue 20:50] =>  1:42
+- worked on stuff for glosses add page
+CLOCK: [2014-03-21 Fri 10:31]--[2014-03-21 Fri 11:05] =>  0:34
+CLOCK: [2014-03-19 Wed 16:39]--[2014-03-19 Wed 19:00] =>  2:21
+- Have two functions gloss add and gloss add with ajax, the second handles a post form the form and adds it to the database
+CLOCK: [2014-03-17 Mon 15:37]--[2014-03-17 Mon 18:40] =>  3:03
+- Got the layout right for Glosses, now we need to implement it through ajax and stuff
+CLOCK: [2014-03-09 Sun 20:10]--[2014-03-09 Sun 23:40] =>  3:30
 - Did more Glosses stuff
-CLOCK: [2014-03-07 Fri 20:40]--[2014-03-07 Fri 22:50] =>  2:10
+CLOCK: [2014-03-07 Fri 20:40]--[2014-03-07 Fri 23:15] =>  2:35
 - Finished up dictionary, started on glosses with Ryan
 :END:
-** TODO Messed with the Koding and tried to put our project there  :bduggan:
+** DONE Messed with the Koding and tried to put our project there  :bduggan:
+CLOSED: [2014-04-07 Mon 19:00]
 :LOGBOOK:
+- CLOSING NOTE [2014-04-07 Mon 19:00]
+CLOCK: [2014-03-14 Fri 23:30]--[2014-03-15 Sat 01:36] =>  2:06
+- Worked on getting the project set up... there is a weird thing where my local host is 15 commits ahead for some reason
 CLOCK: [2014-03-10 Mon 18:47]--[2014-03-10 Mon 20:25] =>  1:38
 - Put nginx on the server, but I'm not really sure how to make it work
 CLOCK: [2014-03-09 Sun 13:45]--[2014-03-09 Sun 17:10] =>  3:25
 - Couldnt get it to run the website on the hosted url, but I have it running nonetheless...
+:END:
+** DONE Class Time for the week of the 16th                        :bduggan:
+CLOSED: [2014-04-07 Mon 19:00]
+:LOGBOOK:
+- CLOSING NOTE [2014-04-07 Mon 19:00]
+CLOCK: [2014-03-20 Thu 12:44]--[2014-03-20 Thu 15:50] =>  3:06
+- Finished class time, glosses ajax stuff
+CLOCK: [2014-03-18 Tue 12:50]--[2014-03-18 Tue 16:00] =>  3:10
+:PROPERTIES:
+:ORDERED:  t
+:END:
+- class over
+:END:
+** TODO Class time for the week of the 1st                         :bduggan:
+:LOGBOOK:
+CLOCK: [2014-04-03 Thu 12:42]--[2014-04-03 Thu 15:51] =>  3:09
+- class over
+CLOCK: [2014-04-01 Tue 13:46]--[2014-04-01 Tue 16:52] =>  3:06
+- class time
+:END
+** Reading Documentation on REST and a lot of AJAX/Jquery stuff    :bduggan:
+:LOGBOOK:
+CLOCK: [2014-04-04 Fri 10:07]--[2014-04-04 Fri 11:50] =>  1:43
+CLOCK: [2014-04-03 Thu 10:07]--[2014-04-03 Thu 11:25] =>  1:18
+CLOCK: [2014-04-02 Wed 19:06]--[2014-04-02 Wed 20:45] =>  1:39
 :END:
 
