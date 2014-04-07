@@ -1,4 +1,3 @@
-
 #+NAME: Justin's Time Log
 #+AUTHOR: Justin Southworth
 #+DATE: Spring 2014
@@ -220,7 +219,8 @@ CLOCK: [2014-02-27 Thu 13:58]--[2014-02-27 Thu 15:03] =>  1:05
 - Talked about nginx and other servers.
 :END:
 
-** IN_PROGRESS Learning about Django tests                     :class:django:
+** DONE Learning about Django tests                         :class:django:
+CLOSED: [2014-03-12 Wed 22:30]
 :LOGBOOK:
 CLOCK: [2014-03-02 Sun 15:49]--[2014-03-02 Sun 16:51] =>  1:02
 - Switching over..
@@ -229,8 +229,10 @@ CLOCK: [2014-03-02 Sun 15:49]--[2014-03-02 Sun 16:51] =>  1:02
 CLOCK: [2014-02-27 Thu 15:03]--[2014-02-27 Thu 15:53] =>  0:50
 - Started learning about Django testing.
 :END:
-** IN_PROGRESS Learning the template system                          :django:
+** DONE Learning the template system                              :django:
+CLOSED: [2014-03-12 Wed 22:30]
 :LOGBOOK:
+- CLOSING NOTE [2014-03-12 Wed 22:30]
 CLOCK: [2014-03-02 Sun 19:48]--[2014-03-02 Sun 21:28] =>  1:40
 - Read a lot of stuff. Commented in a few things for later.
 CLOCK: [2014-03-02 Sun 16:51]--[2014-03-02 Sun 18:16] =>  1:25
@@ -238,26 +240,143 @@ CLOCK: [2014-03-02 Sun 16:51]--[2014-03-02 Sun 18:16] =>  1:25
 :END:
 
 * Week 3
-** IN_PROGRESS Tuesday                                             :class:
+** DONE Tuesday                                                    :class:
+CLOSED: [2014-03-11 Tue 13:59]
 :LOGBOOK:
+- CLOSING NOTE [2014-03-11 Tue 13:59] \\
+  Class be over.
 CLOCK: [2014-03-04 Tue 14:03]--[2014-03-04 Tue 16:00] =>  1:57
 - Got lots of stuff done. Meeting in here at 9 tonight if free.
 :END:
-** IN_PROGRESS Thursday                                            :class:
+** DONE Thursday                                                   :class:
+CLOSED: [2014-03-11 Tue 14:00]
 :LOGBOOK:
 CLOCK: [2014-03-06 Thu 13:50]--[2014-03-06 Thu 15:56] =>  2:06
 - Git craziness. Done with first iteration.
 :END:
-** TODO Combine/unify my 4 init.el files so stuff makes sense again... :emacs:org:
+** IN_PROGRESS Combine/unify my 4 init.el files so stuff makes sense again... :emacs:org:
 :LOGBOOK:
 CLOCK: [2014-03-08 Sat 18:02]--[2014-03-08 Sat 23:10] =>  5:08
 :END:
 :PROPERTIES:
 :Effort:   4:00
 :END:
-** TODO Read In the Beginning...
+** DONE Read In the Beginning...
+CLOSED: [2014-03-11 Tue 14:00]
 :LOGBOOK:
+- CLOSING NOTE [2014-03-11 Tue 14:00]
 CLOCK: [2014-03-10 Mon 14:56]--[2014-03-10 Mon 17:45] =>  2:49
 - Good stuff.
+:END:
+* Week 4
+** DONE Tuesday                                                    :class:
+CLOSED: [2014-03-12 Wed 22:30]
+:LOGBOOK:
+- CLOSING NOTE [2014-03-12 Wed 22:30]
+CLOCK: [2014-03-11 Tue 13:59]--[2014-03-11 Tue 15:48] =>  1:49
+- Ryan ___ from Aon.
+:END:
+** DONE Organizing
+CLOSED: [2014-03-12 Wed 23:25]
+:LOGBOOK:
+CLOCK: [2014-03-12 Wed 22:30]--[2014-03-12 Wed 22:46] =>  0:16
+- Just figuring out where things are at.
+:END:
+** DONE Mas emacsing                                                  :emacs:
+CLOSED: [2014-03-12 Wed 23:25]
+:LOGBOOK:
+CLOCK: [2014-03-12 Wed 22:46]--[2014-03-12 Wed 23:25] =>  0:39
+- Added auto indenting and some other stuff.
+:END:
+** IN_PROGRESS Writing dictionary tests
+:LOGBOOK:
+CLOCK: [2014-03-13 Thu 10:05]--[2014-03-13 Thu 11:14] =>  1:09
+- Solved the dictionary delete test, and fixed indentation errors I made.
+CLOCK: [2014-03-12 Wed 23:22]--[2014-03-13 Thu 00:17] =>  0:55
+- Getting somewhere. Stopped at delete for bed.
+:END:
+** DONE Ask what the red light switch does
+CLOSED: [2014-04-01 Tue 13:52]
+:LOGBOOK:
+- CLOSING NOTE [2014-04-01 Tue 13:52] \\
+  It's just another light switch.
+:END:
+** DONE Thursday                                                   :class:
+CLOSED: [2014-03-14 Fri 23:15]
+:LOGBOOK:
+- CLOSING NOTE [2014-03-14 Fri 23:15] \\
+  Database stuff.
+CLOCK: [2014-03-13 Thu 13:54]--[2014-03-13 Thu 15:59] =>  2:05
+- Did stuff with south. Figured out what to do next
+:END:
+** TODO Tests and standardization
+:LOGBOOK:
+CLOCK: [2014-03-15 Sat 14:41]--[2014-03-15 Sat 18:05] =>  3:24
+- Made some good progress. Still need a standard way of doing urls...
+CLOCK: [2014-03-15 Sat 13:36]--[2014-03-15 Sat 13:50] =>  0:14
+- Started, but ran out of space on my vb. Trying to fix it...
+CLOCK: [2014-03-14 Fri 23:01]--[2014-03-14 Fri 23:49] =>  0:48
+- Read best practices stuff
+:END:
+** TODO Look at using fixtures for "FactoryGirl"                    :testing:
+*** [[http://toastdriven.com/blog/2011/apr/10/guide-to-testing-in-django/][Testing guide]]
+*** [[https://github.com/rbarrois/factory_boy][Factory boy]]
+*** Coverage
+
+Done at 6:00
+
+** DONE VB troubles. Out of disk space.
+CLOSED: [2014-03-15 Sat 14:42]
+:LOGBOOK:
+- CLOSING NOTE [2014-03-15 Sat 14:42] \\
+  Working well enough.
+CLOCK: [2014-03-15 Sat 13:50]--[2014-03-15 Sat 14:41] =>  0:51
+- Removed enough stuff for now, but it'll happen again at some point.
+:END:
+
+** DONE Long term solution for space
+CLOSED: [2014-04-01 Tue 13:51]
+:LOGBOOK:
+- CLOSING NOTE [2014-04-01 Tue 13:51] \\
+  Increased storage by making a new box.
+:END:
+
+* Week 5
+** DONE Tuesday                                                    :class:
+CLOSED: [2014-03-19 Wed 23:25]
+:LOGBOOK:
+CLOCK: [2014-03-18 Tue 14:01]--[2014-03-18 Tue 15:54] =>  1:53
+- Trying to deal with space issues. Can't have snapshots and change size.
+:END:
+** DONE Fix virtual box. Need to make a new one, I think... :(
+CLOSED: [2014-03-19 Wed 23:25]
+:LOGBOOK:
+CLOCK: [2014-03-19 Wed 19:25]--[2014-03-19 Wed 23:23] =>  3:58
+- Tried to salvage it, but didn't work. New one seems to be good...
+CLOCK: [2014-03-18 Tue 16:55]--[2014-03-18 Tue 17:17] =>  0:22
+- VirtualBox crashed again when trying to merge. Not good
+:END:
+** DONE Thursday                                                   :class:
+CLOSED: [2014-03-20 Thu 15:57]
+:LOGBOOK:
+- CLOSING NOTE [2014-03-20 Thu 15:57] \\
+  Learned Django Rest stuff
+CLOCK: [2014-03-20 Thu 14:00]--[2014-03-20 Thu 15:57] =>  1:57
+:END:
+* Week 6
+** DONE Tuesday
+CLOSED: [2014-04-03 Thu 13:44]
+:LOGBOOK:
+- CLOSING NOTE [2014-04-03 Thu 13:44] \\
+  Did that class
+CLOCK: [2014-04-01 Tue 13:51]--[2014-04-01 Tue 15:54] =>  2:03
+- Worked on some testing things.
+:END:
+** DONE Thursday
+CLOSED: [2014-04-03 Thu 15:53]
+:LOGBOOK:
+- CLOSING NOTE [2014-04-03 Thu 15:53]
+CLOCK: [2014-04-03 Thu 13:44]--[2014-04-03 Thu 15:53] =>  2:09
+- Got factory_boy started.
 :END:
 

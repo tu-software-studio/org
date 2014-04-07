@@ -77,32 +77,55 @@ CLOCK: [2014-03-03 Mon 9:00]--[2014-03-03 Mon 12:00] =>  3:00
 - Fixed breadcrumbs with get_absolute_url implementation, plan to add to other views
 
 ** WEEK 4 (3/4/14 - 3/10/14)
-*** Studio class time :dustin:
+*** DONE Studio class time                                           :dustin:
 CLOCK: [2014-03-04 Tue 15:00]--[2014-03-04 Tue 16:00] =>  1:00
 - studio time to work on templates of variety
 
-*** Studio class time :dustin:
+*** DONE Studio class time                                           :dustin:
 CLOCK: [2014-03-06 Thu 14:00]--[2014-03-06 Thu 16:00] =>  2:00
 - Worked on templates; Colgan delegated tasks
 
+*** DONE Read Git documentation over branching :dustin:
+CLOCK: [2014-03-06 Thu 17:00]--[2014-03-06 Thu 20:00] =>  3:00
+- Git commands and concepts of merging
+
+*** DONE Tinkered with Koding and studio files :dustin:
+CLOCK: [2014-03-08 Sat 13:00]--[2014-03-08 Sat 14:00] =>  1:00
+- registered with koding and looked at features
+
+*** DONE Read Nginx documentation and finished command line paper and breadcrumbs :dustin:
+CLOCK: [2014-03-09 Sun 17:00]--[2014-03-09 Sun 21:00] =>  4:00
+- read more on nginx and paper and worked on breadcrumbs
 
 ** WEEK 5 (3/11/14 - 3/17/14)
-*** Studio class time :dustin:
+*** DONE Studio class time                                           :dustin:
+CLOCK: [2014-03-11 Tue 15:00]--[2014-03-11 Tue 17:00] =>  2:00
+- Talked with guest speaker about life on the other side, worked on breadcrumbs
 
-*** Studio class time :dustin:
+*** DONE Studio class time                                           :dustin:
+CLOCK: [2014-03-13 Thu 13:00]--[2014-03-13 Thu 16:00] =>  3:00
+- Worked on code of variety pages and breadcrumbs
 
+*** DONE Read Django Rest tutorial and documentation
+CLOCK: [2014-03-15 Sat 20:00]--[2014-03-15 Sat 23:00] =>  3:00
+- Read tutorial to work on websurv django rest
 
 ** WEEK 6 (3/18/14 - 3/24/14)
-*** Studio class time :dustin:
+*** DONE Studio class time                                           :dustin:
+CLOCK: [2014-03-20 Thu 14:00]--[2014-03-20 Thu 16:00] =>  2:00
+- Django rest, studio status pow wows, and Ohio State disgraces it's state.
 
-*** Studio class time :dustin:
+*** DONE Read Django REST documentation
+CLOCK: [2014-03-21 Fri 13:00]--[2014-03-21 Fri 17:00] =>  4:00
+- read about djangorest and looked at code of websurv
+
+*** DONE Read Github documentation on open issues and emacs tutorial
+CLOCK: [2014-22-03 Sat 08:00]--[2014-22-03 Sat 10:00] =>  2:00
+- read documentation on issue reports and emacs
 
 
-** WEEK 7 (3/25/14 - 3/31/14)
-*** Studio class time :dustin:
-
-*** Studio class time :dustin:
-
+** WEEK 7 (3/25/14 - 3/31/14) SPRING BREAK 
+*** Didn't do anything for break
 
 ** WEEK 8 (4/1/14 - 4/7/14)
 *** Studio class time :dustin:
@@ -143,13 +166,13 @@ CLOCK: [2014-03-06 Thu 14:00]--[2014-03-06 Thu 16:00] =>  2:00
 
 * CLOCKTABLE CHART
 #+BEGIN: clocktable :maxlevel 3 :scope file
-Clock summary at [2014-03-06 Thu 15:44]
+Clock summary at [2014-04-01 Tue 13:18]
 
 | Headline                                        | Time    |       |      |
 |-------------------------------------------------+---------+-------+------|
-| *Total time*                                    | *39:00* |       |      |
+| *Total time*                                    | *63:00* |       |      |
 |-------------------------------------------------+---------+-------+------|
-| SPRING 2014 SOFTWARE STUDIO III LOG             | 39:00   |       |      |
+| SPRING 2014 SOFTWARE STUDIO III LOG             | 63:00   |       |      |
 | \__ WEEK 1 (2/11/14 - 2/17/14)                  |         | 12:00 |      |
 | \_____ DONE Studio class time                   |         |       | 2:00 |
 | \_____ DONE Studio class time                   |         |       | 2:00 |
@@ -168,8 +191,19 @@ Clock summary at [2014-03-06 Thu 15:44]
 | \_____ TODO Worked more on breadcrumb menu      |         |       | 2:00 |
 | \_____ DONE Read in the beginning was the...    |         |       | 3:00 |
 | \_____ TODO Fixed breadcrumbs and worked on...  |         |       | 3:00 |
-| \__ WEEK 4 (3/4/14 - 3/10/14)                   |         |  3:00 |      |
-| \_____ Studio class time                        |         |       | 1:00 |
-| \_____ Studio class time                        |         |       | 2:00 |
+| \__ WEEK 4 (3/4/14 - 3/10/14)                   |         | 11:00 |      |
+| \_____ DONE Studio class time                   |         |       | 1:00 |
+| \_____ DONE Studio class time                   |         |       | 2:00 |
+| \_____ DONE Read Git documentation over...      |         |       | 3:00 |
+| \_____ DONE Tinkered with Koding and studio...  |         |       | 1:00 |
+| \_____ DONE Read Nginx documentation and...     |         |       | 4:00 |
+| \__ WEEK 5 (3/11/14 - 3/17/14)                  |         |  8:00 |      |
+| \_____ DONE Studio class time                   |         |       | 2:00 |
+| \_____ DONE Studio class time                   |         |       | 3:00 |
+| \_____ DONE Read Django Rest tutorial and...    |         |       | 3:00 |
+| \__ WEEK 6 (3/18/14 - 3/24/14)                  |         |  8:00 |      |
+| \_____ DONE Studio class time                   |         |       | 2:00 |
+| \_____ DONE Read Django REST documentation      |         |       | 4:00 |
+| \_____ DONE Read Github documentation on...     |         |       | 2:00 |
 #+END:
 
