@@ -64,7 +64,7 @@ CLOCK: [2014-02-18 Tue 13:54]--[2014-02-18 Tue 14:34] =>  0:40
 CLOCK: [2014-02-18 Tue 13:32]--[2014-02-18 Tue 13:52] =>  0:20
 - Finished git tutorial chapter 1.
 CLOCK: [2014-02-16 Sun 21:18]--[2014-02-16 Sun 21:31] =>  0:13
-- Made it through 1.3. Start from [[http://git-scm.com/book/en/Getting-Started-Installing-Git][1.4]] next time.
+- Made it through 1.3. Start from [[http://git-scm.com/book/en/Getting-Started-Installing-Git][1.4]] next 
 *** VM Maintenance
 **** DONE Install Chrome
 CLOSED: [2014-02-22 Sat 19:03]
@@ -91,11 +91,21 @@ CLOSED: [2014-02-25 Tue 16:42]
 CLOCK: [2014-02-25 Tue 16:16]--[2014-02-25 Tue 16:41] =>  0:25
 - Done!
 :END:
+<<<<<<< HEAD
+**** DONE Expand my VM's .vdi drive by a few gigs
+CLOSED: [2014-04-07 Mon 00:31]
+:LOGBOOK:
+- CLOSING NOTE [2014-04-06 Sun 23:21] \\
+  That wasn't as hard as Ryan made it look.
+CLOCK: [2014-04-06 Sun 22:31]--[2014-04-06 Sun 23:21] =>  0:50
+:END:
+=======
 *** Trying out the koding VM 					   :jwilhelm:
 CLOCK: [2014-03-08 Sat 18:30]--[2014-03-08 Sat 20:30] =>  2:00
 - Looks pretty cool! Got the server up and running on it.
+>>>>>>> 7fedecaa742062dcde845b0cddc7ba8c17ba7b2f
 ** Survey View                                                    :jwilhelm:
-*** Django refresher
+*** Django refresher                                             :jwilhelm:
 :LOGBOOK:
 CLOCK: [2014-02-24 Mon 18:41]--[2014-02-24 Mon 21:08] =>  2:27
 - Little Django refresher and started creating my survey view.
@@ -104,6 +114,22 @@ CLOCK: [2014-02-24 Mon 18:41]--[2014-02-24 Mon 21:08] =>  2:27
 :LOGBOOK:
 CLOCK: [2014-02-25 Tue 15:50]--[2014-02-25 Tue 16:13] =>  0:23
 - Fixed up my survey view to be better.
+:END:
+*** Variety CRUD page
+:LOGBOOK:
+CLOCK: [2014-03-04 Tue 21:00]--[2014-03-04 Tue 22:50] =>  1:50
+- Still trying to get the varieties working. I think I'm getting a little confused by the UX Diagram.
+:END:
+** XML Importer
+*** Get WordSurv set up on my computer
+:LOGBOOK:
+CLOCK: [2014-04-05 Sat 14:14]--[2014-04-05 Sat 16:10] =>  1:56
+- Got Wordsurv up and running now I can make some sample XML files of my own to import.
+:END:
+*** Create a few XML files to test on the importer
+:LOGBOOK:
+CLOCK: [2014-04-05 Sat 20:26]--[2014-04-05 Sat 21:13] =>  0:44
+- Done!
 :END:
 ** Papers                                                         :jwilhelm:
 *** In the Beginning was the Command Line
@@ -136,7 +162,37 @@ CLOCK: [2014-02-27 Thu 13:50]--[2014-02-27 Thu 16:07] =>  2:17
 :END:
 *** 03/04/14                                                     :jwilhelm:
 :LOGBOOK:
+CLOCK: [2014-03-04 Tue 14:39]--[2014-03-04 Tue 16:19] =>  1:40
+- Class is over made some progress and found a cool emacs package! https://github.com/fgallina/python-django.el
+
 CLOCK: [2014-03-04 Tue 14:00]--[2014-03-04 Tue 14:38] =>  0:38
 - time to push.
+:END:
+*** 03/06/14                                                     :jwilhelm:
+:LOGBOOK:
+CLOCK: [2014-03-06 Thu 13:55]--[2014-03-06 Thu 15:59] =>  2:04
+- My machine crashed in the middle of class. Finally got it back up and running and everything is normal.
+:END:
+*** 03/11/14                                                     :jwilhelm:
+CLOCK: [2014-03-11 Tue 13:35]--[2014-03-11 Tue 15:43] =>  2:08
+*** 03/13/14                                                     :jwilhelm:
+CLOCK: [2014-03-13 Thu 16:03]--[2014-03-13 Thu 17:31] =>  1:28
+- Waiting for Nate an reading emacs docs... He didn't come.
+CLOCK: [2014-03-13 Thu 14:00]--[2014-03-13 Thu 16:03] =>  2:03
+- Class time
+*** 04/01/14                                                     :jwilhelm:
+:LOGBOOK:
+CLOCK: [2014-04-01 Tue 14:01]--[2014-04-01 Tue 15:59] =>  1:52
+- Computer is actually running for more than 5 minutes again!
+:END:
+*** 04/03/14                                                     :jwilhelm:
+:LOGBOOK:
+CLOCK: [2014-04-03 Thu 14:00]--[2014-04-03 Thu 16:00] =>  2:00
+- Working on testing Adam's xml importer, tried installing it on lab machine but it didn't work. Oh well...
+:END:
+*** 04/08/14                                                     :jwilhelm:
+:LOGBOOK:
+CLOCK: [2014-04-08 Tue 14:03]--[2014-04-08 Tue 15:00] =>  0:57
+- Class time - about to commit as much of my time as I could compile.
 :END:
 
