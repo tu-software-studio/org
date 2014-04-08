@@ -153,3 +153,14 @@ CLOCK: [2014-04-03 Thu 14:00]--[2014-04-03 Thu 18:03] =>  4:03
 - Added metadata to variety and add that yo the importer
 :END:
 
+* Week9
+** TODO Tues Class
+:LOGBOOK:
+CLOCK: [2014-04-08 Tue 17:17]--[2014-04-08 Tue 17:32] =>  0:15
+- Started looking at IPA keyboard stuff
+CLOCK: [2014-04-08 Tue 16:05]--[2014-04-08 Tue 17:17] =>  1:12
+- Fixed the footer
+CLOCK: [2014-04-08 Tue 14:00]--[2014-04-08 Tue 16:05] =>  2:05
+- Meeting and code review
+:END:
+
