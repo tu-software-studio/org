@@ -295,7 +295,12 @@ CLOCK: [2014-03-13 Thu 10:05]--[2014-03-13 Thu 11:14] =>  1:09
 CLOCK: [2014-03-12 Wed 23:22]--[2014-03-13 Thu 00:17] =>  0:55
 - Getting somewhere. Stopped at delete for bed.
 :END:
-** TODO Ask what the red light switch does
+** DONE Ask what the red light switch does
+CLOSED: [2014-04-01 Tue 13:52]
+:LOGBOOK:
+- CLOSING NOTE [2014-04-01 Tue 13:52] \\
+  It's just another light switch.
+:END:
 ** DONE Thursday                                                   :class:
 CLOSED: [2014-03-14 Fri 23:15]
 :LOGBOOK:
@@ -329,7 +334,12 @@ CLOCK: [2014-03-15 Sat 13:50]--[2014-03-15 Sat 14:41] =>  0:51
 - Removed enough stuff for now, but it'll happen again at some point.
 :END:
 
-** TODO Long term solution for space
+** DONE Long term solution for space
+CLOSED: [2014-04-01 Tue 13:51]
+:LOGBOOK:
+- CLOSING NOTE [2014-04-01 Tue 13:51] \\
+  Increased storage by making a new box.
+:END:
 
 * Week 5
 ** DONE Tuesday                                                    :class:
@@ -352,5 +362,21 @@ CLOSED: [2014-03-20 Thu 15:57]
 - CLOSING NOTE [2014-03-20 Thu 15:57] \\
   Learned Django Rest stuff
 CLOCK: [2014-03-20 Thu 14:00]--[2014-03-20 Thu 15:57] =>  1:57
+:END:
+* Week 6
+** DONE Tuesday
+CLOSED: [2014-04-03 Thu 13:44]
+:LOGBOOK:
+- CLOSING NOTE [2014-04-03 Thu 13:44] \\
+  Did that class
+CLOCK: [2014-04-01 Tue 13:51]--[2014-04-01 Tue 15:54] =>  2:03
+- Worked on some testing things.
+:END:
+** DONE Thursday
+CLOSED: [2014-04-03 Thu 15:53]
+:LOGBOOK:
+- CLOSING NOTE [2014-04-03 Thu 15:53]
+CLOCK: [2014-04-03 Thu 13:44]--[2014-04-03 Thu 15:53] =>  2:09
+- Got factory_boy started.
 :END:
 
