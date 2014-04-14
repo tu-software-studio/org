@@ -402,4 +402,21 @@ CLOSED: [2014-04-08 Tue 23:40]
   Finished it.
 CLOCK: [2014-04-08 Tue 22:39]--[2014-04-08 Tue 23:40] =>  1:01
 :END:
+** DONE Thursday                                                     :class:
+CLOSED: [2014-04-10 Thu 17:06]
+:LOGBOOK:
+CLOCK: [2014-04-10 Thu 13:54]--[2014-04-10 Thu 15:56] =>  2:02
+- Looking at Capybara replacements... Project tests.
+:END:
+** IN_PROGRESS Mas tests
+:LOGBOOK:
+CLOCK: [2014-04-10 Thu 17:06]--[2014-04-10 Thu 17:57] =>  0:51
+- Got a couple project tests going.
+:END:
+** DONE Read Atlassian Git workflow tutorial
+CLOSED: [2014-04-12 Sat 01:54]
+:LOGBOOK:
+CLOCK: [2014-04-11 Fri 23:58]--[2014-04-12 Sat 01:54] =>  1:56
+- Read through the tutorial and pull request stuff, as well as some other Git things I didn't know.
+:END:
 
