@@ -118,4 +118,31 @@ CLOSED: [2014-03-15 Sat 16:09]
 :LOGBOOK:
 CLOCK: [2014-03-15 Sat 16:08]--[2014-03-15 Sat 17:09] =>  1:01
 :END:
+*** DONE Class time week of the 17th
+CLOSED: [2014-04-01 Tue 13:48]
+:LOGBOOK:
+- CLOSING NOTE [2014-04-01 Tue 13:48] \\
+  This week is over!
+CLOCK: [2014-03-20 Thu 13:44]--[2014-03-20 Thu 16:00] =>  2:16
+- Thursday done and over with
+CLOCK: [2014-03-18 Tue 13:35]--[2014-03-18 Tue 16:00] =>  2:25
+- Tuesday done and over with
+:END:
+*** DONE Class time week of the 31st
+CLOSED: [2014-04-08 Tue 13:52]
+:LOGBOOK:
+- CLOSING NOTE [2014-04-08 Tue 13:52]
+CLOCK: [2014-04-03 Thu 13:55]--[2014-04-03 Thu 16:00] =>  2:05
+- Class time over!
+CLOCK: [2014-04-01 Tue 13:49]--[2014-04-01 Tue 15:55] =>  2:06
+:END:
+*** TODO Class time week of the 7th
+:LOGBOOK:
+CLOCK: [2014-04-08 Tue 13:55]--[2014-04-08 Tue 16:00] =>  2:05
+- Class time (8th)
+CLOCK: [2014-04-06 Sun 17:35]--[2014-04-06 Sun 18:40] =>  1:05
+- Working with ben
+CLOCK: [2014-04-07 Mon 19:00]--[2014-04-07 Mon 20:25] =>  1:25
+- Working with dustin
+:END:
 

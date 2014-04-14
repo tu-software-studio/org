@@ -16,7 +16,7 @@ CLOSED: [2014-02-20 Thu 15:28]
 CLOSED: [2014-02-20 Thu 15:27]
 - CLOSING NOTE [2014-02-20 Thu 15:27]
    CLOCK: [2014-02-18 Tue 14:03]--[2014-02-18 Tue 14:23] =>  0:20
-
+  
 ** DONE Setup Virtualenv
 CLOSED: [2014-02-20 Thu 15:27]
    CLOCK: [2014-02-18 Tue 15:23]--[2014-02-18 Tue 15:29] =>  0:06
@@ -28,12 +28,15 @@ CLOSED: [2014-02-20 Thu 15:27]
 ** DONE Set up work environment
 CLOSED: [2014-02-20 Thu 15:27]
    CLOCK: [2014-02-18 Tue 15:30]--[2014-02-18 Tue 15:49] =>  0:19
-
+   
 ** DONE Add django settings to postactivate
 CLOSED: [2014-02-20 Thu 15:27]
    CLOCK: [2014-02-18 Tue 15:54]--[2014-02-18 Tue 16:03] =>  0:09
 
 ** IN-PROGRESS Read the Time-logging doc
+:LOGBOOK:
+CLOCK: [2014-02-20 Thu 14:00]--[2014-02-20 Thu 16:00] =>  2:00
+:END:
 
 * Week2
 ** DONE Fix emacs
@@ -69,8 +72,6 @@ CLOSED: [2014-02-23 Sun 23:30]
 CLOCK: [2014-02-23 Sun 23:04]--[2014-02-23 Sun 23:24] =>  0:20
 - Added non-static version of navbar
 :END:
-
-*
 * Week3
 ** DONE Tues Class
 CLOSED: [2014-03-04 Tue 14:34]
@@ -153,3 +154,61 @@ CLOCK: [2014-04-03 Thu 14:00]--[2014-04-03 Thu 18:03] =>  4:03
 - Added metadata to variety and add that yo the importer
 :END:
 
+* Week9
+** TODO Tues Class
+:LOGBOOK:
+CLOCK: [2014-04-08 Tue 17:17]--[2014-04-08 Tue 17:32] =>  0:15
+- Started looking at IPA keyboard stuff
+CLOCK: [2014-04-08 Tue 16:05]--[2014-04-08 Tue 17:17] =>  1:12
+- Fixed the footer
+CLOCK: [2014-04-08 Tue 14:00]--[2014-04-08 Tue 16:05] =>  2:05
+- Meeting and code review
+:END:
+** TODO Thurs Class
+:LOGBOOK:
+CLOCK: [2014-04-10 Thu 14:12]--[2014-04-10 Thu 16:58] =>  2:46
+- Worked on IPA keyboard
+:END:
+
+
+* Clocktable
+#+BEGIN: clocktable :maxlevel 2 :scope file
+#+CAPTION: Clock summary at [2014-04-10 Thu 17:17]
+| Headline                                     |      Time |      |
+|----------------------------------------------+-----------+------|
+| *Total time*                                 | *2d 4:26* |      |
+|----------------------------------------------+-----------+------|
+| Week1                                        |      4:56 |      |
+| \__ DONE Learn Org-Mode                      |           | 2:00 |
+| \__ DONE Nurk-Talk                           |           | 0:20 |
+| \__ DONE Setup Virtualenv                    |           | 0:06 |
+| \__ DONE Install django and debug-toolbar    |           | 0:02 |
+| \__ DONE Set up work environment             |           | 0:19 |
+| \__ DONE Add django settings to postactivate |           | 0:09 |
+| \__ IN-PROGRESS Read the Time-logging doc    |           | 2:00 |
+| Week2                                        |      7:40 |      |
+| \__ DONE Fix emacs                           |           | 0:06 |
+| \__ DONE Talk about layout and UX Diagrams   |           | 1:50 |
+| \__ DONE Setup network share to mount        |           | 0:12 |
+| \__ SUBMITTED Work on the base.html          |           | 5:12 |
+| \__ DONE Make second base.html for choices   |           | 0:20 |
+| Week3                                        |      4:00 |      |
+| \__ DONE Tues Class                          |           | 2:00 |
+| \__ TODO Thurs Class                         |           | 2:00 |
+| Week4                                        |      6:00 |      |
+| \__ TODO Tues Class                          |           | 4:00 |
+| \__ TODO Thurs Class                         |           | 2:00 |
+| Week5                                        |     10:44 |      |
+| \__ TODO Tues Class                          |           | 2:00 |
+| \__ TODO Thurs Class                         |           | 4:44 |
+| \__ TODO XML Importer                        |           | 4:00 |
+| Week6                                        |      6:44 |      |
+| \__ TODO Tues Class                          |           | 2:00 |
+| \__ TODO Thurs Class                         |           | 4:44 |
+| Week8                                        |      6:04 |      |
+| \__ TODO Tues Class                          |           | 2:01 |
+| \__ TODO Thurs Class                         |           | 4:03 |
+| Week9                                        |      6:18 |      |
+| \__ TODO Tues Class                          |           | 3:32 |
+| \__ TODO Thurs Class                         |           | 2:46 |
+#+END:
