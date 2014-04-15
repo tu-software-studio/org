@@ -138,11 +138,30 @@ CLOCK: [2014-04-01 Tue 13:49]--[2014-04-01 Tue 15:55] =>  2:06
 :END:
 *** TODO Class time week of the 7th
 :LOGBOOK:
+CLOCK: [2014-04-10 Thu 19:34]--[2014-04-10 Thu 20:55] =>  1:21
+- Worked on the dictionary page and the glosses with jquery stuff
 CLOCK: [2014-04-08 Tue 13:55]--[2014-04-08 Tue 16:00] =>  2:05
 - Class time (8th)
 CLOCK: [2014-04-06 Sun 17:35]--[2014-04-06 Sun 18:40] =>  1:05
 - Working with ben
 CLOCK: [2014-04-07 Mon 19:00]--[2014-04-07 Mon 20:25] =>  1:25
 - Working with dustin
+:END:
+*** TODO JQuery Tutorials
+**** TODO Some Videos
+:LOGBOOK:
+CLOCK: [2014-04-09 Wed 15:41]--[2014-04-09 Wed 16:18] =>  0:37
+CLOCK: [2014-04-08 Tue 16:39]--[2014-04-08 Tue 17:10] =>  0:31
+:END:
+**** TODO Some Documentation
+:LOGBOOK:
+CLOCK: [2014-04-12 Sat 17:24]--[2014-04-12 Sat 19:30] =>  2:06
+- Some more document stuff and some videos as well
+CLOCK: [2014-04-09 Wed 19:42]--[2014-04-09 Wed 20:05] =>  0:23
+- Ajax stuffz
+:END:
+*** TODO Class time week of the 14th
+:LOGBOOK:
+CLOCK: [2014-04-15 Tue 13:22]--[2014-04-15 Tue 16:00] =>  2:38
 :END:
 
