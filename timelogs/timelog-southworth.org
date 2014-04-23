@@ -364,7 +364,7 @@ CLOSED: [2014-03-20 Thu 15:57]
 CLOCK: [2014-03-20 Thu 14:00]--[2014-03-20 Thu 15:57] =>  1:57
 :END:
 * Week 6
-** DONE Tuesday
+** DONE Tuesday                                                    :class:
 CLOSED: [2014-04-03 Thu 13:44]
 :LOGBOOK:
 - CLOSING NOTE [2014-04-03 Thu 13:44] \\
@@ -372,11 +372,51 @@ CLOSED: [2014-04-03 Thu 13:44]
 CLOCK: [2014-04-01 Tue 13:51]--[2014-04-01 Tue 15:54] =>  2:03
 - Worked on some testing things.
 :END:
-** DONE Thursday
+** DONE Thursday                                                   :class:
 CLOSED: [2014-04-03 Thu 15:53]
 :LOGBOOK:
 - CLOSING NOTE [2014-04-03 Thu 15:53]
 CLOCK: [2014-04-03 Thu 13:44]--[2014-04-03 Thu 15:53] =>  2:09
 - Got factory_boy started.
+:END:
+* Week 7
+** DONE Tuesday                                                    :class:
+CLOSED: [2014-04-08 Tue 22:28]
+:LOGBOOK:
+- CLOSING NOTE [2014-04-08 Tue 22:28]
+CLOCK: [2014-04-08 Tue 13:52]--[2014-04-08 Tue 15:54] =>  2:02
+- Code review. Some Factory-Boy
+:END:
+** DONE Customizing
+CLOSED: [2014-04-08 Tue 22:39]
+:LOGBOOK:
+- CLOSING NOTE [2014-04-08 Tue 22:39] \\
+  Did it.
+CLOCK: [2014-04-08 Tue 18:27]--[2014-04-08 Tue 22:39] =>  4:12
+- Working..
+:END:
+** DONE Factory-boy
+CLOSED: [2014-04-08 Tue 23:40]
+:LOGBOOK:
+- CLOSING NOTE [2014-04-08 Tue 23:40] \\
+  Finished it.
+CLOCK: [2014-04-08 Tue 22:39]--[2014-04-08 Tue 23:40] =>  1:01
+:END:
+** DONE Thursday                                                     :class:
+CLOSED: [2014-04-10 Thu 17:06]
+:LOGBOOK:
+CLOCK: [2014-04-10 Thu 13:54]--[2014-04-10 Thu 15:56] =>  2:02
+- Looking at Capybara replacements... Project tests.
+:END:
+** IN_PROGRESS Mas tests
+:LOGBOOK:
+CLOCK: [2014-04-10 Thu 17:06]--[2014-04-10 Thu 17:57] =>  0:51
+- Got a couple project tests going.
+:END:
+** DONE Read Atlassian Git workflow tutorial
+CLOSED: [2014-04-12 Sat 01:54]
+:LOGBOOK:
+CLOCK: [2014-04-11 Fri 23:58]--[2014-04-12 Sat 01:54] =>  1:56
+- Read through the tutorial and pull request stuff, as well as some other Git things I didn't know.
 :END:
 
