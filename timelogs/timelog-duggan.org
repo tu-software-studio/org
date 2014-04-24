@@ -133,17 +133,66 @@ CLOCK: [2014-03-18 Tue 12:50]--[2014-03-18 Tue 16:00] =>  3:10
 :END:
 - class over
 :END:
-** TODO Class time for the week of the 1st                         :bduggan:
+** DONE Class time for the week of the 1st                         :bduggan:
+CLOSED: [2014-04-08 Tue 14:03]
 :LOGBOOK:
+- CLOSING NOTE [2014-04-08 Tue 14:03]
 CLOCK: [2014-04-03 Thu 12:42]--[2014-04-03 Thu 15:51] =>  3:09
 - class over
 CLOCK: [2014-04-01 Tue 13:46]--[2014-04-01 Tue 16:52] =>  3:06
 - class time
 :END
-** Reading Documentation on REST and a lot of AJAX/Jquery stuff    :bduggan:
+** DONE Reading Documentation on REST and a lot of AJAX/Jquery stuff :bduggan:
+CLOSED: [2014-04-08 Tue 14:04]
 :LOGBOOK:
+- CLOSING NOTE [2014-04-08 Tue 14:04]
 CLOCK: [2014-04-04 Fri 10:07]--[2014-04-04 Fri 11:50] =>  1:43
 CLOCK: [2014-04-03 Thu 10:07]--[2014-04-03 Thu 11:25] =>  1:18
 CLOCK: [2014-04-02 Wed 19:06]--[2014-04-02 Wed 20:45] =>  1:39
+:END:
+** TODO Class time for the week of the 6th                         :bduggan:
+:LOGBOOK:
+CLOCK: [2014-04-10 Thu 13:10]--[2014-04-10 Thu 16:01] =>  2:51
+- class over
+CLOCK: [2014-04-08 Tue 13:45]--[2014-04-08 Tue 16:13] =>  2:28
+- add the next walkthrough hour
+:END:
+** TODO Transcription CRUD                                         :bduggan:
+:LOGBOOK:
+CLOCK: [2014-04-15 Tue 22:52]--[2014-04-15 Tue 23:55] =>  1:03
+- What:
+  Tried to use modelformset_factory... didn't get anywhere back to where I just started.
+  
+  Then I decided to get up to date with the project so I pulled and had a few conflicts
+  with the current master, so I had to do all that merging fun, but im doing okay now
+  
+  Where:
+  I worked in my dorm room
+  
+  With Whom:
+  I worked alone
+CLOCK: [2014-04-14 Mon 20:50]--[2014-04-14 Mon 22:15] =>  1:25
+CLOCK: [2014-04-11 Fri 18:43]--[2014-04-11 Fri 21:45] =>  3:02
+CLOCK: [2014-04-10 Thu 14:39]--[2014-04-10 Thu 15:30] =>  0:51
+CLOCK: [2014-04-09 Wed 15:02]--[2014-04-09 Wed 15:37] =>  0:35
+CLOCK: [2014-04-08 Tue 18:37]--[2014-04-08 Tue 20:00] =>  1:23
+- worked on the Transcription pages, struggling with tables and forms again, imagine that!
+:END:
+** DONE Read the Github WorkFlow                                   :bduggan:
+CLOSED: [2014-04-14 Mon 20:45]
+:LOGBOOK:
+- CLOSING NOTE [2014-04-14 Mon 20:45]
+CLOCK: [2014-04-14 Mon 15:44]--[2014-04-14 Mon 16:50] =>  1:06
+:END:
+** TODO Class Time for the week of the 13th                        :bduggan:
+:LOGBOOK:
+CLOCK: [2014-04-17 Thu 13:35]--[2014-04-17 Thu 16:05] =>  2:30
+- variety and transcripotion and stuff
+CLOCK: [2014-04-15 Tue 13:30]--[2014-04-15 Tue 15:55] =>  2:25
+- done with class
+:END:
+** TODO Class Time for the week of the 20th                        :bduggan:
+:LOGBOOK:
+CLOCK: [2014-04-22 Tue 13:27]--[2014-04-22 Tue 15:53] =>  2:26
 :END:
 
