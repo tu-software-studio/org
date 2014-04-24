@@ -136,8 +136,10 @@ CLOCK: [2014-04-03 Thu 13:55]--[2014-04-03 Thu 16:00] =>  2:05
 - Class time over!
 CLOCK: [2014-04-01 Tue 13:49]--[2014-04-01 Tue 15:55] =>  2:06
 :END:
-*** TODO Class time week of the 7th
+*** DONE Class time week of the 7th
+CLOSED: [2014-04-22 Tue 13:31]
 :LOGBOOK:
+- CLOSING NOTE [2014-04-22 Tue 13:31]
 CLOCK: [2014-04-10 Thu 19:34]--[2014-04-10 Thu 20:55] =>  1:21
 - Worked on the dictionary page and the glosses with jquery stuff
 CLOCK: [2014-04-08 Tue 13:55]--[2014-04-08 Tue 16:00] =>  2:05
@@ -155,12 +157,25 @@ CLOCK: [2014-04-08 Tue 16:39]--[2014-04-08 Tue 17:10] =>  0:31
 :END:
 **** TODO Some Documentation
 :LOGBOOK:
+CLOCK: [2014-04-22 Tue 13:32]--[2014-04-22 Tue 15:14] =>  1:42
 CLOCK: [2014-04-12 Sat 17:24]--[2014-04-12 Sat 19:30] =>  2:06
 - Some more document stuff and some videos as well
 CLOCK: [2014-04-09 Wed 19:42]--[2014-04-09 Wed 20:05] =>  0:23
 - Ajax stuffz
 :END:
-*** TODO Class time week of the 14th
+*** DONE Class time week of the 14th
+CLOSED: [2014-04-22 Tue 13:31]
 :LOGBOOK:
+- CLOSING NOTE [2014-04-22 Tue 13:31]
 CLOCK: [2014-04-15 Tue 13:22]--[2014-04-15 Tue 16:00] =>  2:38
 :END:
+*** DONE Class time week of the 21st
+CLOSED: [2014-04-24 Thu 13:15]
+:LOGBOOK:
+- CLOSING NOTE [2014-04-24 Thu 13:15]
+CLOCK: [2014-04-24 Thu 13:14]--[2014-04-24 Thu 15:55] =>  2:41
+- Thursday class is over!
+CLOCK: [2014-04-22 Tue 13:31]--[2014-04-22 Tue 16:00] =>  2:29
+- Tuesday is done and over with
+:END:
+
