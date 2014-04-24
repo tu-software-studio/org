@@ -4,62 +4,187 @@
 #+STARTUP: content indent logdrawer lognoteclock-out lognotedone
 
 * WORDSURV PROJECT LOG                                             :bcaldwel:
-** WEEK 1 (2/11/2014 - 2/17/2014)
+** WEEK 1 (2/11/2014 - 2/18/2014)
+*** Studio Class Time                                            :bcaldwel:
+ :LOGBOOK:
+CLOCK: [2014-02-13 Thu 19:00]--[2014-02-13 Thu 21:22] =>  2:22
+- Missed class time due to Job fair, but made it up later in the day working on emacs and my timelog
+CLOCK: [2014-02-11 Tue 14:00]--[2014-02-11 Tue 16:00] =>  2:00
+- Class time, discussion about project, and starting org mode
 
-
-** WEEK 2 (2/18/2014 - 2/24/2014)
-
-*** TODO Learn more about org mode                               :bcaldwel:
-:LOGBOOK:
-CLOCK: [2014-02-25 Tue 12:12]--[2014-02-25 Tue 13:52] =>  1:40
-- Learned more about org mode from specified org mode tutorial. Not necessarily information related strictly to time logging, but still useful
 :END:
-CLOCK: [2014-02-21 Fri 12:59]--[2014-02-21 Fri 13:50] =>  0:51
-- Learned about how to structure org time log from the org-mode Software Studio documentation.
+*** DONE Org Mode                                                :bcaldwel:
 
-*** DONE Finish Angular Tutorial                                 :bcaldwel:
-CLOSED: [2014-02-25 Tue 11:38]
-- CLOSING NOTE [2014-02-25 Tue 11:38] \\
+CLOSED: [2014-02-16 Sun 20:31]
+:LOGBOOK:
+- CLOSING NOTE [2014-02-16 Sun 20:31] \\
+  Got my timelog setup finally.
+CLOCK: [2014-02-16 Sun 18:05]--[2014-02-16 Sun 20:28] =>  2:23
+- Finished up org mode tutorial and extra research on all the wonders org mode is capable of.
+CLOCK: [2014-02-14 Fri 17:02]--[2014-02-14 Fri 18:49] =>  1:47
+- Started working on org mode tutorial provided on github
+:END:
+*** TODO Learn Emacs                                             :bcaldwel:
+:LOGBOOK:
+CLOCK: [2014-02-15 Sat 13:07]--[2014-02-15 Sat 17:12] =>  4:05
+- Emacs tutorial, as well as some other useful docs on how emacs works. It's gonna take awhile before I actually am able to remember all of this...
+:END:
+** WEEK 2 (2/18/2014 - 2/25/2014)
+*** Studio Class Time                                              :bcaldwel:
+:LOGBOOK:
+CLOCK: [2014-02-20 Thu 14:00]--[2014-02-20 Thu 16:00] =>  2:00
+- Class time. Worked on UX diagrams for websurv.
+CLOCK: [2014-02-18 Tue 14:00]--[2014-02-18 Tue 16:00] =>  2:00
+- Getting started on the project, and finishing setting up my timelog.
+:END:
+*** DONE Learn more about org mode                               :bcaldwel:
+CLOSED: [2014-02-21 Fri 13:53]
+:LOGBOOK:
+- CLOSING NOTE [2014-02-21 Fri 13:53] \\
+  Still learning some things about it, but have the basics nailed down.
+CLOCK: [2014-02-21 Fri 12:59]--[2014-02-21 Fri 13:50] => 0:51
+- Learned about how to structure org time log from the org-mode Software Studio documentation. 
+
+CLOCK: [2014-02-18 Tue 17:12]--[2014-02-18 Tue 18:52] => 1:40
+- Learned more about org mode from specified org mode tutorial. Not necessarily information related strictly to time logging, but still useful. 
+:END:
+*** DONE Angular Tutorial                                          :bcaldwel:
+CLOSED: [2014-02-24 Mon 13:38]
+- CLOSING NOTE [2014-02-24 Mon 13:38] \\
   Finished looking into angular js.
-CLOCK: [2014-02-25 Tue 11:12]--[2014-02-25 Tue 11:36] =>  0:24
+CLOCK: [2014-02-24 Mon 13:12]--[2014-02-24 Mon 13:36] =>  0:24
 *** DONE Updating and organizing timelog                         :bcaldwel:
 CLOSED: [2014-02-25 Tue 12:12]
 :LOGBOOK:
-- CLOSING NOTE [2014-02-25 Tue 12:12] \\
+- CLOSING NOTE [2014-02-25 Tue 13:12] \\
   Pretty small task, but got it done.
-CLOCK: [2014-02-25 Tue 11:54]--[2014-02-25 Tue 12:11] =>  0:17
+CLOCK: [2014-02-25 Tue 12:54]--[2014-02-25 Tue 13:11] =>  0:17
 - Finished setting up logbook stuff, as well as tagging.
 CLOCK: [2014-02-25 Tue 11:51]--[2014-02-25 Tue 11:52] =>  0:01
 - Just seeing how logbook works...
-:END:
 CLOCK: [2014-02-25 Tue 11:44]--[2014-02-25 Tue 11:48] =>  0:04
 - Looking to update emacs...
-** WEEK 3 (2/25/2014 - 3/3/2014)
+:END:
+*** Project Work                                                 :bcaldwel:
+:LOGBOOK:
+CLOCK: [2014-02-22 Sat 13:33]--[2014-02-22 Sat 17:35] =>  4:02
+- Did some work checking code base as well as django documentation. Setting up Django on virtual machine as well as including the DJANGO_SETTINGS_MODULE into postactivate file
+:END:
 
+** WEEK 3 (2/25/2014 - 3/4/2014)
+*** Studio Class Time                                            :bcaldwel:
+:LOGBOOK:
+CLOCK: [2014-02-27 Thu 14:00]--[2014-02-27 Thu 16:00] =>  2:00
+- Learned about nginx server configuration, did some work with refreshing django and looked into nginx
+CLOCK: [2014-02-25 Tue 14:00]--[2014-02-25 Tue 16:00] =>  2:00
+- In class code review
+:END:
+*** Django Refresher                                               :bcaldwel:
+:LOGBOOK:
+CLOCK: [2014-03-01 Sat 8:58]--[2014-03-01 Sat 12:04] =>  3:06
+- Looked at setting up a django server to get started working on project page
+:END:
+*** Project Work                                                 :bcaldwel:
+:LOGBOOK:
+CLOCK: [2014-03-02 Sun 20:34]--[2014-03-02 Sun 22:54] =>  2:20
+- Going through Django tutorial
+CLOCK: [2014-03-03 Mon 20:05]--[2014-03-03 Mon 21:15] =>  1:10
+- Started working on projects page, having problems with DB errors that I'm looking into
+:END:
+*** DONE More Django Fun                                           :bcaldwel:
+CLOSED: [2014-03-03 Mon 23:20]
+:LOGBOOK:
+- CLOSING NOTE [2014-03-03 Mon 23:20] \\
+  Got through some more of the tutorial
+CLOCK: [2014-03-03 Mon 22:18]--[2014-03-03 Mon 23:20] =>  1:02
+- Working on how to link projects page from home page of websurv
+:END:
+** WEEK 4 (3/4/2014 - 3/11/2014)
+*** Studio Class Time                                            :bcaldwel:
+:LOGBOOK:
+CLOCK: [2014-03-06 Thu 14:00]--[2014-03-06 Thu 16:31] =>  2:31
+- Worked some after lab time as well, learned about migrations.
+CLOCK: [2014-03-04 Tue 14:00]--[2014-03-04 Tue 16:00] =>  2:00
+- Work dat. Catching up on working on Projects page, plus more formatting of timelog.
+:END:
+** WEEK 5 (3/11/2014 - 3/18/2014)
+*** Studio Class Time                                            :bcaldwel:
+:LOGBOOK:
+CLOCK: [2014-03-13 Thu 14:00]--[2014-03-13 Thu 16:00] =>  2:00
+- Worked on learning about South and how migrations worked. Customizing my Git setup.
+CLOCK: [2014-03-11 Tue 14:00]--[2014-03-11 Tue 16:00] =>  2:00
+- Ryan Yoccum talked about his experience developing software with AON. Also Q & A with hom about career options.
+:END:
 
-** WEEK 4 (3/4/2014 - 3/10/2014)
+*** Learning some more about South                               :bcaldwel:
+:LOGBOOK:
+CLOCK: [2014-03-15 Sat 13:20]--[2014-03-15 Sat 14:32] =>  1:12
+- Finishing up looking at South documentation for the day.
+CLOCK: [2014-03-15 Sat 12:03]--[2014-03-15 Sat 9:17] =>  2:46
+- Worked some more on the tutorial I found for South. Specifically about data migrations and some commands, as well as how it affects the model.
+CLOCK: [2014-03-14 Fri 17:16]--[2014-03-14 Fri 18:22] =>  1:06
+- Trying to learn some more about South and how migrations work. Just got started today
+:END:
+** WEEK 6 (3/18/2014 - 3/25/2014)
+*** Studio Class Time                                            :bcaldwel:
+:LOGBOOK:
+CLOCK: [2014-03-20 Thu 14:00]--[2014-03-20 Thu 16:00] =>  2:00
+- Learned some more about structuring tests, and Django REST tutorial
+CLOCK: [2014-03-18 Tue 14:00]--[2014-03-18 Tue 16:00] =>  2:00
+- Worked on writing tests
+:END:
+*** DONE Research Django Testing Framework                       :bcaldwel:
+CLOSED: [2014-03-20 Thu 21:59]
+:LOGBOOK:
+- CLOSING NOTE [2014-03-20 Thu 21:59] \\
+  Done with researching for this week.
+CLOCK: [2014-03-20 Thu 19:01]--[2014-03-20 Thu 21:57] =>  2:56
+- Some more work with figuring out testing. DjangoProject site isn't really the best method for me as I'm having trouble understanding what the best way to get started with testing is, or how best to format your tests. Learned about how model tests should be separate from form tests.
+:END:
+** WEEK 7 (3/25/2014 - 4/1/2014)
+*** Spring Break
+** WEEK 8 (4/1/2014 - 4/8/2014)
+*** Studio class Time                                            :bcaldwel:
+:LOGBOOK:
+CLOCK: [2014-04-03 Thu 19:34]--[2014-04-03 Thu 21:36] =>  2:02
+- Spent some time later in the day to make up for missing class due to an interview. Looking at how factory boy works.
+CLOCK: [2014-04-01 Tue 14:00]--[2014-04-01 Tue 16:00] =>  2:00
+- Tuesday class session involved alot of time talking about the course structure and how to make it betterc
+:END:
+*** Testing                                                      :bcaldwel:
+:LOGBOOK:
+CLOCK: [2014-04-07 Mon 20:38]--[2014-04-07 Mon 21:43] =>  1:05
+- Did some review of the code that Justin added over the weekend
+CLOCK: [2014-04-05 Sat 13:12]--[2014-04-05 Sat 16:43] =>  3:31
+- Making some more changes to the current testing code we have. Removal of some unecessary checks with some of the existing tests.
+:END:
+** WEEK 9 (4/8/2014 - 4/15/2014) 
+*** Studio Class Time                                            :bcaldwel:
+:LOGBOOK:
+CLOCK: [2014-04-10 Thu 14:00]--[2014-04-10 Thu 16:00] =>  2:00
+- Started working on dictionary tests
+CLOCK: [2014-04-08 Tue 14:00]--[2014-04-08 Tue 16:00] =>  2:00
+- Group discussion and code walkthrough
+:END:
+*** DONE Understanding Factory Boy Testing                       :bcaldwel:
+CLOSED: [2014-04-12 Sat 12:45]
+:LOGBOOK:
+- CLOSING NOTE [2014-04-12 Sat 12:45] \\
+  I understand Factory boy now
+CLOCK: [2014-04-12 Sat 10:40]--[2014-04-12 Sat 12:43] =>  2:03
+- Finishing up research on Factory boy. Basically useful because it allows you to perform tests without having to call model objects multiple times.
+CLOCK: [2014-04-08 Tue 18:05]--[2014-04-08 Tue 19:08] =>  1:03
+- Looked up some documentation on Factory Boy since I wasn't here last Thursday to learn about it.
+:END:
+*** TODO Writing form tests for Dictionary entries               :bcaldwel:
+:LOGBOOK:
+CLOCK: [2014-04-13 Sun 20:29]--[2014-04-13 Sun 22:31] =>  1:52
+- Got some tests started, but haven't been able to get any to pass at this point...
+CLOCK: [2014-04-13 Sun 18:34]--[2014-04-13 Sun 19:52] =>  1:18
+- Did some work looking up how to structure form tests. Got started on working on the tests for dictionary entries
+:END:
+** WEEK 10 (4/15/2014 - 4/22/2014)
+** WEEK 11 (4/22/14 - 4/29/2014)
 
-
-** WEEK 5 (3/11/2014 - 3/17/2014)
-
-
-** WEEK 6 (3/18/2014 - 3/24/2014)
-
-
-** WEEK 7 (3/25/2014 - 3/31/2014)
-
-
-** WEEK 8 (4/1/2014 - 4/7/2014)
-
-
-** WEEK 9 (4/8/2014 - 4/14/2014)
-
-
-** WEEK 10 (4/15/2014 - 4/21/2014)
-
-
-** WEEK 11 (4/22/14 - 4/28/2014)
-
-
-** WEEK 12 (4/29/14 - 5/5/2014)
+** WEEK 12 (4/29/14 - 5/6/2014)
 
