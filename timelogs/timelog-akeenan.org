@@ -170,7 +170,31 @@ CLOCK: [2014-04-10 Thu 14:12]--[2014-04-10 Thu 16:58] =>  2:46
 - Worked on IPA keyboard
 :END:
 
+* Week10
+** TODO Tues Class 
+:LOGBOOK:
+CLOCK: [2014-04-15 Tue 14:05]--[2014-04-15 Tue 17:53] =>  3:48
+- Made the IPA keyboard work with all text inputs on the page
+  Made the IPA keyboard draggable
+:END:
+** TODO Thurs Class
+:LOGBOOK:
+CLOCK: [2014-04-17 Thu 14:06]--[2014-04-17 Thu 16:29] =>  2:23
+- Worked on placement of the keyboard
+:END:
 
+* Week 11
+** TODO Tues Class
+:LOGBOOK:
+CLOCK: [2014-04-22 Tue 20:00]--[2014-04-23 Wed 02:14] =>  6:14
+- Did a lot of beautifying with all of the pages.
+  Made lists into tables inside panels.
+  Fixed up breadcrumbs.
+CLOCK: [2014-04-22 Tue 16:00]--[2014-04-22 Tue 18:45] =>  2:45
+- Worked on beautifying
+CLOCK: [2014-04-22 Tue 14:10]--[2014-04-22 Tue 15:28] =>  1:18
+- Finished IPA keyboard
+:END:
 * Clocktable
 #+BEGIN: clocktable :maxlevel 2 :scope file
 #+CAPTION: Clock summary at [2014-04-10 Thu 17:17]
