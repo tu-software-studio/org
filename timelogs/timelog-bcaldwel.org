@@ -184,7 +184,25 @@ CLOCK: [2014-04-13 Sun 18:34]--[2014-04-13 Sun 19:52] =>  1:18
 - Did some work looking up how to structure form tests. Got started on working on the tests for dictionary entries
 :END:
 ** WEEK 10 (4/15/2014 - 4/22/2014)
+*** Studio Class Time                                            :bcaldwel:
+:LOGBOOK:
+CLOCK: [2014-04-15 Tue 14:02]--[2014-04-15 Tue 15:56] =>  1:54
+- Had a discussion about Dustin's article involving humility as software developers.
+:END:
 ** WEEK 11 (4/22/14 - 4/29/2014)
-
+*** Studio Class Time                                            :bcaldwel:
+:LOGBOOK:
+CLOCK: [2014-04-24 Thu 14:00]--[2014-04-24 Thu 16:00] =>  2:00
+- Worked a little on testing, and learned about rally
+:END:
+*** Testing                                                      :bcaldwel:
+:LOGBOOK:
+CLOCK: [2014-04-29 Tue 13:01]--[2014-04-29 Tue 14:00] =>  0:59
+- Just spent a little bit before class looking more at rally, as well as discussing with Ryan and Ben about what some changes they made
+CLOCK: [2014-04-28 Mon 19:02]--[2014-04-28 Mon 21:48] =>  2:46
+- Had to scratch my previous changes to pull so I didn't push the error I was having. Working some on figuring out why I'm getting 404 errors for some of the new tests written over the weekend
+CLOCK: [2014-04-26 Sat 10:35]--[2014-04-26 Sat 12:52] =>  2:17
+- Worked on fixing the redirect code for all pages. Got an error that I spent a lot of time debugging involving the dictionary_delete_exists function.
+:END:
 ** WEEK 12 (4/29/14 - 5/6/2014)
 
