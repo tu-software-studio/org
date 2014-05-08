@@ -254,13 +254,6 @@ CLOSED: [2014-03-11 Tue 14:00]
 CLOCK: [2014-03-06 Thu 13:50]--[2014-03-06 Thu 15:56] =>  2:06
 - Git craziness. Done with first iteration.
 :END:
-** IN_PROGRESS Combine/unify my 4 init.el files so stuff makes sense again... :emacs:org:
-:LOGBOOK:
-CLOCK: [2014-03-08 Sat 18:02]--[2014-03-08 Sat 23:10] =>  5:08
-:END:
-:PROPERTIES:
-:Effort:   4:00
-:END:
 ** DONE Read In the Beginning...
 CLOSED: [2014-03-11 Tue 14:00]
 :LOGBOOK:
@@ -288,7 +281,8 @@ CLOSED: [2014-03-12 Wed 23:25]
 CLOCK: [2014-03-12 Wed 22:46]--[2014-03-12 Wed 23:25] =>  0:39
 - Added auto indenting and some other stuff.
 :END:
-** IN_PROGRESS Writing dictionary tests
+** DONE Writing dictionary tests
+CLOSED: [2014-04-16 Wed 21:41]
 :LOGBOOK:
 CLOCK: [2014-03-13 Thu 10:05]--[2014-03-13 Thu 11:14] =>  1:09
 - Solved the dictionary delete test, and fixed indentation errors I made.
@@ -309,8 +303,11 @@ CLOSED: [2014-03-14 Fri 23:15]
 CLOCK: [2014-03-13 Thu 13:54]--[2014-03-13 Thu 15:59] =>  2:05
 - Did stuff with south. Figured out what to do next
 :END:
-** TODO Tests and standardization
+** DONE Tests and standardization
+CLOSED: [2014-04-16 Wed 22:19]
 :LOGBOOK:
+- CLOSING NOTE [2014-04-16 Wed 22:19] \\
+  Cause why not?
 CLOCK: [2014-03-15 Sat 14:41]--[2014-03-15 Sat 18:05] =>  3:24
 - Made some good progress. Still need a standard way of doing urls...
 CLOCK: [2014-03-15 Sat 13:36]--[2014-03-15 Sat 13:50] =>  0:14
@@ -318,7 +315,12 @@ CLOCK: [2014-03-15 Sat 13:36]--[2014-03-15 Sat 13:50] =>  0:14
 CLOCK: [2014-03-14 Fri 23:01]--[2014-03-14 Fri 23:49] =>  0:48
 - Read best practices stuff
 :END:
-** TODO Look at using fixtures for "FactoryGirl"                    :testing:
+** DONE Look at using fixtures for "FactoryGirl"                 :testing:
+CLOSED: [2014-04-15 Tue 23:25]
+:LOGBOOK:
+- CLOSING NOTE [2014-04-15 Tue 23:25] \\
+  Doing it.
+:END:
 *** [[http://toastdriven.com/blog/2011/apr/10/guide-to-testing-in-django/][Testing guide]]
 *** [[https://github.com/rbarrois/factory_boy][Factory boy]]
 *** Coverage
@@ -408,7 +410,8 @@ CLOSED: [2014-04-10 Thu 17:06]
 CLOCK: [2014-04-10 Thu 13:54]--[2014-04-10 Thu 15:56] =>  2:02
 - Looking at Capybara replacements... Project tests.
 :END:
-** IN_PROGRESS Mas tests
+** DONE Mas tests
+CLOSED: [2014-04-15 Tue 23:25]
 :LOGBOOK:
 CLOCK: [2014-04-10 Thu 17:06]--[2014-04-10 Thu 17:57] =>  0:51
 - Got a couple project tests going.
@@ -419,4 +422,119 @@ CLOSED: [2014-04-12 Sat 01:54]
 CLOCK: [2014-04-11 Fri 23:58]--[2014-04-12 Sat 01:54] =>  1:56
 - Read through the tutorial and pull request stuff, as well as some other Git things I didn't know.
 :END:
+* Week 8
+** DONE Tuesday                                                       :class:
+CLOSED: [2014-04-15 Tue 15:55]
+:LOGBOOK:
+CLOCK: [2014-04-15 Tue 14:01]--[2014-04-15 Tue 15:54] =>  1:53
+- Class Tuesday
+:END:
+** DONE Project Tests
+CLOSED: [2014-04-15 Tue 23:25]
+:LOGBOOK:
+CLOCK: [2014-04-15 Tue 22:00]--[2014-04-15 Tue 23:24] =>  1:24
+- Where: Lab
+  Who: None
+  What: Project tests (finished)
+:END:
+** DONE Google Hangouts
+CLOSED: [2014-04-16 Wed 21:59]
+:LOGBOOK:
+CLOCK: [2014-04-16 Wed 21:22]--[2014-04-16 Wed 21:59] =>  0:37
+- Apparently Ryan doesn't exist.
+CLOCK: [2014-04-16 Wed 15:55]--[2014-04-16 Wed 16:12] =>  0:17
+- Still need to get Ryan and John.
+:END:
+** DONE init files
+CLOSED: [2014-04-16 Wed 23:13]
+:LOGBOOK:
+- CLOSING NOTE [2014-04-16 Wed 23:13] \\
+  Found some good stuff, merged everything again. Not easy to keep up with this...
+  Who: Me
+  Where: Math interaction room
+CLOCK: [2014-04-16 Wed 21:59]--[2014-04-16 Wed 23:15] =>  1:16
+:END:
+*** C-M-i for autocomplete
+*** minimap-mode
+** DONE Thursday                                                   :class:
+CLOSED: [2014-04-26 Sat 14:37]
+:LOGBOOK:
+CLOCK: [2014-04-17 Thu 13:34]--[2014-04-17 Thu 15:51] =>  2:17
+- Realized we were redirecting badly, starting fixing it.
+:END:
+*** Found incorrect survey add url
+*** Add pages redirect to incorrect detail page
+* Week 9
+** DONE Tuesday                                                    :class:
+CLOSED: [2014-04-24 Thu 14:02]
+:LOGBOOK:
+CLOCK: [2014-04-22 Tue 13:55]--[2014-04-22 Tue 15:51] =>  1:56
+- Did testing things. Learned about Rally
+:END:
+** IN_PROGRESS Fix add pages redirect locations
+:LOGBOOK:
+CLOCK: [2014-04-26 Sat 20:40]--[2014-04-26 Sat 22:55] =>  2:15
+- Alone in the lab. Did some dictionary tests. Stuck on having the POST create the object. Gonna wait for Dustin's stuff.
+CLOCK: [2014-04-26 Sat 15:11]--[2014-04-26 Sat 17:19] =>  2:08
+- Alone in the lab. Added home page tests. Fixed some locations. Corrected urls. Made home page changable by editing ONE location, rather than 2 (or 3?).
+CLOCK: [2014-04-26 Sat 14:26]--[2014-04-26 Sat 15:11] =>  0:45
+- Finished the redirects. Alone in the lab. Onward to tests.
+:END:
+** DONE Figuring out Rally
+CLOSED: [2014-04-23 Wed 19:48]
+:LOGBOOK:
+- CLOSING NOTE [2014-04-23 Wed 19:48] \\
+  I think I've figured out enough for now... It isn't worth it to learn a lot this late in the semester.
+CLOCK: [2014-04-23 Wed 18:11]--[2014-04-23 Wed 19:48] =>  1:37
+CLOCK: [2014-04-23 Wed 10:16]--[2014-04-23 Wed 10:47] =>  0:31
+:END:
+** Thursday                                                           :class:
+:LOGBOOK:
+CLOCK: [2014-04-24 Thu 13:55]--[2014-04-24 Thu 15:50] =>  1:55
+- Worked on Tests and fix_add_redirects. Helped Adam a lot.
+:END:
 
+* Week 10
+** DONE Tuesday                                                    :class:
+CLOSED: [2014-05-01 Thu 14:34]
+:LOGBOOK:
+CLOCK: [2014-04-29 Tue 13:48]--[2014-04-29 Tue 15:55] =>  2:07
+- Testing. Broke my blocked-ness.
+:END:
+** IN_PROGRESS Thursday                                            :class:
+:LOGBOOK:
+CLOCK: [2014-05-01 Thu 14:00]--[2014-05-01 Thu 15:57] =>  1:57
+- Party, chose Jenkins, helped the new testers some.
+:END:
+** TODO Codeship Integration
+:LOGBOOK:
+CLOCK: [2014-05-02 Fri 23:22]--[2014-05-02 Fri 23:38] =>  0:16
+- Confirmed we're doing this one.
+:END:
+** IN_PROGRESS Jenkins Integration
+:LOGBOOK:
+CLOCK: [2014-05-03 Sat 11:00]--[2014-05-03 Sat 18:47] =>  7:47
+- Thought I had Jenkins working... But didn't. Unlikely the plug-in is the issue.
+:END:
+* Week 11
+** DONE Tuesday                                                    :class:
+CLOSED: [2014-05-08 Thu 13:18]
+:LOGBOOK:
+- CLOSING NOTE [2014-05-08 Thu 13:18] \\
+  Got Codeship working. Need to give access to others and get Jenkins/Github webhooks working.
+CLOCK: [2014-05-06 Tue 13:15]--[2014-05-06 Tue 16:29] =>  3:14
+- Set up Rally tasks, got CodeShip working. Learned what I need to do for Jenkins.
+:END:
+** IN_PROGRESS Thursday
+:LOGBOOK:
+CLOCK: [2014-05-08 Thu 13:13]--[2014-05-08 Thu 16:25] =>  3:12
+- Solved the mysterious test problem, went to the Bean to talk w/ Global Engagement people.
+:END:
+** Look forward to doing some analysis stuff
+*** Read documentation
+*** Look at WordSurv 6
+
+
+* Week 12
+* Week 13
+* Week 14
