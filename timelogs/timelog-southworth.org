@@ -471,8 +471,11 @@ CLOSED: [2014-04-24 Thu 14:02]
 CLOCK: [2014-04-22 Tue 13:55]--[2014-04-22 Tue 15:51] =>  1:56
 - Did testing things. Learned about Rally
 :END:
-** IN_PROGRESS Fix add pages redirect locations
+** DONE Fix add pages redirect locations
+CLOSED: [2014-05-13 Tue 13:54]
 :LOGBOOK:
+- CLOSING NOTE [2014-05-13 Tue 13:54] \\
+  Others are in charge now..
 CLOCK: [2014-04-26 Sat 20:40]--[2014-04-26 Sat 22:55] =>  2:15
 - Alone in the lab. Did some dictionary tests. Stuck on having the POST create the object. Gonna wait for Dustin's stuff.
 CLOCK: [2014-04-26 Sat 15:11]--[2014-04-26 Sat 17:19] =>  2:08
@@ -501,18 +504,25 @@ CLOSED: [2014-05-01 Thu 14:34]
 CLOCK: [2014-04-29 Tue 13:48]--[2014-04-29 Tue 15:55] =>  2:07
 - Testing. Broke my blocked-ness.
 :END:
-** IN_PROGRESS Thursday                                            :class:
+** DONE Thursday                                                   :class:
+CLOSED: [2014-05-13 Tue 13:53]
 :LOGBOOK:
 CLOCK: [2014-05-01 Thu 14:00]--[2014-05-01 Thu 15:57] =>  1:57
 - Party, chose Jenkins, helped the new testers some.
 :END:
-** TODO Codeship Integration
+** DONE Codeship Integration
+CLOSED: [2014-05-13 Tue 13:53]
 :LOGBOOK:
+- CLOSING NOTE [2014-05-13 Tue 13:53] \\
+  Everything going? Have Slack and Github integration.
 CLOCK: [2014-05-02 Fri 23:22]--[2014-05-02 Fri 23:38] =>  0:16
 - Confirmed we're doing this one.
 :END:
-** IN_PROGRESS Jenkins Integration
+** DONE Jenkins Integration
+CLOSED: [2014-05-13 Tue 13:53]
 :LOGBOOK:
+- CLOSING NOTE [2014-05-13 Tue 13:53] \\
+  Cancelled. Codeship is easy.
 CLOCK: [2014-05-03 Sat 11:00]--[2014-05-03 Sat 18:47] =>  7:47
 - Thought I had Jenkins working... But didn't. Unlikely the plug-in is the issue.
 :END:
@@ -525,7 +535,8 @@ CLOSED: [2014-05-08 Thu 13:18]
 CLOCK: [2014-05-06 Tue 13:15]--[2014-05-06 Tue 16:29] =>  3:14
 - Set up Rally tasks, got CodeShip working. Learned what I need to do for Jenkins.
 :END:
-** IN_PROGRESS Thursday
+** DONE Thursday
+CLOSED: [2014-05-13 Tue 13:53]
 :LOGBOOK:
 CLOCK: [2014-05-08 Thu 13:13]--[2014-05-08 Thu 16:25] =>  3:12
 - Solved the mysterious test problem, went to the Bean to talk w/ Global Engagement people.
@@ -536,5 +547,10 @@ CLOCK: [2014-05-08 Thu 13:13]--[2014-05-08 Thu 16:25] =>  3:12
 
 
 * Week 12
+** IN_PROGRESS Tuesday                                             :class:
+:LOGBOOK:
+CLOCK: [2014-05-13 Tue 13:52]--[2014-05-13 Tue 16:12] =>  2:20
+- Classss
+:END:
 * Week 13
 * Week 14
