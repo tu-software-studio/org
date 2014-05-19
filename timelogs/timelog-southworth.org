@@ -547,10 +547,24 @@ CLOCK: [2014-05-08 Thu 13:13]--[2014-05-08 Thu 16:25] =>  3:12
 
 
 * Week 12
-** IN_PROGRESS Tuesday                                             :class:
+** DONE Tuesday                                                    :class:
+CLOSED: [2014-05-18 Sun 15:18]
 :LOGBOOK:
+- CLOSING NOTE [2014-05-18 Sun 15:18] \\
+  Class...
 CLOCK: [2014-05-13 Tue 13:52]--[2014-05-13 Tue 16:12] =>  2:20
 - Classss
 :END:
-* Week 13
-* Week 14
+** DONE Thursday
+CLOSED: [2014-05-18 Sun 15:42]
+:LOGBOOK:
+CLOCK: [2014-05-15 Thu 13:55]--[2014-05-15 Thu 16:02] =>  2:07
+- Pizza and pictures.
+:END:
+** IN_PROGRESS Paper
+:LOGBOOK:
+CLOCK: [2014-05-19 Mon 13:10]--[2014-05-19 Mon 13:38] =>  0:28
+- DONE!
+CLOCK: [2014-05-18 Sun 15:19]--[2014-05-18 Sun 22:39] => 7:20
+- Paper
+:END:
